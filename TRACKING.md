@@ -81,6 +81,6 @@ Kirjaa jokainen yksittäinen näytös omana rivinään. Käytä yksilöivänä a
 
 | Elokuva | Kieli / tekstitys | Päivä ja aika (Suomen aikaa) | Teatteri ja paikkakunta | Tila | Liput / järjestäjä-URL | Varmistettu lähde ja tarkistuspäivä |
 |---|---|---|---|---|---|---|
-| — | Ei vielä kirjattuja näytöksiä | — | — | — | — | — |
+| Ramayana | Hindi / englanninkielinen tekstitys | 12.11.2026 klo 19:15 | Finnkino Scala, Kuopio, Sali 6 | Varmistettu; lipunmyyntisivu avautuu | [Finnkino – paikkavalinta](https://www.finnkino.fi/en/tickets/seat-picker/?cinema=1150&showtimeId=1150-9590) | Finnkinon elokuvasivu ja näytöstiedot, tarkistettu 12.11.2026: https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150 | — |
 
 Näytösten tilat: **VARMISTETTU**, **LIPUNMYYNTI AUKI**, **SIIRRETTY**, **PERUTTU**, **LOPPUUNMYYTY** tai **PÄÄTTYNYT**. Älä merkitse näytöstä varmistetuksi kolmannen osapuolen listauksen perusteella.
