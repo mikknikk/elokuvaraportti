@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Intialaisten elokuvien näytökset Suomessa</title>
+    <link>https://mikknikk.github.io/elokuvaraportti/</link>
+    <description>Varmistetut tulevat intialaisten elokuvien näytökset Suomen elokuvateattereissa, festivaaleilla ja erikoistapahtumissa. Jokainen näytös julkaistaan omana RSS-iteminään.</description>
+    <language>fi</language>
+    <lastBuildDate>Thu, 12 Nov 2026 08:00:00 +0200</lastBuildDate>
+  </channel>
+</rss>
