@@ -6,5 +6,12 @@
     <description>Viikoittainen uutiskooste intialaisesta elokuvasta: Telugu, Tamil, Kannada, Malayalam, Hindi ja muut elokuvateollisuudet.</description>
     <language>fi</language>
     <lastBuildDate>Thu, 12 Nov 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>TESTI: RSS-syötteen toimivuus</title>
+      <link>https://mikknikk.github.io/elokuvaraportti/</link>
+      <guid isPermaLink="false">elokuvaraportti-test-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 GMT</pubDate>
+      <description>Tämä on testijulkaisu, jolla tarkistetaan RSS-syötteen toiminta GitHub Pagesissa ja Inoreaderissa. Tämä ei ole oikea uutinen.</description>
+    </item>
   </channel>
 </rss>
