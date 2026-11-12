@@ -107,6 +107,29 @@ YouTube-linkin tulee johtaa juuri kyseisen elokuvan oikeaan videoon. Virallista 
 
 Julisteet upotetaan RSS-artikkeliin kuvina vain, jos käytettävissä on luotettava ja toimiva suora kuvatiedoston URL. YouTube-videot esitetään RSS:ssä tavallisina klikattavina linkkeinä, ei upotettuina soittimina. Sama juliste ja video voidaan esitellä kerran elokuvan yhteydessä, vaikka elokuva mainittaisiin useassa uutisessa.
 
+## Suomi: intialaiselokuvat suomalaisessa mediassa
+
+Jokaisessa päivittäisessä raportissa on oma osio suomalaisessa mediassa julkaistuista intialaisia elokuvia, intialaisia elokuvantekijöitä tai intialaisen elokuvan ilmiöitä käsittelevistä jutuista.
+
+- Seuraa suomalaisia uutis- ja kulttuurimedioita sekä elokuva-alan julkaisuja. Lähtökohtia ovat esimerkiksi Yle, Helsingin Sanomat, Episodi, Elokuvauutiset ja muut SOURCES.md-tiedostoon kirjatut lähteet.
+- Hae sekä elokuvien alkuperäisillä nimillä että Suomessa käytetyillä nimillä, henkilöiden nimillä ja termeillä kuten intialainen elokuva, Bollywood, Tollywood, tamilielokuva ja eteläintialainen elokuva.
+- Sisällytä uutiset, haastattelut, arviot, festivaali- ja levitysuutiset sekä muu toimituksellisesti merkittävä sisältö. Älä listaa pelkkiä somejulkaisuja suomalaisena mediana.
+- Kerro jutun otsikko, media, kirjoittaja ja julkaisupäivä, jos saatavilla, sekä suora linkki. Tiivistä lyhyesti, mitä suomalaisessa jutussa käsitellään.
+- Erota suomalaisen median oma toimituksellinen sisältö ulkomaisen jutun referoinnista tai uutistoimiston materiaalista. Älä esitä samaa juttua useana uutisena.
+- Jos uusia osumia ei löydy, ilmoita se lyhyesti. Älä täytä osiota vanhoilla artikkeleilla.
+
+## Intialaiset elokuvat Suomen elokuvateattereissa
+
+Jokaisessa raportissa tarkistetaan Suomessa järjestettävät tulevat intialaisten elokuvien näytökset. Mukaan kuuluvat tavalliset teatteriesitykset, ennakot, erikoisnäytökset, festivaaliesitykset ja tapahtumanäytökset.
+
+- Käytä näytösten löytämiseen teatterien ja tapahtumajärjestäjien ohjelmistoja sekä Intialaiset elokuvat Suomessa -sivua (SOURCES.md). Jälkimmäinen on löytämisen apuväline, ei lopullinen vahvistus.
+- Tarkista jokainen näytös ensisijaisesti teatterin, festivaalin tai järjestäjän omalta sivulta. Älä lisää näytöstä, jonka päivämäärää, paikkaa ja lipputietoa ei voi varmistaa.
+- Kirjaa elokuvan nimi, kieli, tekstityskieli jos ilmoitettu, päivämäärä ja kellonaika, teatteri, paikkakunta, lipunmyynti-/tapahtumal linkki sekä tiedon tarkistuspäivä.
+- Erota Suomessa ensi-iltaan tuleva elokuva yksittäisestä näytöksestä. Pelkkä ilmoitettu levityspäivä ei ole näytös.
+- Seuraa myös muutoksia: lisänäytökset, loppuunmyynnit jos ne ilmoitetaan, peruutukset, siirrot ja lipunmyynnin avautuminen. Merkitse tilanne ja tarkistusaika.
+- Näytöslistaan otetaan vain tulevat näytökset. Menneet näytökset poistuvat aktiivisesta listasta, mutta ne voidaan säilyttää RSS-historiassa.
+- Jos varmistettuja tulevia näytöksiä ei löydy, kerro se. Älä tulkitse puuttuvaa ohjelmistomerkintää varmaksi näytösten puuttumiseksi kaikista Suomen teattereista.
+
 ## Raportin rakenne
 
 Raportti on itsenäinen, julkaisuvalmis artikkeli. Sen rakenne on mahdollisuuksien mukaan:
@@ -116,7 +139,9 @@ Raportti on itsenäinen, julkaisuvalmis artikkeli. Sen rakenne on mahdollisuuksi
 3. Erityisseurattavat henkilöt – kaikki yhdeksän henkilöä.
 4. Erityisseurattavat elokuvat – kuusi projektia.
 5. Huhut ja ristiriitaiset tiedot erillään vahvistetuista uutisista.
-6. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
+6. Suomalaisen median intialaiselokuvia koskevat jutut.
+7. Intialaisten elokuvien tulevat näytökset Suomen elokuvateattereissa.
+8. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
 
 Raportissa käytetään selkeää otsikointia, päiväystä, informatiivista aloitusta, väliotsikoita, kappalejakoa, lihavointeja, kursivointeja ja tarvittaessa luetteloita. Pituus määräytyy uutistarjonnan mukaan.
 
@@ -124,9 +149,11 @@ Raportissa käytetään selkeää otsikointia, päiväystä, informatiivista alo
 
 Raportit julkaistaan GitHub Pagesin RSS-syötteessä:
 
-**[https://mikknikk.github.io/elokuvaraportti/feed.xml](https://mikknikk.github.io/elokuvaraportti/feed.xml)**
+**Päivittäinen uutiskooste:** [feed.xml](https://mikknikk.github.io/elokuvaraportti/feed.xml)  
+**Suomen näytökset:** [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml)
 
 - Yksi RSS `<item>` vastaa yhtä kokonaista päivittäistä raporttia.
+- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yksittäiset varmistetut suomalaiset intialaiselokuvien näytöstapahtumat omina itemeinään. Päivitä sitä vain, kun näytös lisätään tai sen tiedot muuttuvat; säilytä aiemmat itemit arkistohistoriana.
 - `<description>` sisältää koko artikkelin HTML-muotoiluna, ei pelkkää ingressiä tai lyhennelmää.
 - Otsikot, väliotsikot, kappaleet, lihavoinnit, kursivoinnit, luettelot, julistekuvat ja YouTube-linkit säilytetään mahdollisuuksien mukaan.
 - Uutislähteet kootaan artikkelin loppuun linkkiluetteloksi.
@@ -150,5 +177,7 @@ Raportoinnin työvälineinä käytetään kahta ylläpidettävää tiedostoa:
 - [TRACKING.md](TRACKING.md) sisältää henkilöiden ja erityisseurattavien projektien jatkuvan seurannan rakenteen, uutistapahtumien historiakirjan sekä juliste-, video- ja lipputulolähteiden kirjausohjeet.
 
 Uusia lähteitä lisätään vasta, kun niiden toimituksellinen tausta ja käyttökelpoisuus on arvioitu. Seurantalokia päivitetään vain lähteistetyillä muutoksilla. Puuttuvaa historiaa ei täytetä arvauksilla. Tärkeiden uutisten riippumattomuus arvioidaan alkuperäislähteiden ja lähdeketjujen, ei pelkän julkaisujen lukumäärän perusteella.
+
+Suomen mediaosumien ja näytösten lähteet sekä tarkistusohjeet on kirjattu [SOURCES.md](SOURCES.md)-tiedostoon. Näytösten tila- ja muutostiedot kirjataan [TRACKING.md](TRACKING.md)-tiedostoon.
 
 Lipputuloissa erotetaan markkina-alue, brutto/netto, aikajakso ja arvioiden/virallisten lukujen status. Julisteiden ja videoiden lähde sekä julkaisija tarkistetaan ja kirjataan.
