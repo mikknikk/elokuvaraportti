@@ -102,3 +102,11 @@ Jokaisesta näytösitemistä säilytetään alkuperäinen ilmoituslinkki, ilmoit
 | FinBolly Movies | [Facebook](https://www.facebook.com/Finbollymovies) | Seurattava; tarkista julkiset postaukset ja tapahtumalinkit |
 | FinTamil Movies | Facebook – sivu haettava nimellä | Täsmällistä URL-osoitetta ei ole vahvistettu; älä arvaa |
 | Rasa Entertainment | [Facebook](https://www.facebook.com/298328530028338/) | Seurattava; julkisia julkaisuja voidaan löytää myös FindGlocal-sivun kautta |
+
+
+### Hakukierros 12.11.2026 – Ramayana Suomen teattereissa
+
+- Näytös-RSS:ään lisättiin 29 yksittäistä Ramayana-näytöstä aikavälille 12.–18.11.2026.
+- Lähdejakauma: 2 Finnkinon omasta ohjelmistosta (Plaza Oulu ja Scala Kuopio) ja 27 Kinoon.fi:n kolmannen osapuolen esityslistauksesta. Kolmannen osapuolen itemit on merkitty RSS:ssä näkyvästi.
+- Kino Myyrin omaa ohjelmistoa tarkistettiin 12.–19.11.2026: näille päiville ei löytynyt intialaisen elokuvan näytöstä. Kinoon.fi:n aiempi listaus kertoo Ramayanan näytöksestä Kino Myyrissä 7.11.2026; se on jo mennyt eikä kuulu aktiiviseen tulevien näytösten feediin.
+- Lähteet: [Finnkino Ramayana / Oulu](https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107), [Finnkino Ramayana / Scala Kuopio](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150), [Kinoon.fi – Ramayana esitysajat](https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa), [Kino Myyri – ohjelmisto](https://kinomyyri.fi/ohjelmisto/).
