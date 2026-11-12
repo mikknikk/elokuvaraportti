@@ -3,42 +3,66 @@
   <channel>
     <title>Intialaisten elokuvien näytökset Suomessa</title>
     <link>https://mikknikk.github.io/elokuvaraportti/</link>
-    <description>Suomessa ilmoitetut intialaisten elokuvien näytökset. Yksi item elokuvaa kohti; näytöskohtaiset klikattavat lähdelinkit ja vahvistustasot ovat itemin kuvauksessa.</description>
+    <description>Suomessa ilmoitetut intialaisten elokuvien näytökset. Yksi item elokuvaa kohti; näytökset on ryhmitelty paikkakunnittain ja lähteet linkitetty suoraan riveille.</description>
     <language>fi</language>
     <lastBuildDate>Thu, 12 Nov 2026 16:18:00 +0200</lastBuildDate>
     <item>
       <title>Ramayana – näytökset Suomessa (12.11.2026–18.11.2026)</title>
-      <description><![CDATA[<p><strong>Elokuva:</strong> Ramayana</p><p>Kaikki tähän mennessä löydetyt näytökset. Näytöskohtainen vahvistustaso ja klikattava lähdelinkki on merkitty erikseen.</p><ul>
-<li><strong>12.11.2026 klo 17.00 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>12.11.2026 klo 18.50 (Suomen aikaa)</strong> – Finnkino Plaza Oulu<br><strong>Tila:</strong> TEATTERIN VAHVISTAMA.<br><strong>Lähde (Finnkino):</strong> <a href="https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107">näytösaikaluettelo</a></li>
-<li><strong>12.11.2026 klo 19.00 (Suomen aikaa)</strong> – Kinolinna<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>12.11.2026 klo 19.15 (Suomen aikaa)</strong> – Finnkino Scala Kuopio<br><strong>Tila:</strong> TEATTERIN VAHVISTAMA.<br><strong>Lähde (Finnkino):</strong> <a href="https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150">näytösaikaluettelo</a></li>
-<li><strong>12.11.2026 klo 19.50 (Suomen aikaa)</strong> – Finnkino Plevna Tampere<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>12.11.2026 klo 20.00 (Suomen aikaa)</strong> – Finnkino Sello Espoo<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>13.11.2026 klo 20.10 (Suomen aikaa)</strong> – Finnkino Omena Espoo<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>13.11.2026 klo 20.15 (Suomen aikaa)</strong> – Finnkino Itis Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>14.11.2026 klo 13.30 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>14.11.2026 klo 20.00 (Suomen aikaa)</strong> – Finnkino Itis Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>14.11.2026 klo 20.15 (Suomen aikaa)</strong> – BioRex Tripla Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 14.00 (Suomen aikaa)</strong> – BioRex Vaasa<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=vaasa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 16.45 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 17.30 (Suomen aikaa)</strong> – BioRex Seinäjoki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 18.00 (Suomen aikaa)</strong> – Finnkino Plaza Oulu<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 19.00 (Suomen aikaa)</strong> – Finnkino Sello Espoo<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 19.15 (Suomen aikaa)</strong> – Finnkino Itis Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 19.25 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Turku<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>15.11.2026 klo 19.45 (Suomen aikaa)</strong> – Finnkino Plevna Tampere<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>16.11.2026 klo 19.00 (Suomen aikaa)</strong> – Finnkino Scala Kuopio<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>16.11.2026 klo 19.45 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>16.11.2026 klo 20.00 (Suomen aikaa)</strong> – Finnkino Itis Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>17.11.2026 klo 18.50 (Suomen aikaa)</strong> – Finnkino Plaza Oulu<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>17.11.2026 klo 19.10 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Turku<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>17.11.2026 klo 19.30 (Suomen aikaa)</strong> – Finnkino Plevna Tampere<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>17.11.2026 klo 19.45 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>17.11.2026 klo 20.00 (Suomen aikaa)</strong> – Finnkino Itis Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>18.11.2026 klo 19.45 (Suomen aikaa)</strong> – BioRex Tripla Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-<li><strong>18.11.2026 klo 20.00 (Suomen aikaa)</strong> – Finnkino Kinopalatsi Helsinki<br><strong>Tila:</strong> KOLMANNEN OSAPUOLEN ILMOITTAMA – ei teatterin omasta ohjelmistosta vahvistettu.<br><strong>Lähde (Kinoon):</strong> <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">näytösaikaluettelo</a></li>
-</ul><p>Tarkista mahdolliset muutokset lähdesivulta ennen lipun ostamista.</p>]]></description>
+      <description><![CDATA[<p><strong>Ramayana</strong></p>
+<h3>Pääkaupunkiseutu</h3>
+<ul>
+<li>12.11. klo 17.00 – Finnkino Kinopalatsi Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>12.11. klo 20.00 – Finnkino Sello Espoo · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>13.11. klo 20.10 – Finnkino Omena Espoo · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>13.11. klo 20.15 – Finnkino Itis Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>14.11. klo 13.30 – Finnkino Kinopalatsi Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>14.11. klo 20.00 – Finnkino Itis Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>14.11. klo 20.15 – BioRex Tripla Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>15.11. klo 16.45 – Finnkino Kinopalatsi Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>15.11. klo 19.00 – Finnkino Sello Espoo · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>15.11. klo 19.15 – Finnkino Itis Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>16.11. klo 19.45 – Finnkino Kinopalatsi Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>16.11. klo 20.00 – Finnkino Itis Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>17.11. klo 19.45 – Finnkino Kinopalatsi Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>17.11. klo 20.00 – Finnkino Itis Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>18.11. klo 19.45 – BioRex Tripla Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>18.11. klo 20.00 – Finnkino Kinopalatsi Helsinki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+</ul>
+<h3>Kuopio</h3>
+<ul>
+<li>12.11. klo 19.15 – Finnkino Scala Kuopio · <a href="https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150">Finnkino</a></li>
+<li>16.11. klo 19.00 – Finnkino Scala Kuopio · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+</ul>
+<h3>Oulu</h3>
+<ul>
+<li>12.11. klo 18.50 – Finnkino Plaza Oulu · <a href="https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107">Finnkino</a></li>
+<li>15.11. klo 18.00 – Finnkino Plaza Oulu · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>17.11. klo 18.50 – Finnkino Plaza Oulu · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+</ul>
+<h3>Seinäjoki</h3>
+<ul>
+<li>15.11. klo 17.30 – BioRex Seinäjoki · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+</ul>
+<h3>Tampere</h3>
+<ul>
+<li>12.11. klo 19.50 – Finnkino Plevna Tampere · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>15.11. klo 19.45 – Finnkino Plevna Tampere · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>17.11. klo 19.30 – Finnkino Plevna Tampere · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+</ul>
+<h3>Turku</h3>
+<ul>
+<li>15.11. klo 19.25 – Finnkino Kinopalatsi Turku · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+<li>17.11. klo 19.10 – Finnkino Kinopalatsi Turku · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+</ul>
+<h3>Vaasa</h3>
+<ul>
+<li>15.11. klo 14.00 – BioRex Vaasa · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=vaasa">Kinoon</a></li>
+</ul>
+<h3>Paikkakunta ilmoittamatta</h3>
+<ul>
+<li>12.11. klo 19.00 – Kinolinna · <a href="https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa">Kinoon</a></li>
+</ul>
+<p>Tarkista mahdolliset muutokset lähdesivulta ennen lipun ostamista.</p>]]></description>
       <pubDate>Thu, 12 Nov 2026 16:18:00 +0200</pubDate>
       <guid isPermaLink="false">ramayana-screenings-2026-11-12</guid>
     </item>
