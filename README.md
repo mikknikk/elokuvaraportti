@@ -124,7 +124,7 @@ Jokaisessa raportissa tarkistetaan Suomessa järjestettävät tulevat intialaist
 
 - Käytä näytösten löytämiseen teatterien ja tapahtumajärjestäjien ohjelmistoja sekä Intialaiset elokuvat Suomessa -sivua (SOURCES.md). Jälkimmäinen on löytämisen apuväline, ei lopullinen vahvistus.
 - Tarkista jokainen näytös ensisijaisesti teatterin, festivaalin tai järjestäjän omalta sivulta. Älä lisää näytöstä, jonka päivämäärää, paikkaa ja lipputietoa ei voi varmistaa.
-- Kirjaa elokuvan nimi, kieli, tekstityskieli jos ilmoitettu, päivämäärä ja kellonaika, teatteri, paikkakunta, lipunmyynti-/tapahtumal linkki sekä tiedon tarkistuspäivä.
+- Kirjaa elokuvan nimi, kieli, tekstityskieli jos ilmoitettu, päivämäärä ja kellonaika, teatteri, paikkakunta, lipunmyynti-/tapahtumalinkki sekä tiedon tarkistuspäivä.
 - Erota Suomessa ensi-iltaan tuleva elokuva yksittäisestä näytöksestä. Pelkkä ilmoitettu levityspäivä ei ole näytös.
 - Seuraa myös muutoksia: lisänäytökset, loppuunmyynnit jos ne ilmoitetaan, peruutukset, siirrot ja lipunmyynnin avautuminen. Merkitse tilanne ja tarkistusaika.
 - Näytöslistaan otetaan vain tulevat näytökset. Menneet näytökset poistuvat aktiivisesta listasta, mutta ne voidaan säilyttää RSS-historiassa.
