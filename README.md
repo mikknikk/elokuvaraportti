@@ -123,8 +123,10 @@ Jokaisessa päivittäisessä raportissa on oma osio suomalaisessa mediassa julka
 Jokaisessa raportissa tarkistetaan Suomessa järjestettävät tulevat intialaisten elokuvien näytökset. Mukaan kuuluvat tavalliset teatteriesitykset, ennakot, erikoisnäytökset, festivaaliesitykset ja tapahtumanäytökset.
 
 - Käytä näytösten löytämiseen teatterien ja tapahtumajärjestäjien ohjelmistoja sekä Intialaiset elokuvat Suomessa -sivua (SOURCES.md). Jälkimmäinen on löytämisen apuväline, ei lopullinen vahvistus.
-- Tarkista jokainen näytös ensisijaisesti teatterin, festivaalin tai järjestäjän omalta sivulta. Älä lisää näytöstä, jonka päivämäärää, paikkaa ja lipputietoa ei voi varmistaa.
-- Kirjaa elokuvan nimi, kieli, tekstityskieli jos ilmoitettu, päivämäärä ja kellonaika, teatteri, paikkakunta, lipunmyynti-/tapahtumalinkki sekä tiedon tarkistuspäivä.
+- Näytös voidaan lisätä myös kolmannen osapuolen ilmoituksen perusteella. Teatterin omaa ohjelmistomerkintää ei enää vaadita, jos luotettava kolmannen osapuolen lähde yksilöi vähintään elokuvan, päivämäärän, kellonajan ja paikan. Merkitse tällöin tila **KOLMANNEN OSAPUOLEN ILMOITTAMA** ja lisää suora lähdelinkki, julkaisija sekä tarkistuspäivä. Älä esitä sitä teatterin vahvistamana.
+- Suosi silti teatterin, festivaalin tai järjestäjän omaa ohjelmistoa, jos se on saatavilla. Ristiriitaiset tiedot kirjataan erikseen; älä arvaa puuttuvia tietoja.
+- Kirjaa elokuvan nimi, kieli, tekstityskieli jos ilmoitettu, päivämäärä ja kellonaika, teatteri, paikkakunta, lipunmyynti-/tapahtumalinkki, ilmoittaja, alkuperäisen julkaisun päiväys jos saatavilla sekä tiedon tarkistuspäivä.
+- Käytä tilamerkintöjä **TEATTERIN VAHVISTAMA**, **JÄRJESTÄJÄN ILMOITTAMA** tai **KOLMANNEN OSAPUOLEN ILMOITTAMA**. Kolmannen osapuolen ilmoitus riittää mukaanottoon, kun tapahtuman perustiedot yksilöityvät. Lähdetyyppi on aina näytettävä RSS-itemissä.
 - Erota Suomessa ensi-iltaan tuleva elokuva yksittäisestä näytöksestä. Pelkkä ilmoitettu levityspäivä ei ole näytös.
 - Seuraa myös muutoksia: lisänäytökset, loppuunmyynnit jos ne ilmoitetaan, peruutukset, siirrot ja lipunmyynnin avautuminen. Merkitse tilanne ja tarkistusaika.
 - Näytöslistaan otetaan vain tulevat näytökset. Menneet näytökset poistuvat aktiivisesta listasta, mutta ne voidaan säilyttää RSS-historiassa.
@@ -153,7 +155,7 @@ Raportit julkaistaan GitHub Pagesin RSS-syötteessä:
 **Suomen näytökset:** [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml)
 
 - Yksi RSS `<item>` vastaa yhtä kokonaista päivittäistä raporttia.
-- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yksittäiset varmistetut suomalaiset intialaiselokuvien näytöstapahtumat omina itemeinään. Päivitä sitä vain, kun näytös lisätään tai sen tiedot muuttuvat; säilytä aiemmat itemit arkistohistoriana.
+- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yksittäiset suomalaiset intialaiselokuvien näytöstapahtumat omina itemeinään, myös kolmannen osapuolen ilmoittamat. Jokaisessa itemissä kerrotaan lähteen tyyppi ja suora lähdelinkki. Päivitä sitä, kun näytös lisätään tai sen tiedot muuttuvat; säilytä aiemmat itemit arkistohistoriana.
 - `<description>` sisältää koko artikkelin HTML-muotoiluna, ei pelkkää ingressiä tai lyhennelmää.
 - Otsikot, väliotsikot, kappaleet, lihavoinnit, kursivoinnit, luettelot, julistekuvat ja YouTube-linkit säilytetään mahdollisuuksien mukaan.
 - Uutislähteet kootaan artikkelin loppuun linkkiluetteloksi.
