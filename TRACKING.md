@@ -79,8 +79,26 @@ Kun lipputulot ovat uutisen kannalta olennaisia, kirjaa vähintään:
 
 Kirjaa jokainen yksittäinen näytös omana rivinään. Käytä yksilöivänä avaimena elokuvaa + teatteria + näytöksen alkuaikaa. Päivitä samaa riviä, jos näytös siirtyy tai peruuntuu.
 
-| Elokuva | Kieli / tekstitys | Päivä ja aika (Suomen aikaa) | Teatteri ja paikkakunta | Tila | Liput / järjestäjä-URL | Varmistettu lähde ja tarkistuspäivä |
+| Elokuva | Kieli / tekstitys | Päivä ja aika (Suomen aikaa) | Teatteri ja paikkakunta | Tila / varmuus | Liput / järjestäjä-URL | Tiedon lähde, julkaisupäivä ja tarkistuspäivä |
 |---|---|---|---|---|---|---|
-| Ramayana | Hindi / englanninkielinen tekstitys | 12.11.2026 klo 19:15 | Finnkino Scala, Kuopio, Sali 6 | Varmistettu; lipunmyyntisivu avautuu | [Finnkino – paikkavalinta](https://www.finnkino.fi/en/tickets/seat-picker/?cinema=1150&showtimeId=1150-9590) | Finnkinon elokuvasivu ja näytöstiedot, tarkistettu 12.11.2026: https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150 | — |
+| Ramayana | Hindi / englanninkielinen tekstitys | 12.11.2026 klo 19:15 | Finnkino Scala, Kuopio, Sali 6 | TEATTERIN VAHVISTAMA | [Finnkino – elokuvasivu](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150) | Finnkinon oma ohjelmisto, tarkistettu 12.11.2026 |
 
 Näytösten tilat: **VARMISTETTU**, **LIPUNMYYNTI AUKI**, **SIIRRETTY**, **PERUTTU**, **LOPPUUNMYYTY** tai **PÄÄTTYNYT**. Älä merkitse näytöstä varmistetuksi kolmannen osapuolen listauksen perusteella.
+
+
+### Näytöstietojen varmuusluokat
+
+- **TEATTERIN VAHVISTAMA**: teatterin tai lipunmyynnin omassa ohjelmistossa.
+- **JÄRJESTÄJÄN ILMOITTAMA**: festivaalin, tapahtumajärjestäjän tai levittäjän omassa julkaisussa, vaikka teatterin ohjelmistoa ei vielä löytyisi.
+- **KOLMANNEN OSAPUOLEN ILMOITTAMA**: luotettavaksi arvioidun ulkopuolisen listauksen, median tai muun sivuston ilmoitus. Tämä riittää RSS-julkaisuun, mutta lähde ja sen kolmannen osapuolen asema on tuotava näkyvästi esiin.
+- **EPÄVARMA / VAHVISTAMATON**: epäselvä lähde tai puutteelliset tapahtumatiedot. Älä lisää aktiiviseen näytös-RSS:ään ennen kuin vähintään elokuva, päivä, kellonaika ja paikka ovat yksilöitävissä.
+
+Jokaisesta näytösitemistä säilytetään alkuperäinen ilmoituslinkki, ilmoittaja, lähdetyyppi, julkaisupäivä (jos näkyvissä), tarkistuspäivä ja mahdollinen teatterin oma vahvistus. Älä merkitse kolmannen osapuolen ilmoitusta teatterin vahvistamaksi. Jos tiedot poikkeavat eri lähteissä, lisää ristiriita näkyviin ja älä yhdistä tietoja arvaamalla.
+
+### Levittäjien some-seuranta
+
+| Toimija | Kanava | Tila / lisätieto |
+|---|---|---|
+| FinBolly Movies | [Facebook](https://www.facebook.com/Finbollymovies) | Seurattava; tarkista julkiset postaukset ja tapahtumalinkit |
+| FinTamil Movies | Facebook – sivu haettava nimellä | Täsmällistä URL-osoitetta ei ole vahvistettu; älä arvaa |
+| Rasa Entertainment | [Facebook](https://www.facebook.com/298328530028338/) | Seurattava; julkisia julkaisuja voidaan löytää myös FindGlocal-sivun kautta |
