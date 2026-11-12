@@ -5,6 +5,21 @@
     <link>https://mikknikk.github.io/elokuvaraportti/</link>
     <description>Varmistetut tulevat intialaisten elokuvien näytökset Suomen elokuvateattereissa, festivaaleilla ja erikoistapahtumissa. Jokainen näytös julkaistaan omana RSS-iteminään.</description>
     <language>fi</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:14:00 +0200</lastBuildDate>
+    <item>
+      <title>Ramayana – Kuopio, Finnkino Scala – 12.11.2026 klo 19.15</title>
+      <link>https://www.finnkino.fi/en/tickets/seat-picker/?cinema=1150&amp;showtimeId=1150-9590</link>
+      <description><![CDATA[
+        <p><strong>Elokuva:</strong> Ramayana</p>
+        <p><strong>Näytös:</strong> torstai 12.11.2026 klo 19.15 (Suomen aikaa)</p>
+        <p><strong>Teatteri:</strong> Finnkino Scala, Sali 6, Ajurinkatu 16, 70110 Kuopio</p>
+        <p><strong>Puhekieli:</strong> hindi. <strong>Tekstitys:</strong> englanti.</p>
+        <p><strong>Liput:</strong> <a href="https://www.finnkino.fi/en/tickets/seat-picker/?cinema=1150&amp;showtimeId=1150-9590">Avaa Finnkinon paikkavalinta ja lipunmyynti</a>.</p>
+        <p><strong>Varmistus:</strong> Finnkinon virallinen elokuvasivu ja näytöstiedot, tarkistettu 12.11.2026. Levittäjä: SF Film Finland Oy. Elokuvan ilmoitettu kesto 3 h 14 min.</p>
+        <p><a href="https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150">Finnkinon Ramayana-sivu ja näytösajat</a>.</p>
+      ]]></description>
+      <pubDate>Thu, 12 Nov 2026 16:14:00 +0200</pubDate>
+      <guid isPermaLink="false">ramayana-finnkino-scala-kuopio-2026-11-12T19:15</guid>
+    </item>
   </channel>
 </rss>
