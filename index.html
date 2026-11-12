@@ -3,11 +3,108 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Päivittäinen suomenkielinen katsaus intialaisen elokuvan uutisiin eri kielialueilta.">
   <title>Intialaisen elokuvan uutiskooste</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f7f9;
+      --surface: #ffffff;
+      --text: #20242b;
+      --muted: #596273;
+      --line: #dfe3e8;
+      --link: #2459a6;
+      --accent: #e9eef8;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #14171c;
+        --surface: #1d222a;
+        --text: #edf0f5;
+        --muted: #b3bdcb;
+        --line: #343c48;
+        --link: #9bbcff;
+        --accent: #273449;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 2.5rem 1rem;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.65 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    main {
+      max-width: 850px;
+      margin: 0 auto;
+      padding: clamp(1.25rem, 4vw, 2.5rem);
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      box-shadow: 0 8px 30px rgba(0,0,0,.06);
+    }
+    h1 { margin: 0 0 .5rem; line-height: 1.2; font-size: clamp(2rem, 5vw, 3rem); }
+    h2 { margin: 2rem 0 .5rem; font-size: 1.25rem; }
+    p { margin: .6rem 0; }
+    .intro { color: var(--muted); font-size: 1.1rem; }
+    .schedule {
+      display: inline-block;
+      margin: 1rem 0;
+      padding: .4rem .75rem;
+      border-radius: 999px;
+      background: var(--accent);
+      font-size: .92rem;
+      font-weight: 600;
+    }
+    a { color: var(--link); }
+    .feed {
+      display: inline-block;
+      margin: .4rem 0 1rem;
+      padding: .7rem 1rem;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      font-weight: 650;
+      text-decoration: none;
+    }
+    .feed:hover { text-decoration: underline; }
+    ul { padding-left: 1.3rem; }
+    li { margin: .25rem 0; }
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
+  </style>
 </head>
 <body>
-  <h1>Intialaisen elokuvan uutiskooste</h1>
-  <p>Viikoittainen kooste intialaisen elokuvan uutisista.</p>
-  <p><a href="feed.xml">RSS-syöte</a></p>
+  <main>
+    <h1>Intialaisen elokuvan uutiskooste</h1>
+    <p class="intro">Päivittäinen suomenkielinen katsaus intialaisen elokuvan tärkeimpiin uutisiin – eri kielialueet, elokuvateollisuudet ja tekijät huomioiden.</p>
+    <p class="schedule">Uusi raportti päivittäin klo 8.00 · Suomen aikaa</p>
+
+    <p><a class="feed" href="feed.xml">Avaa RSS-syöte</a></p>
+
+    <h2>Mitä raportti seuraa?</h2>
+    <p>Kooste kattaa telugu-, tamil-, kannada-, malayalam-, hindi-, bengali-, marathi- ja punjabielokuvan sekä muut merkittävät alueelliset elokuvateollisuudet. Uutisissa painotetaan uusia elokuvia ja roolituksia, tuotantojen etenemistä, trailereita, julkaisupäiviä, lipputuloja, suoratoistoa, palkintoja ja alan merkittäviä tapahtumia.</p>
+
+    <h2>Erityisseurannassa</h2>
+    <p><strong>Tekijät:</strong> S. S. Rajamouli, Allu Arjun, Ram Charan, Kajal Aggarwal, Chiranjeevi, Rajinikanth, Upendra, Kamal Haasan ja Prabhas.</p>
+    <p><strong>Elokuvat:</strong> <i>Varanasi</i>, <i>Raaka</i>, <i>Kalki 2898 AD 2</i>, <i>Salaar 2</i>, <i>Spirit</i> ja <i>Fauzi</i>.</p>
+
+    <h2>Julisteet, trailerit ja lähteet</h2>
+    <p>Raporttiin liitetään mahdollisuuksien mukaan elokuvien luotettavat julisteet sekä suorat YouTube-linkit virallisiin trailereihin, teasereihin, motion postereihin tai muuhun markkinointimateriaaliin. Uutiset erotellaan virallisesti vahvistettuihin, median raportoimiin ja vahvistamattomiin tietoihin. Lähteet linkitetään artikkeleissa.</p>
+
+    <h2>Toimitukselliset periaatteet</h2>
+    <ul>
+      <li>Raportoi ensisijaisesti edellisen raportin jälkeen julkaistut uutiset.</li>
+      <li>Suosi virallisia lähteitä ja luotettavia paikallisia medioita, myös alkuperäiskielisiä lähteitä.</li>
+      <li>Erota vahvistetut tiedot, mediaraportit ja huhut toisistaan.</li>
+      <li>Älä kierrätä vanhoja uutisia tai täytä raporttia vähäpätöisillä aiheilla.</li>
+      <li>Jos uutta merkittävää tietoa ei ole, kerro se avoimesti.</li>
+    </ul>
+
+    <p>Raportin laajempi kuvaus, seurattavat aiheet ja julkaisukäytäntö löytyvät projektin <a href="https://github.com/mikknikk/elokuvaraportti/blob/main/README.md">README-dokumentaatiosta</a>.</p>
+
+    <footer>
+      <p>Raportit ovat uutislähteisiin perustuvia toimituksellisia koosteita. Huhut ja alustavat lipputuloarviot merkitään erikseen, eikä niitä tule tulkita virallisiksi vahvistuksiksi.</p>
+    </footer>
+  </main>
 </body>
 </html>
