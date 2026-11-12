@@ -67,3 +67,20 @@ Kun lipputulot ovat uutisen kannalta olennaisia, kirjaa vähintään:
 - vertailukelpoinen aiempi luku ja sen lähde.
 
 Älä laske eri lähteiden, alueiden, valuuttojen tai brutto/netto-lukujen arvoja yhteen ilman perusteltua ja näkyvää menetelmää.
+
+
+## Suomalaisen median seuranta
+
+| Julkaisupäivä | Media | Jutun otsikko ja aihe | Juttutyyppi | Alkuperäinen lähde / riippuvuudet | URL | Viimeksi tarkistettu |
+|---|---|---|---|---|---|---|
+| — | Ei vielä kirjattuja osumia | Aloita seuraavasta raportista | — | — | — | — |
+
+## Suomen näytösten seuranta
+
+Kirjaa jokainen yksittäinen näytös omana rivinään. Käytä yksilöivänä avaimena elokuvaa + teatteria + näytöksen alkuaikaa. Päivitä samaa riviä, jos näytös siirtyy tai peruuntuu.
+
+| Elokuva | Kieli / tekstitys | Päivä ja aika (Suomen aikaa) | Teatteri ja paikkakunta | Tila | Liput / järjestäjä-URL | Varmistettu lähde ja tarkistuspäivä |
+|---|---|---|---|---|---|---|
+| — | Ei vielä kirjattuja näytöksiä | — | — | — | — | — |
+
+Näytösten tilat: **VARMISTETTU**, **LIPUNMYYNTI AUKI**, **SIIRRETTY**, **PERUTTU**, **LOPPUUNMYYTY** tai **PÄÄTTYNYT**. Älä merkitse näytöstä varmistetuksi kolmannen osapuolen listauksen perusteella.
