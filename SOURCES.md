@@ -91,6 +91,7 @@ Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Tauluk
 | [BioRex – elokuvat ja näytökset](https://biorex.fi/ELOKUVAT/) | BioRexin teatteriverkoston ohjelmisto ja näytösajat |
 | [Kino Regina](https://kinoregina.fi/) | Arkisto-, erikois- ja festivaalinäytökset |
 | [Cinema Orion](https://www.cinemaorion.fi/) | Erikoisohjelmisto ja tapahtumanäytökset |
+| [Kino Myyri](https://kinomyyri.fi/ohjelmisto/) | Vantaan Myyrmäen elokuvateatterin ohjelmisto ja lipunmyynti; tarkista myös [erikoisnäytökset](https://kinomyyri.fi/erikoisnaytokset/) |
 | [Intialaiset elokuvat Suomessa](https://vuosielokuvissa.wordpress.com/intialaiset-elokuvat-suomessa/) | Intialaiselokuvien Suomen-levityksen ja näytösten erikoisseuranta; käytä löytämiseen ja varmista jokainen tuleva näytös alkuperäiseltä järjestäjältä |
 | [Stadissa – elokuvien ensi-illat](https://www.stadissa.fi/paikat/3174/elokuvien-ensi-illat) | Helsingin teatterien ohjelmistojen löytämisen apulista |
 
