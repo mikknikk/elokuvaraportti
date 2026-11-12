@@ -36,6 +36,18 @@ Jokaisessa raportissa tarkastellaan mahdollisuuksien mukaan seuraavia elokuvateo
 
 Kielialueita ei tarvitse täyttää väkisin uutisilla. Olennaiset uutiset voidaan yhdistää, jos sama tapahtuma koskee useita alueita, mutta alueellinen näkökulma säilytetään.
 
+## Monikielinen lähdehaku
+
+Paikalliskieliset lähteet ovat olennainen osa raportointia, eivät vain englanninkielisen haun täydentäjä. Tietoja tulee hakea myös kyseisten elokuvateollisuuksien omilla kielillä ja alkuperäisillä kirjoitusjärjestelmillä aina, kun se on käytännössä mahdollista.
+
+- Tee hakuja englannin lisäksi esimerkiksi teluguksi, tamiliksi, kannadaksi, malajalamiksi, hindiksi, bengaliksi, marathiksi ja punjabiksi. Laajenna muihin kieliin uutisaiheen mukaan.
+- Käytä sekä alkuperäistä kirjoitusjärjestelmää että translitteroituja kirjoitusasuja. Kokeile henkilöiden, elokuvien, tuotantoyhtiöiden ja keskeisten termien eri kirjoitusasuja ja paikallisia nimimuotoja.
+- Hae alueellisista elokuvajulkaisuista, sanomalehdistä, uutistoimistoista, haastatteluista sekä virallisista tuotantoyhtiöiden ja tekijöiden kanavista. Älä tyydy vain kansainvälisiin tai englanninkielisiin koosteisiin.
+- Käytä paikalliskielisiä hakutermejä ja uutisotsikoita, kun se auttaa löytämään alkuperäisen uutisen. Konekäännös voi auttaa sisällön ymmärtämisessä, mutta nimet, päivämäärät, roolit, lainaukset ja väitteiden sävy tarkistetaan mahdollisuuksien mukaan alkuperäisestä tekstistä.
+- Etsi mahdollisuuksien mukaan alkuperäinen lausunto tai julkaisu, johon paikallinen media viittaa. Toisen median referointi ei itsessään ole virallinen vahvistus.
+- Jos uutinen löytyy vain paikalliskielisestä lähteestä, se voidaan ottaa mukaan: lähteen nimi ja suora linkki säilytetään, ja raportissa kerrotaan suomeksi, mitä lähde väittää. Epäselvä käännös tai tulkinta merkitään epävarmaksi eikä sitä esitetä varmana.
+- Älä tulkitse sitä, ettei englanninkielistä uutista löydy, merkiksi siitä, ettei uutista ole. Vastaavasti yksittäinen paikallinen julkaisu ei yksin riitä vahvistamaan merkittävää huhua.
+
 ## Erityisseuranta: henkilöt
 
 Seuraavien henkilöiden uraan, elokuviin, tuotantoihin, näyttelijäkiinnityksiin, kuvauksiin, julkaisuihin, haastatteluihin ja merkittäviin julkisiin esiintymisiin kiinnitetään erityistä huomiota:
@@ -67,7 +79,7 @@ Seurattavia asioita ovat esimerkiksi tuotannon eteneminen, kuvaukset, näyttelij
 
 ## Lähteet ja tiedon luotettavuus
 
-Haku kattaa englanninkielisten lähteiden lisäksi mahdollisuuksien mukaan paikalliset ja alkuperäiskieliset elokuvamediat. Lähteinä suositaan:
+Haku kattaa englanninkielisten lähteiden lisäksi paikalliset ja alkuperäiskieliset elokuvamediat. Lähteinä suositaan:
 
 - tuotantoyhtiöiden, levittäjien, tekijöiden ja elokuvien virallisia kanavia
 - luotettavia alueellisia elokuvamedioita ja valtakunnallisia uutismedioita
@@ -80,7 +92,9 @@ Uutiset merkitään seuraavilla luokituksilla:
 - **MEDIAN RAPORTOIMA** – uskottava media raportoi tiedon, mutta virallista vahvistusta ei ole löytynyt.
 - **VAHVISTAMATON HUH​​U** – tieto perustuu vahvistamattomaan huhuun tai epävarmaan raportointiin.
 
-Jokaisen uutisen yhteydessä annetaan lähteen nimi, suora linkki ja julkaisupäivä, jos se on saatavilla. Lähteiden väliset ristiriidat tuodaan näkyviin. Lipputuloissa kerrotaan, ovatko luvut arvioita vai virallisia tietoja.
+Jokaisen uutisen yhteydessä annetaan lähteen nimi, suora linkki ja julkaisupäivä, jos se on saatavilla. Erota uutisen julkaisupäivä itse tapahtuman ajankohdasta, jos ne poikkeavat toisistaan. Lähteiden väliset ristiriidat tuodaan näkyviin. Lipputuloissa kerrotaan, ovatko luvut arvioita vai virallisia tietoja, sekä mahdollisuuksien mukaan alue (Intia/ulkomaat/maailmanlaajuinen), brutto/netto ja laskentajakso.
+
+Yhden uutisen useat julkaisut eivät automaattisesti tarkoita useita riippumattomia vahvistuksia. Tarkista, perustuvatko eri mediat samaan alkuperäiseen lähteeseen, tiedotteeseen tai nimettömään sisäpiirilähteeseen. Jos lähteet ovat keskenään ristiriidassa, kerro ero ja vältä valitsemasta yhtä versiota ilman perustetta.
 
 ## Julisteet ja YouTube-materiaali
 
