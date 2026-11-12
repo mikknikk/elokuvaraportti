@@ -2,7 +2,7 @@
 
 Tämä projekti kokoaa suomeksi intialaisen elokuvan uutisia ja julkaisee niistä päivittäisen, pitkämuotoisen artikkelin RSS-syötteessä.
 
-- **Julkaisurytmi:** päivittäin klo 8.00 (Europe/Helsinki).
+- **Julkaisurytmi:** päivittäin klo 2.00 (Europe/Helsinki).
 - **Raportointijakso:** ensisijaisesti edellisen raportin jälkeen julkaistut uutiset / viimeisin vuorokausi.
 - **RSS-syöte:** [feed.xml](https://mikknikk.github.io/elokuvaraportti/feed.xml)
 - **Projektin sivu:** [GitHub Pages](https://mikknikk.github.io/elokuvaraportti/)
@@ -50,7 +50,7 @@ Paikalliskieliset lähteet ovat olennainen osa raportointia, eivät vain englann
 
 ## Erityisseuranta: henkilöt
 
-Seuraavien henkilöiden uraan, elokuviin, tuotantoihin, näyttelijäkiinnityksiin, kuvauksiin, julkaisuihin, haastatteluihin ja merkittäviin julkisiin esiintymisiin kiinnitetään erityistä huomiota:
+Seuraavien kymmenen henkilön uraan, elokuviin, tuotantoihin, näyttelijäkiinnityksiin, kuvauksiin, julkaisuihin, haastatteluihin ja merkittäviin julkisiin esiintymisiin kiinnitetään erityistä huomiota:
 
 1. S. S. Rajamouli
 2. Allu Arjun
@@ -61,8 +61,21 @@ Seuraavien henkilöiden uraan, elokuviin, tuotantoihin, näyttelijäkiinnityksii
 7. Upendra
 8. Kamal Haasan
 9. Prabhas
+10. Brahmanandam
 
 Jokaisessa raportissa käydään henkilöt läpi. Jos raportointijaksolla ei ole olennaista uutta, siitä mainitaan lyhyesti sen sijaan, että vanhoja uutisia kierrätetään.
+
+## Genre- ja teemaperustainen seuranta
+
+Henkilö- ja projektiseurannan rinnalla etsitään koko Intian elokuvateollisuudesta uusia ja kehittyviä projekteja seuraavien kiinnostuksen kohteiden perusteella:
+
+- **Fantasia:** mytologinen ja eeppinen fantasia, kansanperinne sekä yliluonnolliset olennot.
+- **Scifi:** tieteiskuvitelma, avaruus, tulevaisuusteknologia, tekoäly, dystopiat ja vaihtoehtoiset todellisuudet.
+- **Aikamatkustus:** aikamatkat, aikasilmukat, aikajanan muutokset ja rinnakkaiset aikajanat.
+- **Zombit:** zombit, epäkuolleet, tartunta-/epidemiapohjaiset tarinat ja zombikomediat.
+- **Historia ennen vuotta 1800:** muinais-, keski- ja varhaismoderniin aikaan sijoittuvat historialliset tarinat sekä ennen vuotta 1800 eläneiden henkilöiden elämäkerrat ja aikakauden sotadraamat.
+
+Seuranta kattaa kaikki kielialueet, tuotantoyhtiöt ja tekijät. Mukaan otetaan uudet julkistukset ja olennaiset tuotanto-, näyttelijä-, markkinointi- ja julkaisupäivitykset. Genreluokitus perustetaan viralliseen synopsis-/tuotantotietoon tai luotettavaan toimitukselliseen lähteeseen; epävarmaa luokitusta ei esitetä varmana. Mytologinen aihe ei automaattisesti tarkoita fantasiaa. Raportissa on oma **Genre- ja teemat seurannassa** -osio, jossa käsitellään vain uusia tai olennaisesti päivittyneitä löydöksiä.
 
 ## Erityisseuranta: elokuvat
 
@@ -138,12 +151,13 @@ Raportti on itsenäinen, julkaisuvalmis artikkeli. Sen rakenne on mahdollisuuksi
 
 1. Päivän tärkeimmät intialaisen elokuvan uutiset.
 2. Uutiset kielittäin ja elokuvateollisuuksittain.
-3. Erityisseurattavat henkilöt – kaikki yhdeksän henkilöä.
+3. Erityisseurattavat henkilöt – kaikki kymmenen henkilöä.
 4. Erityisseurattavat elokuvat – kuusi projektia.
-5. Huhut ja ristiriitaiset tiedot erillään vahvistetuista uutisista.
-6. Suomalaisen median intialaiselokuvia koskevat jutut.
-7. Intialaisten elokuvien tulevat näytökset Suomen elokuvateattereissa.
-8. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
+5. Genre- ja teemat seurannassa – fantasia, scifi, aikamatkustus, zombit ja ennen vuotta 1800 sijoittuva historia.
+6. Huhut ja ristiriitaiset tiedot erillään vahvistetuista uutisista.
+7. Suomalaisen median intialaiselokuvia koskevat jutut.
+8. Intialaisten elokuvien tulevat näytökset Suomen elokuvateattereissa.
+9. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
 
 Raportissa käytetään selkeää otsikointia, päiväystä, informatiivista aloitusta, väliotsikoita, kappalejakoa, lihavointeja, kursivointeja ja tarvittaessa luetteloita. Pituus määräytyy uutistarjonnan mukaan.
 
