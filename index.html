@@ -10,21 +10,21 @@
       color-scheme: light dark;
       --bg: #f6f7f9;
       --surface: #ffffff;
-      --text: #20242b;
-      --muted: #596273;
-      --line: #dfe3e8;
-      --link: #2459a6;
-      --accent: #e9eef8;
+      --text: #171717;
+      --muted: #454545;
+      --line: #767676;
+      --link: #003a70;
+      --accent: #e8edf4;
     }
     @media (prefers-color-scheme: dark) {
       :root {
         --bg: #14171c;
         --surface: #1d222a;
-        --text: #edf0f5;
-        --muted: #b3bdcb;
-        --line: #343c48;
-        --link: #9bbcff;
-        --accent: #273449;
+        --text: #f5f7fa;
+        --muted: #c7d0da;
+        --line: #66717e;
+        --link: #b8d2ff;
+        --accent: #28384d;
       }
     }
     * { box-sizing: border-box; }
@@ -57,7 +57,14 @@
       font-size: .92rem;
       font-weight: 600;
     }
-    a { color: var(--link); }
+    a { color: var(--link); text-decoration: underline; text-underline-offset: .15em; }
+    a:focus-visible { outline: 3px solid currentColor; outline-offset: 4px; border-radius: 2px; }
+    .skip-link { position: absolute; left: 1rem; top: 1rem; z-index: 10; padding: .75rem 1rem; background: var(--surface); color: var(--text); border: 2px solid currentColor; transform: translateY(-200%); }
+    .skip-link:focus { transform: translateY(0); }
+    @media (forced-colors: active) {
+      main, .feed { border: 1px solid CanvasText; }
+      a:focus-visible { outline: 3px solid Highlight; }
+    }
     .feed {
       display: inline-block;
       margin: .4rem 0 1rem;
@@ -74,12 +81,15 @@
   </style>
 </head>
 <body>
-  <main>
+  <a class="skip-link" href="#main">Siirry pääsisältöön</a>
+  <main id="main" tabindex="-1">
     <h1>Intialaisen elokuvan uutiskooste</h1>
     <p class="intro">Päivittäinen suomenkielinen katsaus intialaisen elokuvan tärkeimpiin uutisiin – eri kielialueet, elokuvateollisuudet ja tekijät huomioiden.</p>
     <p class="schedule">Uusi raportti päivittäin klo 8.00 · Suomen aikaa</p>
 
-    <p><a class="feed" href="feed.xml">Uutiskoosteen RSS</a> <a class="feed" href="naytokset.xml">Suomen näytösten RSS</a></p>
+    <nav aria-label="RSS-syötteet">
+      <p><a class="feed" href="feed.xml">Intialaisen elokuvan uutiskoosteen RSS-syöte</a> <a class="feed" href="naytokset.xml">Suomen intialaiselokuvien näytösten RSS-syöte</a></p>
+    </nav>
 
     <h2>Mitä raportti seuraa?</h2>
     <p>Kooste kattaa telugu-, tamil-, kannada-, malayalam-, hindi-, bengali-, marathi- ja punjabielokuvan sekä muut merkittävät alueelliset elokuvateollisuudet. Uutisissa painotetaan uusia elokuvia ja roolituksia, tuotantojen etenemistä, trailereita, julkaisupäiviä, lipputuloja, suoratoistoa, palkintoja ja alan merkittäviä tapahtumia.</p>
@@ -99,6 +109,9 @@
 
     <h2>Julisteet, trailerit ja lähteet</h2>
     <p>Raporttiin liitetään mahdollisuuksien mukaan elokuvien luotettavat julisteet sekä suorat YouTube-linkit virallisiin trailereihin, teasereihin, motion postereihin tai muuhun markkinointimateriaaliin. Uutiset erotellaan virallisesti vahvistettuihin, median raportoimiin ja vahvistamattomiin tietoihin. Lähteet linkitetään artikkeleissa.</p>
+
+    <h2>Saavutettavuus</h2>
+    <p>Projektin tavoitteena on WCAG 2.2 AAA -tason saavutettavuus kaikilta soveltuvilta osin. Huomioimme muun muassa näppäimistökäytön, ruudunlukijat, tekstin ja linkkien kontrastin, selkeän rakenteen, kuvaavat linkkitekstit, kuvien tekstivastineet sekä mobiili- ja suurennusnäkymät. Tavoitetta ja testauskäytäntöä kuvataan tarkemmin <a href="https://github.com/mikknikk/elokuvaraportti/blob/main/README.md#saavutettavuus--wcag-22-aaa-tavoitetasona">README-dokumentaation saavutettavuusohjeessa</a>; vaatimusten täyttymistä ei väitetä ilman testausta.</p>
 
     <h2>Lähderekisteri ja jatkuva seuranta</h2>
     <p>Raportoinnin lähdehakua tukee kielialueittainen <a href="https://github.com/mikknikk/elokuvaraportti/blob/main/SOURCES.md">lähderekisteri</a>, jossa on paikallismedioiden lähtöpisteitä, alkuperäiskielisiä hakutermejä ja lähteen arviointikriteerit. <a href="https://github.com/mikknikk/elokuvaraportti/blob/main/TRACKING.md">Seurantaloki</a> auttaa seuraamaan henkilöitä, elokuvaprojekteja, uutisten lähdeketjuja, lipputuloja ja virallista markkinointimateriaalia ilman vanhojen uutisten kierrättämistä.</p>
