@@ -105,7 +105,7 @@ Näiden toimijoiden Facebook-julkaisut tarkistetaan jokaisella näytöshakukierr
 | Levittäjä / järjestäjä | Facebook / lähde | Huomio |
 |---|---|---|
 | FinBolly Movies | [Facebook](https://www.facebook.com/Finbollymovies) | Suomessa toimiva intialaiselokuvien levittäjä; linkki löytyy myös yrityksen LinkedIn-esittelystä. |
-| FinTamil Movies | [Verkkosivusto](https://www.fintamilmovies.com/) | Facebook-sivun täsmällistä osoitetta ei saatu tässä tarkistuksessa vahvistettua. Etsi ja tarkista sivu nimellä “FinTamil Movies”; älä käytä arvattua Facebook-osoitetta. |
+| FinTamil Movies | [Facebook](https://www.facebook.com/fintamil.movies) | Käyttäjän toimittama suora Facebook-sivu; tarkista julkaisut jokaisella näytöshakukierroksella. |
 | Rasa Entertainment | [Facebook-sivu](https://www.facebook.com/298328530028338/) | Vantaa; julkaisee näytösilmoituksia ja lipunmyyntitietoja. Sivun sisältö näkyy myös FindGlocal-listauksessa. |
 
 Facebook-sisällön indeksointi voi olla rajallista. Tarkista julkiset sivut suoraan selaimella aina kun mahdollista; kirjaa julkaisupäivä ja linkki yksittäiseen julkaisuun. Jos sivua ei voi avata tai julkaisua ei löydy, merkitse se hakurajoitteeksi – älä päättele, ettei ilmoituksia ole.
