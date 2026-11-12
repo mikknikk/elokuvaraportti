@@ -24,6 +24,7 @@ Tämä tiedosto tukee uutisten jatkuvuutta ja auttaa estämään vanhojen uutist
 | Upendra | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
 | Kamal Haasan | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
 | Prabhas | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
+| Brahmanandam | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
 
 ## Erityisseurattavat projektit
 
@@ -130,3 +131,18 @@ Ennen jokaista GitHub Pages-, RSS- tai dokumentaatiojulkaisua tarkista README.md
 - Lähdevalinnassa käytettiin teatterin omaa sivua, kun suora elokuvakohtainen sivu löytyi: Finnkino Plaza Oulu, Finnkino Scala Kuopio ja Leffabuumin Kinolinna. Muissa riveissä käytettiin Kinoon.fi:n elokuvakohtaista listaa kolmannen osapuolen lähteenä.
 - Kino Myyrin oma ohjelmisto tarkistettiin: 12.–25.11.2026 näkyvissä olevassa ohjelmistossa ei ollut intialaista elokuvaa. Muita uusia intialaisia näytöksiä ei löytynyt tämän haun lähteistä; tämä ei ole takuu täydellisestä kattavuudesta.
 - Lähteet: [Kinoon – Ramayana (Pirkanmaa / Suomen näytökset)](https://kinoon.fi/en/showtimes/ramayana?scope=pirkanmaa), [Finnkino – Ramayana / Plaza Oulu](https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107), [Finnkino – Ramayana / Scala Kuopio](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150), [Leffabuumi – näytösajat](https://www.leffabuumi.fi/elokuvat/naytosajat?lang=fi), [Kino Myyri – ohjelmisto](https://kinomyyri.fi/ohjelmisto/).
+
+
+## Genre- ja teemaperustainen seuranta
+
+Seuraa näitä teemoja koko Intian elokuvateollisuudessa riippumatta kielialueesta, tekijöistä tai tuotantoyhtiöstä. Kirjaa tähän vain lähteistetyt löydökset; älä täytä rivejä oletuksilla.
+
+| Teema | Rajaus | Seurattavat projektit / löydökset | Viimeisin lähteistetty kehitys + päiväys | Luokitus ja lähteet | Viimeksi tarkistettu |
+|---|---|---|---|---|---|
+| Fantasia | Mytologinen ja eeppinen fantasia, kansanperinne, yliluonnolliset olennot ja muu fantasia | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
+| Scifi | Tieteiskuvitelma, avaruus, tulevaisuusteknologia, tekoäly, dystopiat ja vaihtoehtoiset todellisuudet | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
+| Aikamatkustus | Aikamatkat, aikasilmukat, aikajanan muutokset ja rinnakkaiset aikajanat | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
+| Zombit | Zombit, epäkuolleet, tartunta-/epidemiapohjaiset tarinat ja zombikomediat | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
+| Historia ennen vuotta 1800 | Ennen vuotta 1800 sijoittuvat historialliset tarinat, elämäkerrat ja sotadraamat | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
+
+Luokituksen tulee perustua viralliseen synopsis-/tuotantotietoon tai luotettavaan toimitukselliseen lähteeseen. Merkitse erikseen, onko genre virallisesti ilmoitettu vai median kuvaus. Mytologinen aihe ei yksin riitä fantasialuokitukseen. Historiallisen seurannan aikaraja on pääasiallinen tapahtuma-aika ennen vuotta 1800. Sama uutinen kirjataan historiakirjaan vain kerran, vaikka se näkyisi sekä yleisessä uutis- että genreosiossa.
