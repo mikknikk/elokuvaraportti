@@ -3,50 +3,154 @@
   <channel>
     <title>Intialaisen elokuvan uutiskooste</title>
     <link>https://mikknikk.github.io/elokuvaraportti/</link>
-    <description>Viikoittainen, suomenkielinen katsaus intialaisen elokuvan uutisiin eri kielialueilta. Jokainen RSS-artikkeli on kokonainen viikkoraportti; alkuperäiset lähteet ovat artikkelin lopussa.</description>
+    <description>Viikoittainen, suomenkielinen ja laaja katsaus intialaisen elokuvan uutisiin. Jokainen artikkeli sisältää koko viikkoraportin ja lähteet.</description>
     <language>fi</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:20:00 GMT</lastBuildDate>
     <item>
-      <title>Intialaisen elokuvan uutiskooste: suuret jatko-osat, uudet hankkeet ja suoratoistojulkaisut</title>
-      <guid isPermaLink="false">elokuvaraportti-kooste-2026-11-12</guid>
-      <pubDate>Thu, 12 Nov 2026 13:10:00 GMT</pubDate>
+      <title>Intialaisen elokuvan viikkoraportti 5.–12.11.2026: Ramayana rikkoo ennätyksiä, Dharman vahvistaa tähtikaartiaan ja Inji Vellam saa ensi-illan</title>
+      <guid isPermaLink="false">elokuvaraportti-weekly-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 14:20:00 GMT</pubDate>
       <description><![CDATA[
-<h2>Teluguelokuva: suuria hankkeita Prabhasille, Ram Charanille ja Rajamoulille</h2>
-<p>Teluguelokuvan näkyvimmät uutiset liittyvät tällä kertaa useisiin suuriin tuotantoihin ja jatko-osiin. SS Rajamoulin <em>Varanasi</em> on herättänyt kiinnostusta paitsi mittakaavansa myös tunnepitoisen tarinansa vuoksi. Rajamoulin mukaan Mahesh Babun, Priyanka Chopran ja Prithviraj Sukumaranin tähdittämän elokuvan emotionaalinen ydin rakentuu rakkauden sekä isän ja pojan välisen suhteen ympärille. Tarinan kerrotaan liikkuvan eri paikkojen ja aikakausien välillä, ja ensi-illaksi on ilmoitettu 7. huhtikuuta 2027.</p>
-<p>Prabhasin tulevista elokuvista saatiin useita päivityksiä. <em>Kalki 2898 AD</em> -jatko-osan markkinointi sai näkyvän sysäyksen näyttelijän syntymäpäivänä julkaistusta videosta, jossa Prabhas palaa Bhairavan rooliin. Myös Amitabh Bachchanin ja Kamal Haasanin on raportoitu palaavan jatko-osaan. Deepika Padukone ei puolestaan jatka mukana. Tieto perustuu elokuvan tekijöiden julkaisemaan materiaaliin ja sitä seuranneeseen uutisointiin.</p>
-<p><em>Salaar: Part 2 – Shouryaanga Parvam</em> -elokuvan ensimmäinen juliste vahvisti Prabhasin paluun Devarathana. Ohjaaja Prashanth Neelin ilmoituksen mukaan kuvaukset on tarkoitus aloittaa kesäkuussa 2027. Aikataulu on tässä vaiheessa suunnitelma, ei vielä vahvistettu ensi-iltapäivä.</p>
-<p>Sandeep Reddy Vangan ohjaaman <em>Spiritin</em> ensi-ilta siirtyi maaliskuulta lokakuulle 2027. Uudeksi päiväksi ilmoitettiin 29. lokakuuta, Diwalin aikaan. Prabhasin rinnalla nähdään Triptii Dimri. Uusi ajankohta tuo elokuvan samaan suureen juhlapyhäjulkaisujen kauteen <em>Ramayana 2:n</em> kanssa.</p>
-<p>Myös <em>Fauzi</em> nousi otsikoihin, mutta tällä kertaa historiallisen kuvauksen herättämän kiistan vuoksi. Netaji Subhas Chandra Bosen sukulainen Chandra Kumar Bose arvosteli teaseria, jossa esitetään Bosen vuoden 1942 tapaaminen Adolf Hitlerin kanssa, ja vaati videon vetämistä pois. Kyse on sukulaisen esittämästä kritiikistä ja historiallisesta tulkintakiistasta, ei siitä, että elokuvan sisältöä koskeva kiista olisi ratkaistu.</p>
-<p>Ram Charanin ja Sukumarin uusi RC17-yhteistyö on puolestaan käynnistetty puja-seremonialla. Varsinaisten kuvausten on raportoitu alkavan joulukuun viimeisellä viikolla, mutta tarkkaa kuvausaikataulua ei ole vahvistettu tekijöiden virallisessa ilmoituksessa.</p>
+<h1>Intialaisen elokuvan viikkoraportti</h1>
+<p><strong>5.–12. marraskuuta 2026</strong></p>
+<p>Tämän viikon intialaisen elokuvan uutiskuvaa hallitsevat kaksi suurta kokonaisuutta: Nitesh Tiwarin <em>Ramayana: Part 1</em> on aloittanut teatterilevityksensä poikkeuksellisen vahvoin lipputuloin, ja eteläisen Intian elokuvateollisuuksissa on julkistettu uusia projekteja sekä merkittäviä ensi-iltapäiviä. Tamilielokuvassa huomio kiinnittyi Mani Ratnamin <em>Inji Vellamiin</em> ja Rajinikanthin <em>Dharmaniin</em>; teluguelokuvassa nähtiin muun muassa Chiranjeevin <em>Kaakan</em> Sankranthi-päivän vahvistus ja Siddhu Jonnalagaddan uusi yhteistyö Sukumar Writingsin kanssa.</p>
+<p>Alla uutiset on eroteltu virallisiin ilmoituksiin ja median raportoimiin tietoihin. Lipputulot ovat alan seurantapalveluiden arvioita, eivät elokuvayhtiöiden tarkastettuja tilinpäätöksiä.</p>
 
-<h2>Tamil-elokuva: Rajinikanthin Jailer 2 ja Kamal Haasanin uusi projekti</h2>
-<p>Rajinikanthin <em>Jailer 2</em> on ollut merkittävä sekä teatterilevityksessä että suoratoistossa. Alan seurantapalvelu Sacnilkin arvioihin perustuneen uutisoinnin mukaan elokuvan maailmanlaajuinen lipputulokertymä ylitti 800 crore rupiaa ja nousi arviolta 807,25 crore rupiaan 18. esityspäivän aikana. Lukua on syytä pitää alan seuranta-arviona, ei tuottajan vahvistamana lopullisena tilinpäätöksenä.</p>
-<p>Elokuvan seuraava vaihe alkoi 12. marraskuuta, jolloin <em>Jailer 2</em> tuli Prime Videoon. Julkaisun kerrottiin kattavan tamilin, telugun, hindin, malajalamin ja kannadan kielet sekä yli 240 maata ja aluetta. Teatterimenestyksen ja laajan suoratoistojakelun yhdistelmä tekee elokuvasta yhden tämän ajanjakson näkyvimmistä tamilielokuvauutisista.</p>
-<p>Kamal Haasanin seuraavan elokuvan nimeksi vahvistettiin <em>Sandiyar</em>. SU Arun Kumarin ohjaaman elokuvan tuottaa Haasanin Raaj Kamal Films International yhdessä R Mahendranin kanssa. Kuvaukset käynnistyivät Haasanin syntymäpäivänä 7. marraskuuta, jolloin julkaistiin myös uusi juliste. Projektin laajempaa näyttelijäkaartia ja juonta ei ole vielä avattu. Nimi on historiallisesti kiinnostava, sillä Sandiyar oli myös Haasanin vuoden 2004 <em>Virumaandin</em> alkuperäinen työnimi.</p>
+<h2>Viikon tärkeimmät uutiset</h2>
+<h3><em>Ramayana: Part 1</em> lähestyy miljardin rupian maailmanlaajuista rajaa</h3>
+<p>Nitesh Tiwarin ohjaama <em>Ramayana: Part 1</em> sai ensi-iltansa 5. marraskuuta, ja sen ensimmäinen viikko on ollut huomattava kaupallinen tapaus. Ranbir Kapoorin, Sai Pallavin ja Yashin tähdittämä mytologinen spektaakkeli keräsi Moneycontrolin 12. marraskuuta julkaiseman, Sacnilkin seurantaan perustuvan raportin mukaan seitsemässä päivässä maailmanlaajuisesti noin <strong>934,55 crore rupiaa</strong>. Intian nettokertymäksi arvioitiin 511,10 crore ja ulkomaanmarkkinoiden bruttokertymäksi 323,50 crore.</p>
+<p>Luvut ovat arvioita ja eri lipputuloseurantojen välillä on eroja. Niitä ei siksi pidä tulkita lopullisiksi tai täysin vertailukelpoisiksi tilinpäätösluvuiksi. Silti avausviikon mittakaava kertoo, että elokuva on noussut välittömästi vuoden suurimpien intialaisten teatteritapausten joukkoon. Elokuvaa esitetään useilla kielillä, ja sen menestys on siten myös merkittävä esimerkki hindinkielisen suurtuotannon valtakunnallisesta levityksestä.</p>
+<p><strong>Tiedon luonne:</strong> MEDIAN RAPORTOIMA – lipputulot Sacnilkin arvioihin perustuen.</p>
 
-<h2>Kannada-elokuva: Upendran Buddivantha 2</h2>
-<p>Upendran tähdittämän <em>Buddivantha 2:n</em> julkaisun kerrottiin ajoittuvan alkuvuoteen 2027. Jayram M Bhadravathin ohjaamassa elokuvassa nähdään myös Meghana Raj, Sonal Monteiro ja Srinagar Kitty. Tieto perustuu tuotantoon liittyvään julisteeseen ja sitä seuranneeseen uutisointiin; tarkka ensi-iltapäivä ei vielä käy ilmi julkaistusta tiedosta.</p>
+<h3>Mani Ratnamin <em>Inji Vellam</em> saa ensi-iltansa 29. tammikuuta 2027</h3>
+<p>Viikon merkittävimpiin tamilielokuvauutisiin kuuluu Mani Ratnamin uuden romanttisen draaman <em>Inji Vellam</em> julkaisupäivän vahvistuminen. Madras Talkies ja Lyca Productions julkistivat 11. marraskuuta motion-posterin, jonka mukaan Vijay Sethupathin ja Sai Pallavin tähdittämä elokuva saapuu teattereihin maailmanlaajuisesti <strong>29. tammikuuta 2027</strong>.</p>
+<p>Kyseessä on Vijay Sethupathin ja Sai Pallavin ensimmäinen yhteinen elokuva. Mani Ratnam palaa romanttisen draaman pariin, ja musiikin säveltää jälleen A. R. Rahman. Elokuvan tuotantoon osallistuvat Madras Talkiesin kautta Mani Ratnam ja Siva Ananth sekä Lyca Productionsin Subaskaran. Netflix on hankkinut suoratoisto-oikeudet ja Sony Music musiikkioikeudet, Cinema Express raportoi.</p>
+<p>Elokuvan juonesta ei ole vielä paljastettu paljoa. Julkaistu motion-poster vihjaa perhekeskeiseen tarinaan, mutta yksityiskohtaisia henkilöhahmo- tai juonitietoja ei ole syytä päätellä markkinointikuvasta.</p>
+<p><strong>Tiedon luonne:</strong> VIRALLISESTI VAHVISTETTU – julkaisupäivä ja motion-poster tekijöiden ilmoittamia.</p>
 
-<h2>Hindi- ja muu intialainen elokuvateollisuus</h2>
-<p>Tämän koontijakson lähdeaineistossa ei ollut yhtä vahvasti dokumentoituja uusia uutisia muilta kielialueilta. Suurimmat otsikot painottuivat telugu- ja tamilielokuviin, mutta viikkoraporttien kattavuus säilyy jatkossa koko Intian elokuvakentässä: mukana ovat myös hindi-, malajalam-, bengali-, marathi-, punjabi- ja muut alueelliset tuotannot silloin, kun niistä löytyy merkittäviä uutisia.</p>
+<h3>Ram Pothineni liittyy Rajinikanthin <em>Dharmaniin</em></h3>
+<p>Rajinikanthin tähdittämä <em>Dharman</em> sai Diwalin yhteydessä uuden näyttelijävahvistuksen: Ram Pothineni liittyy elokuvan kaartiin. Tuottaja Kamal Haasanin Raaj Kamal Films International vahvisti asian 8. marraskuuta julkaistulla videolla. Roolin myötä Ram Pothineni tekee ensimmäisen täysimittaisen tamilinkielisen roolinsa.</p>
+<p>Ashwath Marimuthun kirjoittaman ja ohjaaman elokuvan muissa rooleissa nähdään muun muassa Nayanthara, Simran, Yogi Babu, Raashi Khanna ja Sreeleela. Anirudh Ravichander vastaa musiikista. Cinema Expressin mukaan kolme kuvausaikataulua on jo saatu päätökseen. Elokuvan tarinasta tiedetään toistaiseksi vain vähän, mutta Rajinikanthin hahmoa on kuvailtu lääkäriksi ja kokonaisuutta toiminnalliseksi draamaksi.</p>
+<p>Uutinen on kiinnostava myös laajemmassa urakontekstissa: <em>Dharman</em> yhdistää Rajinikanthin, Kamal Haasanin tuotantoyhtiön ja nuoremman telugutähden samaan suureen tamilituotantoon. Rajinikanthin ja Kamal Haasanin yhteinen näyttelijäprojekti Nelson Dilipkumarin ohjauksessa on lisäksi erillinen suunnitelma, eikä sitä pidä sekoittaa <em>Dharmaniin</em>.</p>
+<p><strong>Tiedon luonne:</strong> VIRALLISESTI VAHVISTETTU – Ram Pothineni -kiinnitys vahvistettiin tekijöiden julkaisussa.</p>
 
-<h2>Yhteenveto</h2>
-<p>Ajanjakson uutiskuvaa hallitsevat suuret tähtivetoiset hankkeet ja jatko-osat. Prabhasin tulevien elokuvien ympärillä on runsaasti julkistuksia ja aikataulutietoja, Rajinikanthin <em>Jailer 2</em> on siirtynyt teatterimenestyksestä suoratoistoon, ja Kamal Haasan on käynnistänyt uuden <em>Sandiyar</em>-projektinsa. Kaikkien uutisten kohdalla on tärkeää erottaa tekijöiden vahvistamat julkistukset alan medioiden raportoimista aikatauluista ja lipputuloarvioista.</p>
+<h2>Kielialueittain</h2>
+<h3>Telugu-elokuva</h3>
+<h4>Chiranjeevin <em>Kaaka</em> pitää kiinni 13. tammikuuta 2027 ensi-illasta</h4>
+<p>Chiranjeevin ja ohjaaja Bobby Kollin <em>Kaaka</em> nousi jälleen keskusteluun, kun käsikirjoittaja Kona Venkat torjui 6. marraskuuta sosiaalisessa mediassa huhut elokuvan viivästymisestä tai tuotannon pysäyttämisestä. Hän vahvisti, että elokuvan on edelleen tarkoitus saapua teattereihin <strong>13. tammikuuta 2027</strong> Sankranthin aikaan. Myös Diwalin yhteydessä julkaistu uusi juliste toisti saman päivämäärän.</p>
+<p>Huhujen mukaan Chiranjeevi olisi ollut tyytymätön kuvattuun materiaaliin ja nähnyt siinä samankaltaisuuksia toisen menestyselokuvan kanssa. Näille väitteille ei ole esitetty luotettavaa vahvistusta, ja Kona Venkat kiisti ne. Siksi niitä on käsiteltävä perusteettomina väitteinä, ei tuotantotilannetta kuvaavina faktoina.</p>
+<p><strong>Tiedon luonne:</strong> VIRALLISESTI VAHVISTETTU – julkaisupäivä vahvistettu; tuotannon pysähtymistä koskevat väitteet kiistetty.</p>
+
+<h4>Siddhu Jonnalagadda käynnisti uuden elokuvan Sukumar Writingsin kanssa</h4>
+<p>Siddhu Jonnalagaddan uusi, työnimellä <em>Siddhu10</em> tunnettu elokuva käynnistettiin Hyderabadissa 11. marraskuuta. Elokuvan ohjaa esikoisohjaaja Mohan B, ja naisroolissa nähdään Nayan Sarika. Tuotannosta vastaavat Sukumar Writings ja Bunny Vas Works; projektin esittelijänä toimii Thabitha Sukumar. Musiikin säveltää G. V. Prakash Kumar.</p>
+<p>Elokuvaa kuvaillaan romanttiseksi viihde-elokuvaksi. Varsinaista nimeä tai julkaisupäivää ei ole vielä ilmoitettu, ja säännöllisten kuvausten kerrottiin alkavan myöhemmin. Uutinen on erityisen kiinnostava Siddhun uran kannalta, sillä hän hakee uutta nousua viime vuosien menestyksen jälkeen.</p>
+<p><strong>Tiedon luonne:</strong> VIRALLISESTI VAHVISTETTU – projektin käynnistys ja keskeinen työryhmä julkistettu.</p>
+
+<h4><em>Polimera 3</em> esitteli Arjun Sarjan Viraavina</h4>
+<p>Telugunkielisen mysteeritrillerisarjan kolmannesta osasta julkaistiin Diwalin aikaan uusi videonosto, jossa Arjun Sarja esitellään Viraavi-hahmossa. Marraskuun 9.–10. päivänä julkaistujen uutisten mukaan elokuvan kuvaukset ovat käynnistyneet puja-seremonian jälkeen. Satyam Rajesh palaa sarjan keskeiseen rooliin, ja ohjauksesta vastaa Dr. Anil Vishwanath.</p>
+<p>Elokuvalle suunnitellaan samanaikaista julkaisua teluguksi, tamiliksi, kannadaksi ja malajalamiksi. Monikielinen levityssuunnitelma kertoo sarjan laajentuneesta yleisötavoitteesta. Julkaisupäivää ei ole vielä ilmoitettu.</p>
+<p><strong>Tiedon luonne:</strong> VIRALLISESTI VAHVISTETTU – hahmoglimpsen julkaisu; kuvausten aloituksesta medialähteiden raportointi.</p>
+
+<h4><em>Itllu Arjuna</em> sai Ram Charanin huomion</h4>
+<p>Ram Charan osallistui 9. marraskuuta teluguelokuvan <em>Itllu Arjuna</em> ennakkotapahtumaan ja musiikkikonserttiin Hyderabadissa. Elokuvan pääosissa ovat Aniesh ja Anaswara Rajan, ja ohjaajana toimii Mahesh Uppala. Ram Charan kehui debyyttinäyttelijä Anieshin suoritusta. Elokuvan maksulliset ennakkonäytökset ajoitettiin 13. marraskuuta ja varsinainen julkaisu seuraavalle päivälle.</p>
+<p>Tapahtuma on Ram Charanin viikon näkyvin uutinen, mutta se ei merkitse uutta julkistusta hänen omasta RC17-elokuvastaan Sukumarin kanssa.</p>
+<p><strong>Tiedon luonne:</strong> MEDIAN RAPORTOIMA – julkinen esiintyminen ja ennakkotapahtuman kommentit.</p>
+
+<h3>Tamil-elokuva</h3>
+<h4>Kamal Haasanin <em>Sandiyar</em> sai nimen ja ensijulisteen</h4>
+<p>Kamal Haasanin seuraava elokuva SU Arun Kumarin ohjauksessa julkistettiin 6. marraskuuta nimellä <em>Sandiyar</em>. Raaj Kamal Films International julkaisi samalla ensijulisteen. Musiikin säveltää Anirudh Ravichander, ja elokuvan tuottavat Kamal Haasan ja R. Mahendran. Julkaisua suunnitellaan vuodelle 2027, mutta tarkkaa päivää ei ole ilmoitettu.</p>
+<p>Nimi on historiallisesti latautunut. <em>Sandiyar</em> oli myös Haasanin vuoden 2004 elokuvan <em>Virumaandi</em> alkuperäinen työnimi, josta luovuttiin tuolloin kiistan jälkeen. The Indian Expressin mukaan vanha nimikiista liittyi pelkoon siitä, että nimi voisi glorifioida kastiväkivaltaa. Uusi nimivalinta palauttaa tämän kulttuurisen taustan keskusteluun, vaikka tämän viikon julkistukseen ei liitetty vastaavaa kiistaa.</p>
+<p><strong>Tiedon luonne:</strong> VIRALLISESTI VAHVISTETTU – nimi, ohjaaja ja ensijuliste julkistettu.</p>
+
+<h4><em>Inji Vellam</em> ja vuoden 2027 julkaisukalenteri</h4>
+<p><em>Inji Vellamin</em> 29. tammikuuta 2027 ensi-ilta on viikon tärkein uusi tamilielokuvan päivämääräjulkistus. Samalla se vahvistaa Mani Ratnamin, Vijay Sethupathin, Sai Pallavin ja A. R. Rahmanin yhteistyön seuraavan vaiheen. Elokuva on kuvattu suurelta osin Kolkatassa, mikä näkyy myös sen aiemmassa markkinointimateriaalissa.</p>
+
+<h3>Kannada-elokuva</h3>
+<h4>Upendran <em>Buddivantha 2</em> siirtyy alkuvuoteen 2027</h4>
+<p>Kannadalaisen <em>Buddivantha 2:n</em> julkaisusuunnitelma on tarkentunut: Upendran tähdittämän elokuvan odotetaan saapuvan teattereihin alkuvuonna 2027. Marraskuun 8. päivän uutisoinnin mukaan aiemmin esillä ollut marraskuun 2026 julkaisu ei siten toteudu alkuperäisenä ajankohtana. Uutta täsmällistä ensi-iltapäivää ei ole ilmoitettu.</p>
+<p>Viikon 12. marraskuuta julkaistun kannadalaisen elokuvauutislistauksen mukaan myös sci-fi-trilleri <em>Lambodhara 2.0</em> on aikaistanut teatteriensi-iltaansa viikolla. Elokuvan levityksestä vastaa PVR INOX Pictures. Tämä on yksi viikon harvoista erillisistä kannada-alan aikataulumuutoksista, joka ei liity suoraan suureen tähtinimeen.</p>
+<p><strong>Tiedon luonne:</strong> MEDIAN RAPORTOIMA – julkaisuaikataulujen päivitykset; tarkat päivät voivat vielä muuttua.</p>
+
+<h3>Malayalam-elokuva</h3>
+<h4><em>Bouma</em> julkaistiin 12. marraskuuta</h4>
+<p>Rejin S Babun kirjoittama ja ohjaama rikosmysteeri <em>Bouma</em> sai teatteriensi-iltansa 12. marraskuuta. Sagar Surya ja Dileesh Pothan tähdittävät elokuvaa, jonka traileri julkaistiin 7. marraskuuta. Tarina rakentuu katoamistapausten ja syrjäisen kartanon ympärille, ja Dileesh Pothan esittää tutkintaa johtavaa poliisia.</p>
+<p>Elokuva julkaistaan malajalamin lisäksi tamiliksi, teluguksi, hindiksi ja kannadaksi. Se on viikon konkreettinen esimerkki malajalamilaisen tuotannon monikielisestä levityksestä. Myös <em>Melcow Pondicherry</em> on ajoitettu saman viikon teatterilevitykseen.</p>
+<p><strong>Tiedon luonne:</strong> VIRALLISESTI VAHVISTETTU – traileri ja ensi-iltapäivä tekijöiden julkaisemina.</p>
+
+<h3>Hindi-elokuva ja koko maan markkina</h3>
+<h4><em>Ramayana: Part 1</em> hallitsee keskustelua</h4>
+<p>Hindi-elokuvan viikon selvästi suurin uutinen on <em>Ramayana: Part 1</em>. Sen avausviikon lipputulot ovat poikkeukselliset, ja elokuvan monikielinen levitys on tuonut sen myös eteläisten osavaltioiden yleisöjen ulottuville. Sai Pallavi esittää Sitaa, Ranbir Kapoor Ramaa ja Yash Ravanaa. Elokuvan menestystä on seurattu laajasti myös siksi, että se on suuri kansallinen mytologinen tuotanto ja sen jatko-osalle on jo asetettu korkeat odotukset.</p>
+<p>Tuotannon jatko-osan julkaisuksi on raportoitu Diwali 2028. Tämä aikataulu on kuitenkin erotettava ensimmäisen osan tämän viikon lipputulouutisista: jatko-osan ajankohta on erillinen tuotantosuunnitelma, eikä se ole tämän viikon teatterimenestyksen seuraus.</p>
+
+<h3>Bengali, Marathi, Punjabi ja muut alueelliset elokuvateollisuudet</h3>
+<p>Tämän viikon lähdehaussa ei noussut esiin yhtä merkittäviä, riittävästi vahvistettuja uutisia bengali- tai punjabielokuvasta. Marathi-elokuvan <em>Aadi Anant</em> on listattu 12. marraskuuta teatterijulkaisuun, ja <em>Gondhal</em> saa samassa julkaisuikkunassa esityksiä useilla kielillä. Näistä ei kuitenkaan löytynyt riittävästi vahvistettua uutta tuotanto- tai alan kehitystietoa, jotta niitä voisi nostaa tämän raportin pääuutisiksi.</p>
+<p>Alueellisen uutiskattavuuden kannalta on tärkeää huomata, että hiljaisuus tässä katsauksessa tarkoittaa vain sitä, ettei viikon haussa löytynyt olennaista ja riittävästi varmennettua uutista – ei sitä, ettei näillä kielialueilla olisi tapahtunut mitään.</p>
+
+<h2>Seurattavat henkilöt ja erityishankkeet</h2>
+<h3>S. S. Rajamouli ja <em>Varanasi</em></h3>
+<p>Viikon aikana Rajamoulin nimi nousi esiin näyttelijä Prakash Rajin haastattelun yhteydessä. Prakash Raj kertoi, että Rajamoulilta on kysytty hänen valinnastaan <em>Varanasiin</em>, kun näyttelijä on joutunut verkossa boikottikampanjoiden kohteeksi. Tämä kertoo elokuvan ympärillä käydystä julkisesta keskustelusta, mutta ei merkitse muutosta näyttelijäkaartiin tai tuotantoon.</p>
+<p>Itse <em>Varanasin</em> osalta viimeisin merkittävä tuotantotieto on yhä lokakuulta: Rajamouli kertoi kuvausten lähestyvän loppua ja jäljellä olevan noin kymmenen kuvauspäivää. Tämän viikon aikana ei löytynyt luotettavasti vahvistettua uutta kuvausaikataulua tai julkaisupäivän muutosta. Elokuvan ilmoitettu ensi-ilta on edelleen 7. huhtikuuta 2027.</p>
+
+<h3>Allu Arjun ja <em>Raaka</em></h3>
+<p>Allu Arjunin ja Atleen <em>Raaka</em>-elokuvasta Telugu360 raportoi 5. marraskuuta, että joululle suunnitellaan uutta videonostoa. Samassa jutussa väitettiin kuvausten jatkuvan Mumbaissa ja valmistumisen siirtyneen maaliskuulle 2027; julkaisuksi ennakoitiin joulua 2027. Näitä aikatauluja ei kuitenkaan ole vahvistettu tekijöiden virallisella ilmoituksella tässä raportointijaksossa.</p>
+<p>Syyskuussa tekijät olivat jo vihjanneet ensimmäisen vilkaisun julkaisemisesta joulukuussa. Siksi joulun tienoon markkinointipäivitys ei olisi täysin uusi suunta, mutta marraskuun 5. päivän uutinen sisältää tarkentavia tuotantoväitteitä, jotka on toistaiseksi syytä merkitä medialähteen raportoimiksi.</p>
+
+<h3>Ram Charan</h3>
+<p>Ram Charanin viikon näkyvin esiintyminen liittyi <em>Itllu Arjunaan</em>. Hänen ja Sukumarin RC17-projektinsa käynnistämisestä oli uutisoitu aiemmin, mutta tämän viikon lähteistä ei löytynyt uutta virallista kuvausten aloituspäivää tai näyttelijäkiinnitystä. Aiemmin raportoitu joulukuun lopun kuvausaikataulu on edelleen medialähteen tieto.</p>
+
+<h3>Kajal Aggarwal</h3>
+<p>Kajal Aggarwalista ei löytynyt 5.–12. marraskuuta riittävän merkittävää ja luotettavasti varmennettua uutta urauutista. Hänen nimensä esiintyy <em>Ramayana: Part 1</em> -elokuvan näyttelijätiedoissa joissakin elokuvatietokannoissa, mutta tämän viikon lähteet eivät antaneet perustetta nostaa asiaa erilliseksi uutiseksi.</p>
+
+<h3>Chiranjeevi</h3>
+<p>Chiranjeevin viikon tärkein aihe oli <em>Kaaka</em>: uusi Diwali-juliste ja käsikirjoittaja Kona Venkatin kommentit vahvistivat, että elokuva tähtää edelleen 13. tammikuuta 2027 ensi-iltaan. Elokuvan pysähtymistä koskevat huhut torjuttiin.</p>
+
+<h3>Rajinikanth</h3>
+<p>Rajinikanth sai viikon aikana uuden vastanäyttelijän <em>Dharmaniin</em>, kun Ram Pothineni vahvistettiin mukaan. Projekti jatkaa kuvausten etenemistä. Erillinen, Rajinikanthin ja Kamal Haasanin yhteinen Nelson-elokuva on edelleen oma tuleva hankkeensa, eikä siitä löytynyt tällä viikolla uutta vahvistettua julkistusta.</p>
+
+<h3>Upendra</h3>
+<p>Upendran <em>Buddivantha 2</em> -elokuvan julkaisun siirtyminen alkuvuoteen 2027 oli viikon keskeinen kannadauutinen. Tarkkaa päivämäärää ei ole vahvistettu.</p>
+
+<h3>Kamal Haasan</h3>
+<p>Kamal Haasan julkisti <em>Sandiyarin</em> nimen ja ensijulisteen sekä toimii Rajinikanthin <em>Dharmanin</em> tuottajana. Näin hänellä on tällä hetkellä kaksi erillistä merkittävää yhteyttä Rajinikanthin tuleviin projekteihin: <em>Dharman</em> tuotanto ja myöhempi yhteinen näyttelijäprojekti Nelsonin ohjauksessa.</p>
+
+<h3>Prabhas</h3>
+<p>Prabhasista ei löytynyt tällä viikolla uutta virallista julkaisupäivää tai merkittävää näyttelijäkiinnitystä hänen kuuteen erityisseurattavaan hankkeeseensa. <em>Fauzi</em> on yhä siirretty pois aiemmasta 3. joulukuuta 2026 päivämäärästä, eikä uutta ensi-iltaa ole virallisesti ilmoitettu. Tuottaja Ravi Shankar vahvisti lykkäyksen jo syyskuussa.</p>
+<p><em>Spiritin</em> julkaisupäiväksi on aiemmin ilmoitettu 29. lokakuuta 2027. <em>Salaar 2:n</em> ja <em>Kalki 2898 AD 2:n</em> osalta ei löytynyt tämän viikon aikana uutta virallista ensi-iltapäivää tai tuotantotiedotetta. Aiemmin uutisoidut aikataulut eivät siten muutu tämän katsauksen perusteella.</p>
+
+<h2>Huhut ja ristiriitaiset tiedot</h2>
+<ul>
+<li><strong><em>Raaka</em>:</strong> joulun videonosto, kuvausten valmistuminen maaliskuussa 2027 ja joulukuun 2027 ensi-ilta ovat Telugu360in raportoimia suunnitelmia, eivät tämän viikon virallisia vahvistuksia.</li>
+<li><strong><em>Kaaka</em>:</strong> väitteet tuotannon pysähtymisestä ja Chiranjeevin tyytymättömyydestä kiistettiin käsikirjoittaja Kona Venkatin toimesta. Julkaisupäivä 13.1.2027 vahvistettiin uudelleen.</li>
+<li><strong><em>Fauzi</em>:</strong> elokuvan siirtyminen pois joulukuun 2026 julkaisusta on vahvistettu, mutta maaliskuuhun 2027 liittyvät päivämääräarviot ovat edelleen epävirallisia.</li>
+<li><strong><em>Ramayana: Part 1</em>:</strong> lipputuloluvut vaihtelevat seurantapalveluittain. Tässä raportissa käytetty 934,55 crore rupian maailmanlaajuinen arvio perustuu Moneycontrolin 12.11. julkaisemaan Sacnilk-lukuun.</li>
+</ul>
+
+<h2>Viikon yhteenveto ja seurattavat asiat</h2>
+<p>Intialaisen elokuvan viikkoa määrittävät ennen kaikkea <em>Ramayana: Part 1</em> -elokuvan poikkeuksellinen avausviikko sekä eteläisen Intian elokuvien tulevien julkaisujen vahvistuminen. Tamilielokuvassa Mani Ratnamin <em>Inji Vellam</em> sai selkeän ensi-iltapäivän, ja Rajinikanthin <em>Dharman</em> näyttelijäkaartiin liittyi Ram Pothineni. Teluguelokuvassa <em>Kaaka</em> torjui viivästymishuhut, ja Siddhu Jonnalagaddan uusi elokuva käynnistyi.</p>
+<p>Seuraavalla viikolla kannattaa seurata erityisesti:</p>
+<ul>
+<li><em>Ramayana: Part 1</em> – ylittääkö maailmanlaajuinen kertymä 1 000 crore rupiaa ja miten toinen esitysviikko alkaa.</li>
+<li><em>Inji Vellam</em> – tulevatko näyttelijäkaartista, juonesta tai markkinoinnista lisätietoja.</li>
+<li><em>Raaka</em> ja <em>Varanasi</em> – julkaistaanko joulukuun markkinointisuunnitelmista virallisia vahvistuksia.</li>
+<li><em>Fauzi</em> – ilmoitetaanko uusi ensi-iltapäivä tai julkaistaanko tuotannosta uutta materiaalia.</li>
+<li><em>Buddivantha 2</em> ja <em>Lambodhara 2.0</em> – täsmentyvätkö kannadatuotantojen julkaisupäivät.</li>
+</ul>
 
 <h2>Alkuperäiset lähteet ja lisälukemista</h2>
 <ul>
-<li><a href="https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-says-love-and-father-son-bond-form-the-emotional-core-of-mahesh-babu-priyanka-chopra-starrer-varanasi/articleshow/135223251.cms">The Times of India: Varanasin emotionaalinen ydin</a></li>
-<li><a href="https://www.hindustantimes.com/entertainment/telugu-cinema/prabhas-returns-as-bhairava-for-nag-ashwins-kalki-2898-ad-sequel-1st-look-video-out-on-his-birthday-101792726838475.html">Hindustan Times: Prabhas palaa Kalki-jatko-osaan</a></li>
-<li><a href="https://www.telegraphindia.com/entertainment/prabhas-to-return-as-devaratha-in-salaar-2-shooting-to-begin-in-june-2027/cid/2186041">The Telegraph India: Salaar 2:n kuvausaikataulu</a></li>
-<li><a href="https://indianexpress.com/article/entertainment/bollywood/prabhas-spirit-postponed-clash-with-ramayana-2-diwali-2027-10926667/">The Indian Express: Spiritin uusi ensi-ilta</a></li>
-<li><a href="https://www.indiatoday.in/movies/regional-cinema/story/prabhas-fauzi-teaser-controversy-netaji-grandnephew-seeks-withdrawal-3025110-2026-10-27">India Today: Fauzi-teaserin herättämä kiista</a></li>
-<li><a href="https://about.netflix.com/en/news/from-commanding-the-big-screen-to-owning-the-conversation-megastar-chiranjeevi-arrives-on-netflix-soon-with-chiranjeevis-megaverse">Netflix: Chiranjeevi’s Megaverse</a></li>
-<li><a href="https://www.cinemaexpress.com/tamil/news/2026/Nov/02/rajinikanths-jailer-2-enters-rs-800-crore-club-sets-new-benchmark-for-tamil-cinema">Cinema Express: Jailer 2:n lipputuloarvio</a></li>
-<li><a href="https://english.zeenews.com/entertainment/regional/article-jailer-2-on-ott-when-and-where-to-watch-rajinikanths-blockbuster-outing-3161524/amp">Zee News: Jailer 2 Prime Videossa</a></li>
-<li><a href="https://www.cinemaexpress.com/amp/story/tamil/news/2026/Nov/06/kamal-haasans-next-with-su-arun-kumar-titled-sandiyar">Cinema Express: Sandiyarin nimi</a></li>
-<li><a href="https://www.cinemaexpress.com/tamil/news/2026/Nov/07/sandiyar-kamal-haasan-to-begin-shooting-for-su-arun-kumar-film-on-birthday-new-poster-out">Cinema Express: Sandiyarin kuvaukset</a></li>
-<li><a href="https://southsidestudio.in/news/2026-11/buddivantha-2-release-date-2026-11-08/">SouthSide Studio: Buddivantha 2</a></li>
-<li><a href="https://www.sacnilk.com/news/ram-charan-and-sukumars-rc17-regular-shooting-reportedly-set-to-begin-in-last-week-of-december-2026">Sacnilk: Ram Charanin ja Sukumarin RC17</a></li>
+<li><a href="https://www.moneycontrol.com/entertainment/ramayana-part-1-box-office-collection-day-7-ranbir-kapoor-yash-s-film-eyes-rs-1-000-crore-worldwide-collects-rs-511-10-crore-india-net-in-first-week-article-14077968.html">Moneycontrol, 12.11.2026 – Ramayana: Part 1:n avausviikon lipputulot</a></li>
+<li><a href="https://indianexpress.com/article/entertainment/tamil/mani-ratnam-vijay-sethupathi-sai-pallavi-inji-vellam-gets-release-date-10959097/">The Indian Express, 11.11.2026 – Inji Vellamin ensi-ilta</a></li>
+<li><a href="https://www.cinemaexpress.com/tamil/news/2026/Nov/11/mani-ratnams-inji-vellam-gets-january-2027-release">Cinema Express, 11.11.2026 – Inji Vellam ja sen levitysoikeudet</a></li>
+<li><a href="https://www.cinemaexpress.com/tamil/news/2026/Nov/08/rajinikanth-kamal-haasans-dharman-adds-ram-pothineni">Cinema Express, 8.11.2026 – Ram Pothineni liittyy Dharmaniin</a></li>
+<li><a href="https://www.cinemaexpress.com/amp/story/telugu/news/2026/Nov/11/siddhu-jonnalagadda-teams-up-with-debutant-director-mohan-b">Cinema Express, 11.11.2026 – Siddhu10 käynnistyy</a></li>
+<li><a href="https://telugucinema.com/news/kaaka-kona-venkat-reiterates-sankranthi-release-dismisses-rumours">TeluguCinema, 6.11.2026 – Kaakan julkaisupäivä ja huhujen kiistäminen</a></li>
+<li><a href="https://www.cinemaexpress.com/malayalam/news/2026/Nov/07/bouma-trailer-sagar-surya-starrer-promises-a-gripping-crime-thriller">Cinema Express, 7.11.2026 – Bouman traileri ja ensi-ilta</a></li>
+<li><a href="https://www.dtnext.in/entertainment/cinema/arjun-sarja-joins-polimera-3-as-viraavi">DT Next, 10.11.2026 – Arjun Sarja Polimera 3:ssa</a></li>
+<li><a href="https://www.theweek.in/wire-updates/entertainment/2026/11/06/kamal-haasan-s-next-film-is-titled-sandiyar.amp.html">PTI / The Week, 6.11.2026 – Kamal Haasanin Sandiyar</a></li>
+<li><a href="https://southsidestudio.in/news/release-dates/">SouthSide Studio, 8.–12.11.2026 – kannadaelokuvien julkaisupäivitykset</a></li>
+<li><a href="https://www.telugu360.com/raaka-update-arrives-for-christmas/">Telugu360, 5.11.2026 – Raakan tuotantoa koskeva mediaraportti</a></li>
+<li><a href="https://www.indiatoday.in/movies/regional-cinema/story/prabhas-fauzi-release-delayed-makers-confirm-postponement-new-date-awaited-3000129-2026-09-22">India Today, 22.9.2026 – Fauzin lykkäys ja uuden päivämäärän puuttuminen</a></li>
+<li><a href="https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/prakash-raj-says-ss-rajamouli-is-being-questioned-for-casting-him-in-varanasi-as-he-reacts-to-boycott-calls-against-his-films/articleshow/135732214.cms">The Times of India, 11.11.2026 – Prakash Raj kommentoi Varanasi-rooliaan</a></li>
 </ul>
       ]]></description>
     </item>
