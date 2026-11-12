@@ -183,3 +183,41 @@ Uusia lähteitä lisätään vasta, kun niiden toimituksellinen tausta ja käytt
 Suomen mediaosumien ja näytösten lähteet sekä tarkistusohjeet on kirjattu [SOURCES.md](SOURCES.md)-tiedostoon. Näytösten tila- ja muutostiedot kirjataan [TRACKING.md](TRACKING.md)-tiedostoon.
 
 Lipputuloissa erotetaan markkina-alue, brutto/netto, aikajakso ja arvioiden/virallisten lukujen status. Julisteiden ja videoiden lähde sekä julkaisija tarkistetaan ja kirjataan.
+
+## Saavutettavuus – WCAG 2.2 AAA tavoitetasona
+
+Kaiken tässä repositoriossa julkaistavan sisällön ja käyttöliittymän tulee olla mahdollisimman saavutettavaa. Tavoitetaso on **WCAG 2.2 AAA kaikilta soveltuvilta osin**. AAA-tason saavuttamista ei saa väittää ilman asianmukaista testausta; jos jokin kriteeri ei sovellu sisältötyyppiin tai sitä ei voida täyttää, rajoite kirjataan ja saavutettavuutta parannetaan muilla käytännöllisillä keinoilla.
+
+### Kaikki julkaisut
+- Kirjoita selkeää suomea, avaa harvinaiset lyhenteet ja vältä tarpeetonta ammattijargonia. Jäsennä pitkät artikkelit kuvaavilla otsikoilla ja lyhyillä kappaleilla.
+- Käytä semanttista HTML:ää ja loogista otsikkohierarkiaa: yksi artikkelin pääotsikko, sen alla aihetta kuvaavat alaotsikot oikeassa järjestyksessä. Älä valitse otsikkotasoa ulkoasun perusteella.
+- Aseta sivun ja RSS-sisällön kieleksi suomi (fi). Merkitse vieraskieliset tekstikatkelmat tarvittaessa oikealla lang-attribuutilla.
+- Linkkitekstin tulee kertoa kohteesta myös irrallaan ympäröivästä tekstistä. Vältä ilmauksia kuten "klikkaa tästä", pelkkiä URL-osoitteita ja toistuvia yleislinkkejä. Näytöslinkeissä säilytä lähteen nimi ja lisää linkkitekstiin myös elokuvan tai näytöslistan yksilöivä kuvaus.
+- Älä välitä tietoa yksinomaan värillä, sijainnilla, kuvakkeella tai typografialla. Varmista riittävä kontrasti kaikissa teemoissa; tavallisen tekstin tavoite on AAA:n mukainen vähintään 7:1 ja suuren tekstin vähintään 4,5:1.
+- Kuvilla on tarkoituksenmukainen tekstivastine: informatiivisilla kuvilla kuvaava alt-teksti, koristekuvilla tyhjä alt. Älä upota olennaista tekstiä pelkkään kuvaan. Videoille tarjotaan tekstitykset ja tarvittaessa tekstivastine tai kuvaileva seloste, jos saatavilla.
+- Käytä taulukoita vain aidolle taulukkomuotoiselle tiedolle; lisää otsikkosolut ja niiden yhteys tietosoluihin. Suosi luetteloita, kun sisältö ei ole taulukkomuotoista.
+- Älä käytä automaattisesti käynnistyvää ääntä/videota, vilkkuvaa sisältöä tai tarpeettomia aikarajoja. Kunnioita käyttäjän liike- ja kontrastiasetuksia.
+- Varmista, että sisältö toimii näppäimistöllä, ruudunlukijalla, suurennettuna ja kapealla näytöllä. Linkkien ja ohjainten fokus on näkyvä, looginen ja riittävän selkeä.
+
+### GitHub Pages ja HTML
+- Käytä maamerkkejä (header, nav, main, footer) ja tarjoa ohita navigaatio -linkki. Anna dokumentille kuvaava title ja lang-attribuutti.
+- Linkit ovat oletusarvoisesti alleviivattuja tai muuten selvästi tunnistettavia; hover ei ole ainoa tapa havaita niitä. Näppäimistöfokus erottuu selvästi.
+- Sivun tulee toimia vähintään 320 CSS-pikselin leveydellä ilman vaakasuuntaista vieritystä ja tekstin tulee kestää 200–400 % suurennus.
+- Huomioi vaalea ja tumma tila sekä käyttöjärjestelmän pakotetut värit. Älä lukitse tekstin kokoa tai värejä tavalla, joka estää käyttäjän asetuksia.
+- Pidä tekstin luettavuus hyvänä: riittävä riviväli, kohtuullinen rivipituus ja selkeä otsikointi.
+
+### RSS ja artikkelien HTML
+- Säilytä kelvollinen RSS/XML ja käytä CDATA-alueella semanttista, otsikoitua HTML:ää. Tarkista myös RSS:n HTML-sisällön rakenne, ei vain XML:n jäsennettävyyttä.
+- Uutisartikkelissa käytä loogista otsikkohierarkiaa (h1, h2, h3...) ilman tasojen hyppäämistä. Näytösitemissä elokuvan nimi toimii otsikkona ja paikkakunnat sen alaotsikkoina.
+- Näytöslistojen linkeissä linkkitekstin tulee yksinään ilmaista lähde sekä kyseinen elokuva/näytöslista, esimerkiksi "Kinoon – Ramayanan esitysajat".
+- Varmista, että listat, kappaleet, linkit, taulukot ja kuvat ovat semanttisesti oikein. Älä lisää kuvia ilman alt-tekstiä.
+- Tarjoa artikkelin sisältö myös tekstinä; älä tee olennaista tietoa saataville vain julisteen, värin tai muun visuaalisen elementin kautta.
+
+### Testaus ennen julkaisua
+- Tarkista HTML ja XML automaattisilla validaattoreilla sekä linkkien toimivuus mahdollisuuksien mukaan.
+- Testaa kontrastit WCAG 2.2 AAA -rajoilla (normaaliteksti 7:1, suuri teksti 4,5:1) sekä vaaleassa että tummassa tilassa ja pakotetuissa väreissä.
+- Käy sivu ja RSS-artikkelit läpi näppäimistöllä; tarkista näkyvä fokus, looginen lukujärjestys ja ohituslinkki.
+- Tarkista responsiivisuus 320 CSS-pikselin leveydellä ja suurennus vähintään 200 %:iin; varmista, ettei sisältö tai ohjaimet leikkaudu.
+- Tarkista otsikkohierarkia, dokumentin kieli, linkkitekstien ymmärrettävyys, kuvien alt-tekstit, taulukoiden otsikot ja ruudunlukijalle välittyvä rakenne.
+- Automaattinen Lighthouse-, axe- tai muu testitulos on apuväline, ei yksin todiste AAA-vaatimusten täyttymisestä. Kirjaa havaitut puutteet ja korjaa ne ennen julkaisua aina kun mahdollista.
+
