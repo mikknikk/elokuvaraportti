@@ -140,3 +140,15 @@ Jos GitHub-julkaisu ei ole käytettävissä, raportin julkaisemista ei väitetä
 Tämä README ja projektin [etusivu](index.html) kuvaavat raportoinnin nykyisiä painopisteitä ja julkaisukäytäntöjä. Jos raportin aikataulu, seurattavat aiheet, toimitukselliset vaatimukset tai RSS-käytäntö muuttuvat, myös dokumentaatio päivitetään vastaamaan voimassa olevia ohjeita.
 
 Dokumentaatioon ei tallenneta salasanoja, API-avaimia, käyttöoikeustunnisteita, yksityisiä yhteystietoja tai muita salaisuuksia eikä tarpeettomia henkilökohtaisia tietoja.
+
+
+## Lähderekisteri ja seurantaloki
+
+Raportoinnin työvälineinä käytetään kahta ylläpidettävää tiedostoa:
+
+- [SOURCES.md](SOURCES.md) sisältää kielialueittaisen lähdehakemiston, paikalliskielisten hakujen sanastoa ja lähteen arviointikriteerit. Lista on lähtökohta, ei suljettu lähdejoukko eikä automaattinen laatuleima.
+- [TRACKING.md](TRACKING.md) sisältää henkilöiden ja erityisseurattavien projektien jatkuvan seurannan rakenteen, uutistapahtumien historiakirjan sekä juliste-, video- ja lipputulolähteiden kirjausohjeet.
+
+Uusia lähteitä lisätään vasta, kun niiden toimituksellinen tausta ja käyttökelpoisuus on arvioitu. Seurantalokia päivitetään vain lähteistetyillä muutoksilla. Puuttuvaa historiaa ei täytetä arvauksilla. Tärkeiden uutisten riippumattomuus arvioidaan alkuperäislähteiden ja lähdeketjujen, ei pelkän julkaisujen lukumäärän perusteella.
+
+Lipputuloissa erotetaan markkina-alue, brutto/netto, aikajakso ja arvioiden/virallisten lukujen status. Julisteiden ja videoiden lähde sekä julkaisija tarkistetaan ja kirjataan.
