@@ -155,7 +155,7 @@ Raportit julkaistaan GitHub Pagesin RSS-syötteessä:
 **Suomen näytökset:** [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml)
 
 - Yksi RSS `<item>` vastaa yhtä kokonaista päivittäistä raporttia.
-- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yksittäiset suomalaiset intialaiselokuvien näytöstapahtumat omina itemeinään, myös kolmannen osapuolen ilmoittamat. Jokaisessa itemissä kerrotaan lähteen tyyppi ja suora lähdelinkki. Päivitä sitä, kun näytös lisätään tai sen tiedot muuttuvat; säilytä aiemmat itemit arkistohistoriana.
+- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yhden RSS-itemin kutakin elokuvaa kohti. Itemin kuvauksessa luetellaan kaikki kyseisen elokuvan tiedossa olevat näytökset; jokaisella näytöksellä on oma vahvistustasomerkintä ja klikattava lähde-/lipunmyyntilinkki. Näytöksille ei tehdä erillistä RSS-itemin `<link>`-elementtiä. Kun samasta elokuvasta löytyy uusia näytöksiä tai tiedot muuttuvat, saman elokuvan item korvataan päivitetyllä versiolla. Vanhentuneet näytökset poistetaan aktiivisesta itemistä; jos elokuvalla ei ole enää tulevia näytöksiä, item poistetaan. Uusi item voidaan julkaista myöhemmin uudelleen, jos elokuvan näytökset palaavat ohjelmistoon.
 - `<description>` sisältää koko artikkelin HTML-muotoiluna, ei pelkkää ingressiä tai lyhennelmää.
 - Otsikot, väliotsikot, kappaleet, lihavoinnit, kursivoinnit, luettelot, julistekuvat ja YouTube-linkit säilytetään mahdollisuuksien mukaan.
 - Uutislähteet kootaan artikkelin loppuun linkkiluetteloksi.
