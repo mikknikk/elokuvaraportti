@@ -110,3 +110,13 @@ Jokaisesta näytösitemistä säilytetään alkuperäinen ilmoituslinkki, ilmoit
 - Lähdejakauma: 2 Finnkinon omasta ohjelmistosta (Plaza Oulu ja Scala Kuopio) ja 27 Kinoon.fi:n kolmannen osapuolen esityslistauksesta. Kolmannen osapuolen itemit on merkitty RSS:ssä näkyvästi.
 - Kino Myyrin omaa ohjelmistoa tarkistettiin 12.–19.11.2026: näille päiville ei löytynyt intialaisen elokuvan näytöstä. Kinoon.fi:n aiempi listaus kertoo Ramayanan näytöksestä Kino Myyrissä 7.11.2026; se on jo mennyt eikä kuulu aktiiviseen tulevien näytösten feediin.
 - Lähteet: [Finnkino Ramayana / Oulu](https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107), [Finnkino Ramayana / Scala Kuopio](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150), [Kinoon.fi – Ramayana esitysajat](https://kinoon.fi/esitysajat/ramayana-rise-of-a-legend?scope=uusimaa), [Kino Myyri – ohjelmisto](https://kinomyyri.fi/ohjelmisto/).
+
+## Julkaisujen saavutettavuustarkistus
+
+Ennen jokaista GitHub Pages-, RSS- tai dokumentaatiojulkaisua tarkista README.md:n [Saavutettavuus – WCAG 2.2 AAA tavoitetasona](README.md#saavutettavuus--wcag-22-aaa-tavoitetasona) -ohje. Kirjaa tähän vain todelliset testitulokset ja löydetyt puutteet; älä merkitse testaamatonta kohtaa hyväksytyksi.
+
+| Julkaisu / tiedosto | HTML/XML-validointi | Otsikot ja semantiikka | Linkit ja kuvat | Näppäimistö / ruudunlukija | Kontrasti / suurennus | Havaitut puutteet ja korjaukset | Tarkistuspäivä |
+|---|---|---|---|---|---|---|---|
+| GitHub Pages (index.html) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
+| Uutis-RSS (feed.xml) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
+| Näytös-RSS (naytokset.xml) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
