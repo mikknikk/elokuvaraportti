@@ -67,3 +67,31 @@ Yhdistä hakusanoihin aina elokuvan, henkilön tai tuotantoyhtiön nimi paikalli
 - [ ] Kirjaa julkaisupäivä ja erota se tapahtumapäivästä.
 - [ ] Merkitse lipputulolukujen lähde, brutto/netto, alue ja aikajakso.
 - [ ] Lisää uudet hyvät lähteet tähän rekisteriin vasta arvioinnin jälkeen.
+
+
+## Suomi: mediaosumat ja näytöstiedot
+
+### Suomalaiset mediat
+
+| Lähde | Käyttö |
+|---|---|
+| [Yle](https://yle.fi/) | Uutiset, kulttuuri, elokuvat, haastattelut ja festivaalit |
+| [Helsingin Sanomat](https://www.hs.fi/) | Kulttuuri- ja elokuvajournalismi sekä intialaisia elokuvia koskevat jutut |
+| [Episodi](https://www.episodi.fi/) | Elokuvauutiset, arviot, haastattelut ja teatterilevitykset |
+| [Elokuvauutiset.fi](https://www.elokuvauutiset.fi/) | Elokuva-alan uutiset ja Suomen teatterilevitykset |
+| [Film-O-Holic](https://www.film-o-holic.com/) | Elokuva-arviot, festivaalit ja elokuvakulttuuri |
+
+Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Taulukko on lähtölista, ei tyhjentävä luettelo. Erota suomalaisen toimituksen oma juttu uutistoimistotekstistä ja ulkomaisen jutun käännösreferaatista.
+
+### Suomen elokuvateatterit ja näytöslistat
+
+| Lähde | Käyttö |
+|---|---|
+| [Finnkino – elokuvat ja näytökset](https://www.finnkino.fi/elokuvat/) | Valtakunnallinen kaupallinen levitys, tulevat elokuvat ja näytösajat |
+| [BioRex – elokuvat ja näytökset](https://biorex.fi/ELOKUVAT/) | BioRexin teatteriverkoston ohjelmisto ja näytösajat |
+| [Kino Regina](https://kinoregina.fi/) | Arkisto-, erikois- ja festivaalinäytökset |
+| [Cinema Orion](https://www.cinemaorion.fi/) | Erikoisohjelmisto ja tapahtumanäytökset |
+| [Intialaiset elokuvat Suomessa](https://vuosielokuvissa.wordpress.com/intialaiset-elokuvat-suomessa/) | Intialaiselokuvien Suomen-levityksen ja näytösten erikoisseuranta; käytä löytämiseen ja varmista jokainen tuleva näytös alkuperäiseltä järjestäjältä |
+| [Stadissa – elokuvien ensi-illat](https://www.stadissa.fi/paikat/3174/elokuvien-ensi-illat) | Helsingin teatterien ohjelmistojen löytämisen apulista |
+
+Näytöstietojen ensisijainen vahvistus on aina teatterin, festivaalin tai tapahtuman oma ohjelmisto tai lipunmyyntisivu. Kolmannen osapuolen listaus ei yksin riitä varmistukseksi. Tarkista päivämäärä, kellonaika, paikkakunta, teatteri ja lippulinkki; päivitä myös peruutukset ja siirrot.
