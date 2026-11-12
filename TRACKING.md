@@ -120,3 +120,13 @@ Ennen jokaista GitHub Pages-, RSS- tai dokumentaatiojulkaisua tarkista README.md
 | GitHub Pages (index.html) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
 | Uutis-RSS (feed.xml) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
 | Näytös-RSS (naytokset.xml) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
+
+
+### Näytöshaku 12.11.2026 klo 16.57 – RSS päivitetty
+
+- Tarkistuksessa löytyi Ramayanan 29 tulevaa näytöstä aikavälille 12.–18.11.2026. RSS-item korvattiin ajantasaisella kokonaisuudella; sama elokuva säilyttää vakaan GUID-tunnisteensa.
+- Päivän 12.11. näytökset tarkistettiin mukaan lukien Finnkino Kinopalatsin klo 17.00 näytös (tarkistushetkellä vielä tuleva), Finnkino Plazan klo 18.50 ja Scala Kuopion klo 19.15 näytökset. Myös Kinoon-listauksen Kinolinna (Mikkeli) klo 19.00 ja Plevna (Tampere) klo 19.50 sekä Sello (Espoo) klo 20.00 sisältyvät.
+- Tulevien päivien listaa täydennettiin Kinoon.fi:n tämänhetkisillä listauksilla: 13.11. kaksi, 14.11. kolme, 15.11. kahdeksan, 16.11. kolme, 17.11. viisi ja 18.11. kaksi näytöstä.
+- Lähdevalinnassa käytettiin teatterin omaa sivua, kun suora elokuvakohtainen sivu löytyi: Finnkino Plaza Oulu, Finnkino Scala Kuopio ja Leffabuumin Kinolinna. Muissa riveissä käytettiin Kinoon.fi:n elokuvakohtaista listaa kolmannen osapuolen lähteenä.
+- Kino Myyrin oma ohjelmisto tarkistettiin: 12.–25.11.2026 näkyvissä olevassa ohjelmistossa ei ollut intialaista elokuvaa. Muita uusia intialaisia näytöksiä ei löytynyt tämän haun lähteistä; tämä ei ole takuu täydellisestä kattavuudesta.
+- Lähteet: [Kinoon – Ramayana (Pirkanmaa / Suomen näytökset)](https://kinoon.fi/en/showtimes/ramayana?scope=pirkanmaa), [Finnkino – Ramayana / Plaza Oulu](https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107), [Finnkino – Ramayana / Scala Kuopio](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150), [Leffabuumi – näytösajat](https://www.leffabuumi.fi/elokuvat/naytosajat?lang=fi), [Kino Myyri – ohjelmisto](https://kinomyyri.fi/ohjelmisto/).
