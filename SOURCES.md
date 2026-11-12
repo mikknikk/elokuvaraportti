@@ -96,3 +96,16 @@ Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Tauluk
 | [Stadissa – elokuvien ensi-illat](https://www.stadissa.fi/paikat/3174/elokuvien-ensi-illat) | Helsingin teatterien ohjelmistojen löytämisen apulista |
 
 Näytöstietojen ensisijainen vahvistus on aina teatterin, festivaalin tai tapahtuman oma ohjelmisto tai lipunmyyntisivu. Kolmannen osapuolen listaus ei yksin riitä varmistukseksi. Tarkista päivämäärä, kellonaika, paikkakunta, teatteri ja lippulinkki; päivitä myös peruutukset ja siirrot.
+
+
+### Suomessa toimivat intialaiselokuvien levittäjät – sosiaalinen media
+
+Näiden toimijoiden Facebook-julkaisut tarkistetaan jokaisella näytöshakukierroksella. Julkaisujen perusteella voi lisätä näytöstapahtuman RSS:ään myös ilman teatterin omaa ohjelmistomerkintää, kun julkaisija ja lähde kirjataan selvästi (ks. README ja TRACKING).
+
+| Levittäjä / järjestäjä | Facebook / lähde | Huomio |
+|---|---|---|
+| FinBolly Movies | [Facebook](https://www.facebook.com/Finbollymovies) | Suomessa toimiva intialaiselokuvien levittäjä; linkki löytyy myös yrityksen LinkedIn-esittelystä. |
+| FinTamil Movies | [Verkkosivusto](https://www.fintamilmovies.com/) | Facebook-sivun täsmällistä osoitetta ei saatu tässä tarkistuksessa vahvistettua. Etsi ja tarkista sivu nimellä “FinTamil Movies”; älä käytä arvattua Facebook-osoitetta. |
+| Rasa Entertainment | [Facebook-sivu](https://www.facebook.com/298328530028338/) | Vantaa; julkaisee näytösilmoituksia ja lipunmyyntitietoja. Sivun sisältö näkyy myös FindGlocal-listauksessa. |
+
+Facebook-sisällön indeksointi voi olla rajallista. Tarkista julkiset sivut suoraan selaimella aina kun mahdollista; kirjaa julkaisupäivä ja linkki yksittäiseen julkaisuun. Jos sivua ei voi avata tai julkaisua ei löydy, merkitse se hakurajoitteeksi – älä päättele, ettei ilmoituksia ole.
