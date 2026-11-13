@@ -160,8 +160,7 @@ Raportti on itsenäinen, julkaisuvalmis artikkeli. Sen rakenne on mahdollisuuksi
 6. Huhut ja ristiriitaiset tiedot erillään vahvistetuista uutisista.
 7. Suomalaiset intialaisissa elokuvissa.
 8. Suomalaisen median intialaiselokuvia koskevat jutut.
-9. Intialaisten elokuvien tulevat näytökset Suomen elokuvateattereissa.
-10. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
+9. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
 
 Raportissa käytetään selkeää otsikointia, päiväystä, informatiivista aloitusta, väliotsikoita, kappalejakoa, lihavointeja, kursivointeja ja tarvittaessa luetteloita. Pituus määräytyy uutistarjonnan mukaan.
 
@@ -169,11 +168,10 @@ Raportissa käytetään selkeää otsikointia, päiväystä, informatiivista alo
 
 Raportit julkaistaan GitHub Pagesin RSS-syötteessä:
 
-**Päivittäinen uutiskooste:** [feed.xml](https://mikknikk.github.io/elokuvaraportti/feed.xml)  
-**Suomen näytökset:** [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml)
+**Päivittäinen uutiskooste:** [feed.xml](https://mikknikk.github.io/elokuvaraportti/feed.xml)
 
 - Yksi RSS `<item>` vastaa yhtä kokonaista päivittäistä raporttia.
-- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yhden RSS-itemin kutakin elokuvaa kohti. Näytösrivi näyttää päivämäärän ja kellonajan Suomen paikallisajassa, teatterin ja paikkakunnan sekä tarvittaessa lähteessä ilmoitetun kielen ja tekstityksen. Jokaisella rivillä on suoraan kyseiseen näytöslistaan tai ilmoitukseen johtava linkki, jonka tekstissä nimetään julkaisija (esim. Finnkino, levittäjä tai kolmannen osapuolen palvelu). Kompaktissa RSS-näkymässä ei näytetä erillisiä `Tila`-, `Lähde`- tai vahvistusluokkamerkintöjä eikä aikavyöhyketekstiä. Lähteen tyyppi ja tarkistustiedot säilytetään sisäisessä seurannassa; lähdeluokat ovat TEATTERIN VAHVISTAMA, JÄRJESTÄJÄN ILMOITTAMA ja KOLMANNEN OSAPUOLEN ILMOITTAMA. Kolmannen osapuolen yksilöitävä ilmoitus riittää julkaisuun, mutta sitä ei esitetä teatterin vahvistamana. Lähdelinkin etusijajärjestys on teatterin oma näytös-/lipunmyyntisivu, levittäjän oma julkaisu ja vasta sitten kolmannen osapuolen sivusto. Näytökset ryhmitellään kaupungeittain: Pääkaupunkiseutu ensin, sen jälkeen muut kaupungit aakkosjärjestyksessä; ajat järjestetään kunkin kaupungin sisällä aikajärjestykseen. Näytöksille ei tehdä erillistä RSS-itemin `<link>`-elementtiä. Kun samasta elokuvasta löytyy uusia näytöksiä tai tiedot muuttuvat, saman elokuvan item korvataan päivitetyllä versiolla. Menneet, peruutetut ja vanhentuneet näytökset poistetaan aktiivisesta itemistä; jos elokuvalla ei ole enää tulevia näytöksiä, item poistetaan.
+- Suomen näytöksillä on oma erillinen syöte ja näytösvahti; ne eivät kuulu tähän uutisraporttiin tai sen RSS-syötteeseen.
 - `<description>` sisältää koko artikkelin HTML-muotoiluna, ei pelkkää ingressiä tai lyhennelmää.
 - Otsikot, väliotsikot, kappaleet, lihavoinnit, kursivoinnit, luettelot, julistekuvat ja YouTube-linkit säilytetään mahdollisuuksien mukaan.
 - Uutislähteet kootaan artikkelin loppuun linkkiluetteloksi.
