@@ -87,8 +87,13 @@ Seuraavien projektien uusia tietoja seurataan tavallista tarkemmin:
 - **Salaar 2**
 - **Spirit**
 - **Fauzi**
+- **Demonte Colony -elokuvasarja** (Demonte Colony, Demonte Colony 2 ja virallisesti nimetyt tulevat osat)
 
 Seurattavia asioita ovat esimerkiksi tuotannon eteneminen, kuvaukset, näyttelijäkiinnitykset, ensimateriaali, julkaisuaikataulut sekä luotettavasti raportoidut huhut ja ristiriidat. Vahvistamattomia tietoja ei esitetä varmoina.
+
+## Erityisseuranta: Demonte Colony -elokuvasarja
+
+Seuraa kaikkia virallisesti nimettyjä osia ja jatkokehityksiä, mukaan lukien *Demonte Colony*, *Demonte Colony 2* ja *Demonte Colony 3* sekä mahdolliset myöhemmät osat ja spin-offit. Hae myös vaihtoehtoisilla kirjoitusasuilla ja varmista tamilinkieliset nimet ennen niiden käyttöä. Seuranta kattaa tuotannon, näyttelijät, markkinoinnin, julkaisun, lipputulot ja oikeudelliset tai levitykseen vaikuttavat muutokset. Huhut pidetään erillään virallisista tiedoista.
 
 ## Lähteet ja tiedon luotettavuus
 
@@ -131,6 +136,10 @@ Jokaisessa päivittäisessä raportissa on oma osio suomalaisessa mediassa julka
 - Erota suomalaisen median oma toimituksellinen sisältö ulkomaisen jutun referoinnista tai uutistoimiston materiaalista. Älä esitä samaa juttua useana uutisena.
 - Jos uusia osumia ei löydy, ilmoita se lyhyesti. Älä täytä osiota vanhoilla artikkeleilla.
 
+## Suomalaiset intialaisissa elokuvissa
+
+Jokaisessa raportissa tarkistetaan, onko uusissa tai aiemmin seuratuissa intialaisissa elokuvissa suomalaisia näyttelijöitä tai muita tekijöitä. Tarkistus kattaa näyttelijät, ohjaajat, käsikirjoittajat, kuvaajat, säveltäjät, tuottajat, stunt- ja VFX-ammattilaiset sekä muun kuvaus- ja taiteellisen työryhmän. Suomalaisuus varmistetaan luotettavasta lähteestä, eikä sitä päätellä nimestä tai asuinpaikasta. Raportissa erotetaan Suomen kansalaisuus, suomalainen tausta ja Suomessa asuminen lähteen täsmällisen sanamuodon mukaan. Osallistuminen elokuvaan varmistetaan erikseen esimerkiksi lopputeksteistä, tuotantoyhtiön ilmoituksesta tai luotettavasta haastattelusta. Uudet löydökset kirjataan TRACKING.md:n omaan suomalaisten kytkösten seurantaan.
+
 ## Intialaiset elokuvat Suomen elokuvateattereissa
 
 Jokaisessa raportissa tarkistetaan Suomessa järjestettävät tulevat intialaisten elokuvien näytökset. Mukaan kuuluvat tavalliset teatteriesitykset, ennakot, erikoisnäytökset, festivaaliesitykset ja tapahtumanäytökset.
@@ -152,12 +161,13 @@ Raportti on itsenäinen, julkaisuvalmis artikkeli. Sen rakenne on mahdollisuuksi
 1. Päivän tärkeimmät intialaisen elokuvan uutiset.
 2. Uutiset kielittäin ja elokuvateollisuuksittain.
 3. Erityisseurattavat henkilöt – kaikki kymmenen henkilöä.
-4. Erityisseurattavat elokuvat – kuusi projektia.
+4. Erityisseurattavat elokuvat ja elokuvasarjat – seitsemän kohdetta.
 5. Genre- ja teemat seurannassa – fantasia, scifi, aikamatkustus, zombit ja ennen vuotta 1800 sijoittuva historia.
 6. Huhut ja ristiriitaiset tiedot erillään vahvistetuista uutisista.
-7. Suomalaisen median intialaiselokuvia koskevat jutut.
-8. Intialaisten elokuvien tulevat näytökset Suomen elokuvateattereissa.
-9. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
+7. Suomalaiset intialaisissa elokuvissa.
+8. Suomalaisen median intialaiselokuvia koskevat jutut.
+9. Intialaisten elokuvien tulevat näytökset Suomen elokuvateattereissa.
+10. Päivän yhteenveto ja seuraavien päivien tärkeimmät avoimet kysymykset.
 
 Raportissa käytetään selkeää otsikointia, päiväystä, informatiivista aloitusta, väliotsikoita, kappalejakoa, lihavointeja, kursivointeja ja tarvittaessa luetteloita. Pituus määräytyy uutistarjonnan mukaan.
 
@@ -169,7 +179,7 @@ Raportit julkaistaan GitHub Pagesin RSS-syötteessä:
 **Suomen näytökset:** [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml)
 
 - Yksi RSS `<item>` vastaa yhtä kokonaista päivittäistä raporttia.
-- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yhden RSS-itemin kutakin elokuvaa kohti. Näytökset ryhmitellään paikkakuntien alaotsikoihin: Pääkaupunkiseutu ensin yhtenä ryhmänä, sitten muut kaupungit aakkosjärjestyksessä. Kunkin ryhmän näytökset ovat päivämäärän ja kellonajan mukaisessa järjestyksessä. Näytösrivi on kompakti: päivämäärä ja kellonaika, teatteri/tapahtumapaikka sekä suoraan lähteen nimellä merkitty linkki. Suomen aikaa ei erikseen mainita, eikä riveillä näytetä Tila- tai Lähde-otsikoita tai vahvistustasotekstiä; lähteen tyyppi ja vahvistustaso säilytetään sisäisessä lähdeseurannassa. Näytöksille ei tehdä erillistä RSS-itemin `<link>`-elementtiä. Kun samasta elokuvasta löytyy uusia näytöksiä tai tiedot muuttuvat, saman elokuvan item korvataan päivitetyllä versiolla. Vanhentuneet näytökset poistetaan aktiivisesta itemistä; jos elokuvalla ei ole enää tulevia näytöksiä, item poistetaan. Uusi item voidaan julkaista myöhemmin uudelleen, jos elokuvan näytökset palaavat ohjelmistoon.
+- Erillinen [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml) sisältää yhden RSS-itemin kutakin elokuvaa kohti. Jokaisen näytösrivin yhteydessä ilmoitetaan kieli ja tekstitys, jos ne ovat lähteessä, Suomen paikallinen päivämäärä ja kellonaika, teatteri ja paikkakunta, lipputilanteen tarkistuksen tila, lähdeluokka, julkaisija, lähdelinkki ja tarkistuspäivä. Lähdeluokat ovat TEATTERIN VAHVISTAMA, JÄRJESTÄJÄN ILMOITTAMA ja KOLMANNEN OSAPUOLEN ILMOITTAMA. Kolmannen osapuolen yksilöitävä ilmoitus riittää julkaisuun, mutta sitä ei esitetä teatterin vahvistamana. Näytöksille ei tehdä erillistä RSS-itemin `<link>`-elementtiä. Kun samasta elokuvasta löytyy uusia näytöksiä tai tiedot muuttuvat, saman elokuvan item korvataan päivitetyllä versiolla. Menneet, peruutetut ja vanhentuneet näytökset poistetaan aktiivisesta itemistä; jos elokuvalla ei ole enää tulevia näytöksiä, item poistetaan.
 - `<description>` sisältää koko artikkelin HTML-muotoiluna, ei pelkkää ingressiä tai lyhennelmää.
 - Otsikot, väliotsikot, kappaleet, lihavoinnit, kursivoinnit, luettelot, julistekuvat ja YouTube-linkit säilytetään mahdollisuuksien mukaan.
 - Uutislähteet kootaan artikkelin loppuun linkkiluetteloksi.
