@@ -23,7 +23,7 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 |---|---|---|
 | [Hindustan Times](https://www.hindustantimes.com/) | Valtakunnallinen englanninkielinen toimituksellinen media; viihdeuutiset, haastattelut ja lipputulot | Kirjoittaja ja julkaisupäivä näkyvät usein; tarkista lipputulojen alkuperäinen seurantapalvelu. |
 | [The Week](https://www.theweek.in/) | Valtakunnallinen viikkolehti ja verkkouutismedia; elokuva- ja viihdeuutiset | Jutuissa näkyy kirjoittaja ja julkaisuaika; lipputulojutut voivat nojata samaan kauppaseurantaan kuin muut mediat. |
-| [The Times of India / ETimes](https://timesofindia.indiatimes.com/entertainment) | Laaja valtakunnallinen uutismedia; alueelliset elokuvaosiot ja viihdeuutiset | Osa jutuista on Entertainment Desk -tuotantoa tai uutistoimistomateriaalia; tarkista jutun oma lähdeketju. |
+| [The Times of India / ETimes](https://timesofindia.indiatimes.com/entertainment) | Laaja valtakunnallinen uutismedia; alueelliset elokuvaosiot ja viihdeuutiset | Osa jutuista on Entertainment Desk -tuotantoa tai uutistoimistomateriaalia; tarkista jutun oma lähdeketju ja otsikon suhde runkotekstiin. Esimerkiksi Demonte Colony 3:n 29.9.2026 oikeusjuttua koskevan jutun otsikko ja runko kuvaavat väliaikaista määräystä ristiriitaisesti. |
 | [IANS](https://ianslive.in/) | Uutistoimisto; alkuperäisten lausuntojen ja tuotantoyhtiöiden ilmoitusten välittäminen | Uutistoimistoteksti ei ole itsenäinen vahvistus alkuperäisestä tiedotteesta; säilytä suora yhteys ilmoittajaan. |
 
 ## Kannada / englanti – täydentävä lähde
