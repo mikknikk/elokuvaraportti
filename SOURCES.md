@@ -15,6 +15,22 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | Useat alueet / englanti | [The Indian Express – Regional](https://indianexpress.com/section/entertainment/regional/) | Alueellisten elokuvateollisuuksien uutisten löytäminen ja ristiintarkistus |
 | Useat alueet / englanti | [India Today – Regional Cinema](https://www.indiatoday.in/topic/regional-cinema) | Laaja alueellisen elokuvan uutisvirta ja uutisvihjeet |
 
+
+## Valtakunnalliset uutismediat ja uutistoimistot
+
+| Lähde | Tyyppi ja käyttö | Arviointihuomio |
+|---|---|---|
+| [Hindustan Times](https://www.hindustantimes.com/) | Valtakunnallinen englanninkielinen toimituksellinen media; viihdeuutiset, haastattelut ja lipputulot | Kirjoittaja ja julkaisupäivä näkyvät usein; tarkista lipputulojen alkuperäinen seurantapalvelu. |
+| [The Week](https://www.theweek.in/) | Valtakunnallinen viikkolehti ja verkkouutismedia; elokuva- ja viihdeuutiset | Jutuissa näkyy kirjoittaja ja julkaisuaika; lipputulojutut voivat nojata samaan kauppaseurantaan kuin muut mediat. |
+| [The Times of India / ETimes](https://timesofindia.indiatimes.com/entertainment) | Laaja valtakunnallinen uutismedia; alueelliset elokuvaosiot ja viihdeuutiset | Osa jutuista on Entertainment Desk -tuotantoa tai uutistoimistomateriaalia; tarkista jutun oma lähdeketju. |
+| [IANS](https://ianslive.in/) | Uutistoimisto; alkuperäisten lausuntojen ja tuotantoyhtiöiden ilmoitusten välittäminen | Uutistoimistoteksti ei ole itsenäinen vahvistus alkuperäisestä tiedotteesta; säilytä suora yhteys ilmoittajaan. |
+
+## Kannada / englanti – täydentävä lähde
+
+| Lähde | Käyttö |
+|---|---|
+| [SouthSide Studio](https://southsidestudio.in/news/) | Kannadatuotantojen julkistukset, trailerit ja julkaisupäivien muutokset. Sivustolla näkyy kirjoittajatiimi ja korjausmerkintöjä; tarkista jutussa nimetyt ensisijaiset lähteet ja käsittele sivustoa toimituksellisena toissijaislähteenä, ei virallisena kanavana. |
+
 ## Täydennettävät kielialueet
 
 Bengali-, Marathi-, Punjabi-, assami- ja odia-elokuvan toimitukselliset paikallislähteet tulee löytää ja arvioida hakukohtaisesti. Älä merkitse aluetta katetuksi vain siksi, että englanninkielinen kansallinen media kirjoitti siitä. Etsi alkuperäiskielisiä sanomalehtiä, elokuvajulkaisuja ja haastatteluja, tarkista toimituksellinen tausta ja lisää lähde tähän tiedostoon vasta, kun sen soveltuvuus on arvioitu.
@@ -89,13 +105,14 @@ Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Tauluk
 |---|---|
 | [Finnkino – elokuvat ja näytökset](https://www.finnkino.fi/elokuvat/) | Valtakunnallinen kaupallinen levitys, tulevat elokuvat ja näytösajat |
 | [BioRex – elokuvat ja näytökset](https://biorex.fi/ELOKUVAT/) | BioRexin teatteriverkoston ohjelmisto ja näytösajat |
+| [Kinoon.fi – Suomen näytösajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157) | Kolmannen osapuolen näytöskooste ja lipunmyyntiin ohjaavat linkit; käytä löytämiseen ja julkaise lähdeluokka näkyvästi, älä teatterivahvistuksena. |
 | [Kino Regina](https://kinoregina.fi/) | Arkisto-, erikois- ja festivaalinäytökset |
 | [Cinema Orion](https://www.cinemaorion.fi/) | Erikoisohjelmisto ja tapahtumanäytökset |
 | [Kino Myyri](https://kinomyyri.fi/ohjelmisto/) | Vantaan Myyrmäen elokuvateatterin ohjelmisto ja lipunmyynti; tarkista myös [erikoisnäytökset](https://kinomyyri.fi/erikoisnaytokset/) |
 | [Intialaiset elokuvat Suomessa](https://vuosielokuvissa.wordpress.com/intialaiset-elokuvat-suomessa/) | Intialaiselokuvien Suomen-levityksen ja näytösten erikoisseuranta; käytä löytämiseen ja varmista jokainen tuleva näytös alkuperäiseltä järjestäjältä |
 | [Stadissa – elokuvien ensi-illat](https://www.stadissa.fi/paikat/3174/elokuvien-ensi-illat) | Helsingin teatterien ohjelmistojen löytämisen apulista |
 
-Näytöstietojen ensisijainen vahvistus on aina teatterin, festivaalin tai tapahtuman oma ohjelmisto tai lipunmyyntisivu. Kolmannen osapuolen listaus ei yksin riitä varmistukseksi. Tarkista päivämäärä, kellonaika, paikkakunta, teatteri ja lippulinkki; päivitä myös peruutukset ja siirrot.
+Teatterin, festivaalin tai tapahtuman oma ohjelmisto on ensisijainen lähde. Kolmannen osapuolen listaus riittää kuitenkin RSS-julkaisuun, jos elokuva, päivämäärä, kellonaika ja paikka yksilöityvät; merkitse se selvästi KOLMANNEN OSAPUOLEN ILMOITTAMAKSI. Tarkista päivämäärä, kellonaika, paikkakunta, teatteri ja lippulinkki; päivitä myös peruutukset ja siirrot.
 
 
 ### Suomessa toimivat intialaiselokuvien levittäjät – sosiaalinen media
