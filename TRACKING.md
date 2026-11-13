@@ -209,3 +209,5 @@ Seuranta kattaa näyttelijät, ohjaajat, käsikirjoittajat, kuvaajat, säveltäj
 - Levittäjien Facebook-sivut (FinBolly Movies, FinTamil Movies ja Rasa Entertainment) eivät avautuneet julkisessa hakutyökalussa (cache miss); tämä on hakurajoite, ei todiste julkaisujen puuttumisesta.
 - Julisteita tai uusia virallisia trailereita/teasereita ei löytynyt tämän raportointijakson uutisille.
 
+
+- RSS-julkaisu 13.11.2026: päivän olemassa oleva item päivitettiin samaa GUIDia käyttäen (elokuvaraportti-daily-2026-11-13); aiempi viikkoraportti säilyi. Uutisfeedissä on 2 itemiä ja yksilölliset GUIDit. Päivän artikkelissa on 1 h1, 11 h2, 10 h3 ja 65 ei-tyhjää linkkiä. Näytösfeedissä on 1 itemi, yksilöllinen elokuvakohtainen GUID ja 23 tulevaa näytösriviä / 23 ei-tyhjää lähdelinkkiä. XML- ja HTML-tagien tasapaino sekä CDATA-rajat tarkistettiin omalla rakennetarkistuksella; ulkoista XML-validaattoria ei ajettu. GitHub Pagesin julkinen URL ei avautunut tarkistustyökaluissa, joten julkaistun sivuvälimuistin levittymistä ei voitu vahvistaa.
