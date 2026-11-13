@@ -17,6 +17,8 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | Useat alueet / englanti | [India Today – Regional Cinema](https://www.indiatoday.in/topic/regional-cinema) | Laaja alueellisen elokuvan uutisvirta ja uutisvihjeet |
 
 
+| Telugu / englanti | [The Hans India](https://www.thehansindia.com/) | Telugu-alueen englanninkielinen toimituksellinen media; käytä alueellisten julkistusten ja tuotantouutisten lähteenä. 12.11.2026 julkaistussa Ravali Hymavatin Alcohol-jutussa (12:12 IST) siteerattiin Sithara Entertainmentsin virallista X-ilmoitusta. Juttu tukee ilmoituksen löytämistä, mutta ei ole erillinen vahvistus samasta tiedotteesta. |
+
 ## Valtakunnalliset uutismediat ja uutistoimistot
 
 | Lähde | Tyyppi ja käyttö | Arviointihuomio |
@@ -25,6 +27,18 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | [The Week](https://www.theweek.in/) | Valtakunnallinen viikkolehti ja verkkouutismedia; elokuva- ja viihdeuutiset | Jutuissa näkyy kirjoittaja ja julkaisuaika; lipputulojutut voivat nojata samaan kauppaseurantaan kuin muut mediat. |
 | [The Times of India / ETimes](https://timesofindia.indiatimes.com/entertainment) | Laaja valtakunnallinen uutismedia; alueelliset elokuvaosiot ja viihdeuutiset | Osa jutuista on Entertainment Desk -tuotantoa tai uutistoimistomateriaalia; tarkista jutun oma lähdeketju ja otsikon suhde runkotekstiin. Esimerkiksi Demonte Colony 3:n 29.9.2026 oikeusjuttua koskevan jutun otsikko ja runko kuvaavat väliaikaista määräystä ristiriitaisesti. |
 | [IANS](https://ianslive.in/) | Uutistoimisto; alkuperäisten lausuntojen ja tuotantoyhtiöiden ilmoitusten välittäminen | Uutistoimistoteksti ei ole itsenäinen vahvistus alkuperäisestä tiedotteesta; säilytä suora yhteys ilmoittajaan. |
+
+## Lipputuloseuranta ja kaupparaportit
+
+| Lähde | Tyyppi ja käyttö | Arviointihuomio |
+|---|---|---|
+| [Sacnilk](https://www.sacnilk.com/) | Elokuvakohtainen lipputuloseuranta; päiväkohtaiset Intian netto- ja bruttoluvut, ulkomaanbrutto ja maailmanlaajuiset arviot | Ei virallinen tuottaja- tai tilinpäätöslähde. Luvut ovat kauppaseurannan arvioita, joita päivitetään ja voidaan korjata. Esimerkiksi Ramayanan ja Scenen marraskuun 2026 päiväkohtaiset luvut ovat Sacnilkin arvioita; niitä toistavat mediat eivät muodosta riippumattomia vahvistuksia, jos kaikki nojaavat samaan seurantaan. |
+
+## Valtakunnallinen toimituksellinen lähde – lisäys
+
+| Lähde | Tyyppi ja käyttö | Arviointihuomio |
+|---|---|---|
+| [NDTV Entertainment](https://www.ndtv.com/entertainment) | Valtakunnallinen englanninkielinen toimituksellinen uutismedia; myös alan työehdot, levitys ja teatterinäytösten jakautuminen | Jutuissa näkyy toimittaja ja julkaisuaika. Pyreä koskevassa 12.11.2026 jutussa Anjali Choudhury siteeraa AICWA:n omaa X-julkaisua. Näytösten vähentämistä koskeva väite on yhdistyksen ja ohjaajan väite, ei NDTV:n itsenäisesti todentama teatteritilasto. |
 
 ## Kannada / englanti – täydentävä lähde
 
