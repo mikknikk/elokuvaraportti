@@ -142,9 +142,9 @@ Ennen jokaista GitHub Pages-, RSS- tai dokumentaatiojulkaisua tarkista README.md
 
 | Julkaisu / tiedosto | HTML/XML-validointi | Otsikot ja semantiikka | Linkit ja kuvat | Näppäimistö / ruudunlukija | Kontrasti / suurennus | Havaitut puutteet ja korjaukset | Tarkistuspäivä |
 |---|---|---|---|---|---|---|---|
-| GitHub Pages (index.html) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
-| Uutis-RSS (feed.xml) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
-| Näytös-RSS (naytokset.xml) | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä kirjattua tulosta | Ei vielä testattu | Ei vielä testattu | — | — |
+| GitHub Pages (index.html) | Lähdetekstiä tarkasteltu; automaattista HTML-validaattoria tai selainrenderöintiä ei tehty | H1/H2-rakenne ja ohituslinkki näkyvät lähdekoodissa | Linkkitekstit tarkastettu pääosin; kuville ei lisätty uutta mediaa | Ei testattu | Ei testattu | Näppäimistö-, ruudunlukija-, kontrasti- ja responsiivisuustestit puuttuvat; AAA-tasoa ei väitetä | 13.11.2026 |
+| Uutis-RSS (feed.xml) | Oma rakennetarkistus: tagien tasapaino, CDATA ja yksilölliset GUIDit läpäisty; ulkoista XML-validaattoria ei ajettu | 1 h1, 11 h2 ja 8 h3; ei otsikkotason hyppyjä | 37 linkkiä, ei tyhjiä linkkitekstejä; ei kuvia | Ei testattu | Ei testattu | Ulkoinen XML-/HTML-validointi, selain-, näppäimistö-, ruudunlukija-, kontrasti- ja responsiivisuustestit puuttuvat; AAA-tasoa ei väitetä | 13.11.2026 |
+| Näytös-RSS (naytokset.xml) | Oma rakennetarkistus: tagien tasapaino, CDATA ja yksilöllinen GUID läpäisty; ulkoista XML-validaattoria ei ajettu | 1 h1 ja 1 h2 | 23 linkkiä, ei tyhjiä linkkitekstejä; ei kuvia | Ei testattu | Ei testattu | Ulkoinen XML-/HTML-validointi, selain-, näppäimistö-, ruudunlukija-, kontrasti- ja responsiivisuustestit puuttuvat; AAA-tasoa ei väitetä | 13.11.2026 |
 
 
 ### Näytöshaku 12.11.2026 klo 16.57 – RSS päivitetty
@@ -185,7 +185,7 @@ Seuranta kattaa näyttelijät, ohjaajat, käsikirjoittajat, kuvaajat, säveltäj
 - Haku kattoi suomalaiset näyttelijät, ohjaajat, kuvaajat, säveltäjät, stunt-/VFX-tekijät ja muut työryhmän jäsenet sekä englannin- että suomenkielisillä hakulauseilla.
 - Ei löytynyt uutta luotettavaa lähdettä, joka vahvistaisi suomalaisen henkilön osallistumisen intialaiseen elokuvaan. Hakutulos ei todista, ettei tällaisia henkilöitä olisi.
 - Suomalaisen median haussa ei löytynyt 12.11. klo 16.20 – 13.11. klo 02.33 välillä julkaistua uutta toimituksellista juttua. Helsingin Sanomien hakunäkymä oli rajoitettu.
-- Näytöshaussa löytyi 23 Ramayana-näytöstä 13.–18.11.2026. Kolme aiemmin teatterin omasta ohjelmistosta tarkistettua Finnkino-näytöstä säilyttää TEATTERIN VAHVISTAMA -luokan; muut 20 ovat Kinoon.fi:n kolmannen osapuolen listauksia. Kinoon-näkymä näytti edelleen 12.11. päiväyksen tämän päivänä, joten viive on kirjattu.
+- Näytöshaussa löytyi 23 Ramayana-näytöstä 13.–18.11.2026. Kolme aiemmin teatterin omasta ohjelmistosta tarkistettua Finnkino-näytöstä säilyttää TEATTERIN VAHVISTAMA -luokan; muut 20 ovat Kinoon.fi:n kolmannen osapuolen listauksia. Kinoon-näkymä näytti 13.11. tarkistushetkellä yhä 12.11.2026:n kuluvana päivänä, joten tiedot voivat olla päivän viiveellä.
 - FinBolly Moviesin, FinTamil Moviesin ja Rasa Entertainmentin Facebook-julkaisuista ei saatu tässä ajossa uutta yksilöitävää ilmoitusta. Facebookin indeksointi- ja käyttörajoitukset ovat hakurajoite, eivät näyttö ilmoitusten puuttumisesta.
 - Kino Myyrin ohjelmiston haettu näkymä oli vanhentunut (27.10.2026); Kino Reginan ja Cinema Orionin haetut ohjelmistonäkymät eivät antaneet ajantasaista vahvistusta uudesta intialaisnäytöksestä.
 
