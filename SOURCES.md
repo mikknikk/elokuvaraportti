@@ -126,7 +126,8 @@ Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Tauluk
 |---|---|
 | [Finnkino – elokuvat ja näytökset](https://www.finnkino.fi/elokuvat/) | Valtakunnallinen kaupallinen levitys, tulevat elokuvat ja näytösajat |
 | [BioRex – elokuvat ja näytökset](https://biorex.fi/ELOKUVAT/) | BioRexin teatteriverkoston ohjelmisto ja näytösajat |
-| [Kinoon.fi – Suomen näytösajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157) | Kolmannen osapuolen näytöskooste ja lipunmyyntiin ohjaavat linkit; käytä löytämiseen ja julkaise lähdeluokka näkyvästi, älä teatterivahvistuksena. |
+| [Kinoon.fi – Suomen näytösajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157) | Kolmannen osapuolen näytöskooste ja lipunmyyntiin ohjaavat linkit; käytä löytämiseen ja täsmällisten päivien/aikojen ristiintarkistukseen. Lähdeluokka säilytetään TRACKING.md:ssa; RSS:ssä linkkiteksti nimeää lähteen mutta vahvistustasoa ei näytetä. |
+| [Oulun kansainvälinen lasten- ja nuortenelokuvien festivaali – esitysaikataulu 2026](https://www.oulufilmfestival.fi/esitysaikataulu-2026/) | Festivaalin järjestäjän oma ohjelmisto ja päiväkohtainen esitysaikataulu; tarkista elokuvakohtaiselta sivulta tuotantomaa, kieli ja tekstitykset. |
 | [Kino Regina](https://kinoregina.fi/) | Arkisto-, erikois- ja festivaalinäytökset |
 | [Cinema Orion](https://www.cinemaorion.fi/) | Erikoisohjelmisto ja tapahtumanäytökset |
 | [Kino Myyri](https://kinomyyri.fi/ohjelmisto/) | Vantaan Myyrmäen elokuvateatterin ohjelmisto ja lipunmyynti; tarkista myös [erikoisnäytökset](https://kinomyyri.fi/erikoisnaytokset/) |
