@@ -132,7 +132,7 @@ Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Tauluk
 | [Kino Myyri](https://kinomyyri.fi/ohjelmisto/) | Vantaan Myyrmäen elokuvateatterin ohjelmisto ja lipunmyynti; tarkista myös [erikoisnäytökset](https://kinomyyri.fi/erikoisnaytokset/) |
 | [Kino Piispanristi](https://www.kinopiispanristi.fi/) | Turun seudun elokuvateatterin ohjelmisto ja elokuvakohtaiset näytösajat |
 | [Intialaiset elokuvat Suomessa](https://vuosielokuvissa.wordpress.com/intialaiset-elokuvat-suomessa/) | Intialaiselokuvien Suomen-levityksen ja näytösten erikoisseuranta; käytä löytämiseen ja varmista jokainen tuleva näytös alkuperäiseltä järjestäjältä |
-| [Sony Pictures – Klara and the Sun](https://www.sonypictures.com/movies/klaraandthesun) | Virallinen elokuvasivu; synopsis, tekijät ja näyttelijät. Ei yksin vahvista tuotantomaita. |
+| [Sony Pictures – Klara and the Sun](https://www.sonypictures.com/movies/klaraandthesun) | Virallinen elokuvasivu; synopsis, tekijät ja näyttelijät. Sivun tietoja ei pidä käyttää yksin tuotantomaiden vahvistamiseen. |
 | [Stadissa – elokuvien ensi-illat](https://www.stadissa.fi/paikat/3174/elokuvien-ensi-illat) | Helsingin teatterien ohjelmistojen löytämisen apulista |
 
 Teatterin, festivaalin tai tapahtuman oma ohjelmisto on ensisijainen lähde. Kolmannen osapuolen listaus riittää kuitenkin RSS-julkaisuun, jos elokuva, päivämäärä, kellonaika ja paikka yksilöityvät; merkitse se selvästi KOLMANNEN OSAPUOLEN ILMOITTAMAKSI. Tarkista päivämäärä, kellonaika, paikkakunta, teatteri ja lippulinkki; päivitä myös peruutukset ja siirrot.
