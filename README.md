@@ -140,19 +140,13 @@ Jokaisessa päivittäisessä raportissa on oma osio suomalaisessa mediassa julka
 
 Jokaisessa raportissa tarkistetaan, onko uusissa tai aiemmin seuratuissa intialaisissa elokuvissa suomalaisia näyttelijöitä tai muita tekijöitä. Tarkistus kattaa näyttelijät, ohjaajat, käsikirjoittajat, kuvaajat, säveltäjät, tuottajat, stunt- ja VFX-ammattilaiset sekä muun kuvaus- ja taiteellisen työryhmän. Suomalaisuus varmistetaan luotettavasta lähteestä, eikä sitä päätellä nimestä tai asuinpaikasta. Raportissa erotetaan Suomen kansalaisuus, suomalainen tausta ja Suomessa asuminen lähteen täsmällisen sanamuodon mukaan. Osallistuminen elokuvaan varmistetaan erikseen esimerkiksi lopputeksteistä, tuotantoyhtiön ilmoituksesta tai luotettavasta haastattelusta. Ensimmäinen kirjattu esimerkki on Sodankylästä kotoisin oleva Antti Jääskeläinen, jonka Cinema Express listaa Demonte Colony 3:n näyttelijäkaartiin; hänen Suomen kansalaisuuttaan ei ole vahvistettu. Uudet löydökset kirjataan TRACKING.md:n omaan suomalaisten kytkösten seurantaan.
 
-## Intialaiset elokuvat Suomen elokuvateattereissa
+## Erillinen näytösvahti
 
-Jokaisessa raportissa tarkistetaan Suomessa järjestettävät tulevat intialaisten elokuvien näytökset. Mukaan kuuluvat tavalliset teatteriesitykset, ennakot, erikoisnäytökset, festivaaliesitykset ja tapahtumanäytökset.
+Suomen intialaisten elokuvien näytökset eivät kuulu uutisseurantaan eivätkä päivittäiseen uutisraporttiin. Niitä seuraa erillinen päivittäinen **Intialaisten elokuvien näytösvahti**, joka tarkistaa teatterien, festivaalien, tapahtumajärjestäjien ja levittäjien ilmoitukset ja ylläpitää yksinomaan [naytokset.xml](https://mikknikk.github.io/elokuvaraportti/naytokset.xml)-syötettä. Uutisraportin automaatio ei hae näytöksiä eikä muokkaa tätä syötettä.
 
-- Käytä näytösten löytämiseen teatterien ja tapahtumajärjestäjien ohjelmistoja sekä Intialaiset elokuvat Suomessa -sivua (SOURCES.md). Jälkimmäinen on löytämisen apuväline, ei lopullinen vahvistus.
-- Näytös voidaan lisätä myös kolmannen osapuolen ilmoituksen perusteella. Teatterin omaa ohjelmistomerkintää ei vaadita, jos luotettava lähde yksilöi vähintään elokuvan, päivämäärän, kellonajan ja paikan. Linkkilähteen etusijajärjestys on kuitenkin aina: 1) teatterin omat näytös-/lipunmyyntisivut, 2) levittäjän oma julkaisu, 3) kolmannen osapuolen sivusto. Käytä kolmannen osapuolen linkkiä vasta, jos kahta ensisijaista lähdettä ei ole saatavilla. Kirjaa lähteen todellinen tyyppi ja tarkistuspäivä sisäiseen seurantaan. Älä esitä sitä teatterin vahvistamana.
-- Suosi silti teatterin, festivaalin tai järjestäjän omaa ohjelmistoa, jos se on saatavilla. Ristiriitaiset tiedot kirjataan erikseen; älä arvaa puuttuvia tietoja.
-- Kirjaa elokuvan nimi, kieli, tekstityskieli jos ilmoitettu, päivämäärä ja kellonaika, teatteri, paikkakunta, lipunmyynti-/tapahtumalinkki, ilmoittaja, alkuperäisen julkaisun päiväys jos saatavilla sekä tiedon tarkistuspäivä.
-- Kirjaa lähteen tyyppi sisäiseen lähdeseurantaan tunnisteilla **TEATTERIN VAHVISTAMA**, **JÄRJESTÄJÄN ILMOITTAMA** tai **KOLMANNEN OSAPUOLEN ILMOITTAMA**. Kolmannen osapuolen ilmoitus riittää mukaanottoon, kun tapahtuman perustiedot yksilöityvät. Vahvistustasoa ei näytetä kompaktissa RSS-näytöslistassa.
-- Erota Suomessa ensi-iltaan tuleva elokuva yksittäisestä näytöksestä. Pelkkä ilmoitettu levityspäivä ei ole näytös.
-- Seuraa myös muutoksia: lisänäytökset, loppuunmyynnit jos ne ilmoitetaan, peruutukset, siirrot ja lipunmyynnin avautuminen. Merkitse tilanne ja tarkistusaika.
-- Näytöslistaan otetaan vain tulevat näytökset. Menneet näytökset poistuvat aktiivisesta listasta, mutta ne voidaan säilyttää RSS-historiassa.
-- Jos varmistettuja tulevia näytöksiä ei löydy, kerro se. Älä tulkitse puuttuvaa ohjelmistomerkintää varmaksi näytösten puuttumiseksi kaikista Suomen teattereista.
+Näytösvahti sisältää yhden RSS-itemin kutakin elokuvaa kohti ja kokoaa elokuvan tulevat näytökset samaan itemiin. Näytökset ryhmitellään kaupungeittain: pääkaupunkiseutu ensin ja muut kaupungit aakkosjärjestyksessä; kunkin kaupungin ajat ovat aikajärjestyksessä. Jokaisella rivillä on julkaisijan nimeävä linkki. Kompaktissa RSS-näkymässä ei näytetä erillisiä tila-, lähde- tai vahvistusluokkamerkintöjä eikä aikavyöhyketekstiä. Sisäisessä seurannassa lähdeluokat ovat TEATTERIN VAHVISTAMA, JÄRJESTÄJÄN ILMOITTAMA ja KOLMANNEN OSAPUOLEN ILMOITTAMA. Lähdelinkkien etusijajärjestys on teatterin oma näytös-/lipunmyyntisivu, levittäjän julkaisu ja vasta sitten kolmannen osapuolen sivusto. Menneet, peruutetut ja vanhentuneet näytökset poistetaan aktiivisesta syötteestä.
+
+Näytösvahti tarkistaa mahdollisuuksien mukaan Finnkinon, BioRexin, Kino Reginan, Cinema Orionin, Kino Myyrin sekä festivaalien ja muiden järjestäjien ohjelmistot. Levittäjien julkiset ilmoitukset ovat myös seurannassa. Kolmannen osapuolen yksilöitävä ilmoitus voidaan julkaista, mutta sitä ei esitetä teatterin vahvistamana.
 
 ## Raportin rakenne
 
@@ -204,7 +198,7 @@ Raportoinnin työvälineinä käytetään kahta ylläpidettävää tiedostoa:
 
 Uusia lähteitä lisätään vasta, kun niiden toimituksellinen tausta ja käyttökelpoisuus on arvioitu. Seurantalokia päivitetään vain lähteistetyillä muutoksilla. Puuttuvaa historiaa ei täytetä arvauksilla. Tärkeiden uutisten riippumattomuus arvioidaan alkuperäislähteiden ja lähdeketjujen, ei pelkän julkaisujen lukumäärän perusteella.
 
-Suomen mediaosumien ja näytösten lähteet sekä tarkistusohjeet on kirjattu [SOURCES.md](SOURCES.md)-tiedostoon. Näytösten tila- ja muutostiedot kirjataan [TRACKING.md](TRACKING.md)-tiedostoon.
+Suomen mediaosumien lähteet ja tarkistusohjeet on kirjattu [SOURCES.md](SOURCES.md)-tiedostoon. Näytösvahti käyttää omaa lähde- ja seurantatietoa; sen näytöstietoja ei sisällytetä uutisraportin seurantaan.
 
 Lipputuloissa erotetaan markkina-alue, brutto/netto, aikajakso ja arvioiden/virallisten lukujen status. Julisteiden ja videoiden lähde sekä julkaisija tarkistetaan ja kirjataan.
 
@@ -216,7 +210,7 @@ Kaiken tässä repositoriossa julkaistavan sisällön ja käyttöliittymän tule
 - Kirjoita selkeää suomea, avaa harvinaiset lyhenteet ja vältä tarpeetonta ammattijargonia. Jäsennä pitkät artikkelit kuvaavilla otsikoilla ja lyhyillä kappaleilla.
 - Käytä semanttista HTML:ää ja loogista otsikkohierarkiaa: yksi artikkelin pääotsikko, sen alla aihetta kuvaavat alaotsikot oikeassa järjestyksessä. Älä valitse otsikkotasoa ulkoasun perusteella.
 - Aseta sivun ja RSS-sisällön kieleksi suomi (fi). Merkitse vieraskieliset tekstikatkelmat tarvittaessa oikealla lang-attribuutilla.
-- Linkkitekstin tulee kertoa kohteesta myös irrallaan ympäröivästä tekstistä. Vältä ilmauksia kuten "klikkaa tästä", pelkkiä URL-osoitteita ja toistuvia yleislinkkejä. Näytöslinkeissä säilytä lähteen nimi ja lisää linkkitekstiin myös elokuvan tai näytöslistan yksilöivä kuvaus.
+- Linkkitekstin tulee kertoa kohteesta myös irrallaan ympäröivästä tekstistä. Vältä ilmauksia kuten "klikkaa tästä", pelkkiä URL-osoitteita ja toistuvia yleislinkkejä. 
 - Älä välitä tietoa yksinomaan värillä, sijainnilla, kuvakkeella tai typografialla. Varmista riittävä kontrasti kaikissa teemoissa; tavallisen tekstin tavoite on AAA:n mukainen vähintään 7:1 ja suuren tekstin vähintään 4,5:1.
 - Kuvilla on tarkoituksenmukainen tekstivastine: informatiivisilla kuvilla kuvaava alt-teksti, koristekuvilla tyhjä alt. Älä upota olennaista tekstiä pelkkään kuvaan. Videoille tarjotaan tekstitykset ja tarvittaessa tekstivastine tai kuvaileva seloste, jos saatavilla.
 - Käytä taulukoita vain aidolle taulukkomuotoiselle tiedolle; lisää otsikkosolut ja niiden yhteys tietosoluihin. Suosi luetteloita, kun sisältö ei ole taulukkomuotoista.
@@ -233,7 +227,6 @@ Kaiken tässä repositoriossa julkaistavan sisällön ja käyttöliittymän tule
 ### RSS ja artikkelien HTML
 - Säilytä kelvollinen RSS/XML ja käytä CDATA-alueella semanttista, otsikoitua HTML:ää. Tarkista myös RSS:n HTML-sisällön rakenne, ei vain XML:n jäsennettävyyttä.
 - Uutisartikkelissa käytä loogista otsikkohierarkiaa (h1, h2, h3...) ilman tasojen hyppäämistä. Näytösitemissä elokuvan nimi toimii otsikkona ja paikkakunnat sen alaotsikkoina.
-- Näytöslistojen linkeissä linkkitekstin tulee yksinään ilmaista lähde sekä kyseinen elokuva/näytöslista, esimerkiksi "Kinoon – Ramayanan esitysajat".
 - Varmista, että listat, kappaleet, linkit, taulukot ja kuvat ovat semanttisesti oikein. Älä lisää kuvia ilman alt-tekstiä.
 - Tarjoa artikkelin sisältö myös tekstinä; älä tee olennaista tietoa saataville vain julisteen, värin tai muun visuaalisen elementin kautta.
 
