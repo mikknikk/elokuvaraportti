@@ -132,9 +132,14 @@ Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Tauluk
 | [Kino Myyri](https://kinomyyri.fi/ohjelmisto/) | Vantaan Myyrmäen elokuvateatterin ohjelmisto ja lipunmyynti; tarkista myös [erikoisnäytökset](https://kinomyyri.fi/erikoisnaytokset/) |
 | [Kino Piispanristi](https://www.kinopiispanristi.fi/) | Turun seudun elokuvateatterin ohjelmisto ja elokuvakohtaiset näytösajat |
 | [Intialaiset elokuvat Suomessa](https://vuosielokuvissa.wordpress.com/intialaiset-elokuvat-suomessa/) | Intialaiselokuvien Suomen-levityksen ja näytösten erikoisseuranta; käytä löytämiseen ja varmista jokainen tuleva näytös alkuperäiseltä järjestäjältä |
+| [Stadissa – elokuvien ensi-illat](https://www.stadissa.fi/paikat/3174/elokuvien-ensi-illat) | Helsingin teatterien ohjelmistojen löytämisen apulista |
+
+### Elokuvakohtaiset metatietojen ristiintarkistukset
+
+| Lähde | Käyttö |
+|---|---|
 | [Sony Pictures – Klara and the Sun](https://www.sonypictures.com/movies/klaraandthesun) | Virallinen elokuvasivu; synopsis, tekijät ja näyttelijät. Sivun tietoja ei pidä käyttää yksin tuotantomaiden vahvistamiseen. |
 | [Gilda – Klara and the Sun](https://www.gilda.fi/en/elokuva/klara-and-the-sun/) | Suomalainen elokuvalistaus, joka näyttää tuotantomaiksi Uuden-Seelannin, Ison-Britannian ja Yhdysvallat; toissijainen metatietojen ristiintarkistus, ei virallinen tuotantoyhtiön vahvistus. |
-| [Stadissa – elokuvien ensi-illat](https://www.stadissa.fi/paikat/3174/elokuvien-ensi-illat) | Helsingin teatterien ohjelmistojen löytämisen apulista |
 
 Teatterin, festivaalin tai tapahtuman oma ohjelmisto on ensisijainen lähde. Kolmannen osapuolen listaus riittää kuitenkin RSS-julkaisuun, jos elokuva, päivämäärä, kellonaika ja paikka yksilöityvät; merkitse se selvästi KOLMANNEN OSAPUOLEN ILMOITTAMAKSI. Tarkista päivämäärä, kellonaika, paikkakunta, teatteri ja lippulinkki; päivitä myös peruutukset ja siirrot.
 
