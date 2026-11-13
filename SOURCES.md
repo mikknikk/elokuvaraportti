@@ -2,6 +2,8 @@
 
 Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatuleima. Lähteiden luotettavuus arvioidaan juttukohtaisesti. Sivuston olemassaolo tai aiempi käyttö ei tee jokaisesta sen jutusta luotettavaa.
 
+**Rajaus:** Tiedoston Suomen elokuvateattereita, näytöksiä, festivaalien esitysaikoja ja levittäjien näytösilmoituksia käsittelevät lähteet kuuluvat erilliseen näytösvahti-automaatioon. Uutisseuranta käyttää tästä rekisteristä vain elokuvauutisiin ja suomalaiseen mediaan liittyviä lähteitä eikä hae tai raportoi näytöksiä.
+
 ## Alueelliset ja kielikohtaiset lähtöpisteet
 
 | Alue / kieli | Lähde | Käyttö |
