@@ -15,16 +15,16 @@ Tämä tiedosto tukee uutisten jatkuvuutta ja auttaa estämään vanhojen uutist
 
 | Henkilö | Viimeisin virallinen tieto + päivämäärä | Viimeisin median raportoima tieto + päivämäärä | Huhut / ristiriidat | Lähteet ja riippuvuudet | Viimeksi käsitelty raportti | Seuraava tarkistuspiste |
 |---|---|---|---|---|---|---|
-| S. S. Rajamouli | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Allu Arjun | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Ram Charan | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Kajal Aggarwal | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Chiranjeevi | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Rajinikanth | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Upendra | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Kamal Haasan | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Prabhas | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Brahmanandam | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
+| S. S. Rajamouli | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Allu Arjun | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Ram Charan | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Kajal Aggarwal | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Chiranjeevi | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Rajinikanth | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Upendra | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Kamal Haasan | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Prabhas | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Brahmanandam | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
 
 ## Erityisseurattavat projektit
 
@@ -35,7 +35,8 @@ Tämä tiedosto tukee uutisten jatkuvuutta ja auttaa estämään vanhojen uutist
 | Kalki 2898 AD 2 | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
 | Salaar 2 | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
 | Spirit | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
-| Fauzi | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | — | Seuraava raportti |
+| Fauzi | Ei kirjattua lähtötilannetta | Ei kirjattua lähtötilannetta | — | — | 13.11.2026 (ei uutta) | Seuraava raportti |
+| Demonte Colony -elokuvasarja | Ei kirjattua uutta virallista tilatietoa | Viimeisin tässä haussa löytynyt merkittävä tieto: Demonte Colony 3:n julkaisua koskeva väliaikainen oikeuden määräys, 18.9.2026 | Nykyistä oikeustilaa ei vahvistettu tässä ajossa | [Cinema Express, 18.9.2026](https://www.cinemaexpress.com/tamil/news/2026/Sep/18/demonte-colony-3-release-in-trouble-madras-hc-issues-interim-stay) | 13.11.2026 (ei uutta) | Tarkista mahdolliset oikeuden jatkokäsittelyt ja uusi julkaisupäivä |
 
 ## Uutistapahtumien historiakirja
 
@@ -43,7 +44,9 @@ Lisää uusin tapahtuma ylimmäksi. Yksi rivi per erillinen kehitys, ei yksi riv
 
 | Raporttipäivä | Kohde | Uusi kehitys | Luokitus | Alkuperäinen lähde + URL | Riippumattomat vahvistukset / lähdeketju | Aiempi tieto, johon verrattu |
 |---|---|---|---|---|---|---|
-| — | Aloita seuraavasta raportista | Ei vielä kirjattuja tapahtumia tässä lokissa | — | — | — | — |
+| 13.11.2026 | Ramayana: Rise of a Legend | Ylitti 1 000 crore rupian maailmanlaajuisen rajan kahdeksantena päivänä; The Weekin tarkka arvio 1 033,55 crore | MEDIAN RAPORTOIMA | [The Week, 12.11.2026](https://www.theweek.in/news/entertainment/2026/11/12/ramayana-day-eight-box-office-collection-1000-crore.html) | [Hindustan Times, 12.11.2026](https://www.hindustantimes.com/entertainment/bollywood/ramayana-crosses-1000-crore-at-box-office-in-8-days-ranbir-kapoor-yash-sai-pallavi-starrer-is-the-third-fastest-indian-film-to-do-so-nitesh-tiwari-101794469689597.html) vahvistaa rajan, mutta tarkka summa on Sacnilk-pohjainen arvio; BizAsia toistaa saman summan | Edellinen viikkoraportti käsitteli 934,55 crore arviota, ei vielä 1 000 crore -rajan ylitystä |
+| 13.11.2026 | Alcohol | Sithara Entertainments ilmoitti maailmanlaajuiseksi teatteriensi-illaksi 18.12.2026 | VIRALLISESTI VAHVISTETTU | [IANS, 12.11.2026](https://ianslive.in/allari-naresh-starrer-alcohol-to-hit-screens-on-december-18--20261112135428) | Cinema Express ja Times of India välittävät saman Sithara Entertainmentsin X-ilmoituksen; yksi alkuperäinen lähdeketju | Uusi päivämäärä korvaa aiemman 1.1.2026 suunnitelman |
+
 
 ## Juliste- ja videolähteiden kirjaus
 
@@ -74,18 +77,38 @@ Kun lipputulot ovat uutisen kannalta olennaisia, kirjaa vähintään:
 
 | Julkaisupäivä | Media | Jutun otsikko ja aihe | Juttutyyppi | Alkuperäinen lähde / riippuvuudet | URL | Viimeksi tarkistettu |
 |---|---|---|---|---|---|---|
-| — | Ei vielä kirjattuja osumia | Aloita seuraavasta raportista | — | — | — | — |
+| 12.11.–13.11.2026 | Ei uusia osumia | Ei uutta intialaista elokuvaa käsittelevää suomalaista toimituksellista juttua löytynyt; HS:n hakunäkymä rajoitettu | — | Yle, HS, Episodi, Elokuvauutiset.fi, Film-O-Holic ja muut haut | — | Tarkistettu 13.11.2026 |
 
 ## Suomen näytösten seuranta
 
-Kirjaa jokainen yksittäinen näytös omana rivinään. Käytä yksilöivänä avaimena elokuvaa + teatteria + näytöksen alkuaikaa. Päivitä samaa riviä, jos näytös siirtyy tai peruuntuu.
+Kirjaa jokainen yksittäinen näytös omana rivinään. Käytä yksilöivänä avaimena elokuvaa + teatteria + näytöksen alkuaikaa. Menneet näytökset säilyvät historiassa tilalla PÄÄTTYNYT, mutta poistuvat aktiivisesta RSS-itemistä.
 
-| Elokuva | Kieli / tekstitys | Päivä ja aika (Suomen aikaa) | Teatteri ja paikkakunta | Tila / varmuus | Liput / järjestäjä-URL | Tiedon lähde, julkaisupäivä ja tarkistuspäivä |
+| Elokuva | Kieli / tekstitys | Päivä ja aika (Suomen aikaa) | Teatteri ja paikkakunta | Tila / lähdeluokka | Liput / lähde-URL | Julkaisupäivä ja tarkistuspäivä |
 |---|---|---|---|---|---|---|
-| Ramayana | Hindi / englanninkielinen tekstitys | 12.11.2026 klo 19:15 | Finnkino Scala, Kuopio, Sali 6 | TEATTERIN VAHVISTAMA | [Finnkino – elokuvasivu](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150) | Finnkinon oma ohjelmisto, tarkistettu 12.11.2026 |
-
-Näytösten tilat: **VARMISTETTU**, **LIPUNMYYNTI AUKI**, **SIIRRETTY**, **PERUTTU**, **LOPPUUNMYYTY** tai **PÄÄTTYNYT**. Älä merkitse näytöstä varmistetuksi kolmannen osapuolen listauksen perusteella.
-
+| Ramayana | Hindi / englanninkielinen tekstitys (aiemman Finnkino-listauksen tieto) | 12.11.2026 klo 19.15 | Finnkino Scala, Kuopio | PÄÄTTYNYT / TEATTERIN VAHVISTAMA | [Finnkino – Ramayana, Scala Kuopio](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150) | Tarkistettu 12.11.2026 |
+| Ramayana | Ei ilmoitettu | 1311.2026 klo 20.10 | Finnkino Omena, Espoo | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1311.2026 klo 20.15 | Finnkino Itis, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1411.2026 klo 13.30 | Finnkino Kinopalatsi, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1411.2026 klo 20.00 | Finnkino Itis, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | HI ENG (lähdemerkintä) | 1411.2026 klo 20.15 | BioRex Tripla, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | HI ENG (lähdemerkintä) | 1511.2026 klo 14.00 | BioRex Vaasa, Vaasa | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1511.2026 klo 16.45 | Finnkino Kinopalatsi, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | HI ENG (lähdemerkintä) | 1511.2026 klo 17.30 | BioRex Seinäjoki, Seinäjoki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1511.2026 klo 18.00 | Finnkino Plaza, Oulu | TEATTERIN VAHVISTAMA | [Finnkino – Ramayana, Plaza Oulu](https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 12.11.2026 |
+| Ramayana | Ei ilmoitettu | 1511.2026 klo 19.00 | Finnkino Sello, Espoo | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1511.2026 klo 19.15 | Finnkino Itis, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1511.2026 klo 19.25 | Finnkino Kinopalatsi, Turku | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1511.2026 klo 19.45 | Finnkino Plevna, Tampere | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1611.2026 klo 19.00 | Finnkino Scala, Kuopio | TEATTERIN VAHVISTAMA | [Finnkino – Ramayana, Scala Kuopio](https://www.finnkino.fi/en/films/ramayana/HO00000625/?cinema=1150); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 12.11.2026 |
+| Ramayana | Ei ilmoitettu | 1611.2026 klo 19.45 | Finnkino Kinopalatsi, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1611.2026 klo 20.00 | Finnkino Itis, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1711.2026 klo 18.50 | Finnkino Plaza, Oulu | TEATTERIN VAHVISTAMA | [Finnkino – Ramayana, Plaza Oulu](https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1107); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 12.11.2026 |
+| Ramayana | Ei ilmoitettu | 1711.2026 klo 19.10 | Finnkino Kinopalatsi, Turku | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1711.2026 klo 19.30 | Finnkino Plevna, Tampere | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1711.2026 klo 19.45 | Finnkino Kinopalatsi, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1711.2026 klo 20.00 | Finnkino Itis, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | HI ENG (lähdemerkintä) | 1811.2026 klo 19.45 | BioRex Tripla, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
+| Ramayana | Ei ilmoitettu | 1811.2026 klo 20.00 | Finnkino Kinopalatsi, Helsinki | KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon.fi – Ramayanan Suomen esitysajat](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157); saatavuus ei tarkistettu | Julkaisupäivä ei näkyvissä; tarkistettu 13.11.2026 (sivun päivämääränäkymä viiveellä) |
 
 ### Näytöstietojen varmuusluokat
 
@@ -101,7 +124,7 @@ Jokaisesta näytösitemistä säilytetään alkuperäinen ilmoituslinkki, ilmoit
 | Toimija | Kanava | Tila / lisätieto |
 |---|---|---|
 | FinBolly Movies | [Facebook](https://www.facebook.com/Finbollymovies) | Seurattava; tarkista julkiset postaukset ja tapahtumalinkit |
-| FinTamil Movies | Facebook – sivu haettava nimellä | Täsmällistä URL-osoitetta ei ole vahvistettu; älä arvaa |
+| FinTamil Movies | [Facebook](https://www.facebook.com/fintamil.movies) | Käyttäjän vahvistama suora sivu; julkisten julkaisujen indeksointi voi olla rajoitettua |
 | Rasa Entertainment | [Facebook](https://www.facebook.com/298328530028338/) | Seurattava; julkisia julkaisuja voidaan löytää myös FindGlocal-sivun kautta |
 
 
@@ -139,10 +162,29 @@ Seuraa näitä teemoja koko Intian elokuvateollisuudessa riippumatta kielialuees
 
 | Teema | Rajaus | Seurattavat projektit / löydökset | Viimeisin lähteistetty kehitys + päiväys | Luokitus ja lähteet | Viimeksi tarkistettu |
 |---|---|---|---|---|---|
-| Fantasia | Mytologinen ja eeppinen fantasia, kansanperinne, yliluonnolliset olennot ja muu fantasia | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
-| Scifi | Tieteiskuvitelma, avaruus, tulevaisuusteknologia, tekoäly, dystopiat ja vaihtoehtoiset todellisuudet | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
+| Fantasia | Mytologinen ja eeppinen fantasia, kansanperinne, yliluonnolliset olennot ja muu fantasia | Ramayana: Rise of a Legend | 12.11.2026: maailmanlaajuinen 1 000 crore -raja ylittyi 8. päivänä; Finnkino luokittelee elokuvan fantasiaksi | [Finnkino](https://www.finnkino.fi/en/films/ramayana/HO00000625/); [The Week](https://www.theweek.in/news/entertainment/2026/11/12/ramayana-day-eight-box-office-collection-1000-crore.html); [HT](https://www.hindustantimes.com/entertainment/bollywood/ramayana-crosses-1000-crore-at-box-office-in-8-days-ranbir-kapoor-yash-sai-pallavi-starrer-is-the-third-fastest-indian-film-to-do-so-nitesh-tiwari-101794469689597.html) – luokka virallisessa levittäjän listauksessa, lipputulot median arvioita | 13.11.2026 |
+| Scifi | Tieteiskuvitelma, avaruus, tulevaisuusteknologia, tekoäly, dystopiat ja vaihtoehtoiset todellisuudet | Lambodhara 2.0 (Kannada / Hindi) | Lähtötilanne: virallinen traileri julkaistu Lahari Musicin kanavalla 31.10.2026; julkaisupäivä 13.11.2026, aikaistettu 20.11. päivästä 30.10. | [SouthSide Studio, 31.10.2026 (korjaus 2.11.)](https://southsidestudio.in/news/2026-10/lambodhara-2-0-trailer-2026-10-31/) – toimituksellinen lähde, joka viittaa Lahari Musicin traileriin ja tuottajan Instagram-ilmoitukseen; ei uusi tämän raportin uutinen | 13.11.2026 |
 | Aikamatkustus | Aikamatkat, aikasilmukat, aikajanan muutokset ja rinnakkaiset aikajanat | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
 | Zombit | Zombit, epäkuolleet, tartunta-/epidemiapohjaiset tarinat ja zombikomediat | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
 | Historia ennen vuotta 1800 | Ennen vuotta 1800 sijoittuvat historialliset tarinat, elämäkerrat ja sotadraamat | Ei vielä kirjattuja nimikkeitä | Ei kirjattua lähtötilannetta | — | Aloita seuraavasta raportista |
 
 Luokituksen tulee perustua viralliseen synopsis-/tuotantotietoon tai luotettavaan toimitukselliseen lähteeseen. Merkitse erikseen, onko genre virallisesti ilmoitettu vai median kuvaus. Mytologinen aihe ei yksin riitä fantasialuokitukseen. Historiallisen seurannan aikaraja on pääasiallinen tapahtuma-aika ennen vuotta 1800. Sama uutinen kirjataan historiakirjaan vain kerran, vaikka se näkyisi sekä yleisessä uutis- että genreosiossa.
+
+
+## Suomalaiset intialaisissa elokuvissa
+
+Seuranta kattaa näyttelijät, ohjaajat, käsikirjoittajat, kuvaajat, säveltäjät, tuottajat, stunt- ja VFX-ammattilaiset sekä muun työryhmän. Kansalaisuus, suomalainen tausta ja Suomessa asuminen pidetään erillisinä käsitteinä. Osallistuminen elokuvaan ja henkilön tausta vaativat omat lähteensä.
+
+| Henkilö | Vahvistettu suomalaisuuden peruste | Tehtävä | Intialainen elokuva / alue | Osallistumisen lähde | Luokitus | Viimeksi tarkistettu |
+|---|---|---|---|---|---|---|
+| Ei vielä vahvistettuja henkilöitä | — | — | — | Ei luotettavasti varmennettua osumaa tässä haussa | — | 13.11.2026 |
+
+### Hakukierros 13.11.2026
+
+- Haku kattoi suomalaiset näyttelijät, ohjaajat, kuvaajat, säveltäjät, stunt-/VFX-tekijät ja muut työryhmän jäsenet sekä englannin- että suomenkielisillä hakulauseilla.
+- Ei löytynyt uutta luotettavaa lähdettä, joka vahvistaisi suomalaisen henkilön osallistumisen intialaiseen elokuvaan. Hakutulos ei todista, ettei tällaisia henkilöitä olisi.
+- Suomalaisen median haussa ei löytynyt 12.11. klo 16.20 – 13.11. klo 02.33 välillä julkaistua uutta toimituksellista juttua. Helsingin Sanomien hakunäkymä oli rajoitettu.
+- Näytöshaussa löytyi 23 Ramayana-näytöstä 13.–18.11.2026. Kolme aiemmin teatterin omasta ohjelmistosta tarkistettua Finnkino-näytöstä säilyttää TEATTERIN VAHVISTAMA -luokan; muut 20 ovat Kinoon.fi:n kolmannen osapuolen listauksia. Kinoon-näkymä näytti edelleen 12.11. päiväyksen tämän päivänä, joten viive on kirjattu.
+- FinBolly Moviesin, FinTamil Moviesin ja Rasa Entertainmentin Facebook-julkaisuista ei saatu tässä ajossa uutta yksilöitävää ilmoitusta. Facebookin indeksointi- ja käyttörajoitukset ovat hakurajoite, eivät näyttö ilmoitusten puuttumisesta.
+- Kino Myyrin ohjelmiston haettu näkymä oli vanhentunut (27.10.2026); Kino Reginan ja Cinema Orionin haetut ohjelmistonäkymät eivät antaneet ajantasaista vahvistusta uudesta intialaisnäytöksestä.
+
