@@ -97,7 +97,16 @@ Yhdistä hakusanoihin aina elokuvan, henkilön tai tuotantoyhtiön nimi paikalli
 | [Elokuvauutiset.fi](https://www.elokuvauutiset.fi/) | Elokuva-alan uutiset ja Suomen teatterilevitykset |
 | [Film-O-Holic](https://www.film-o-holic.com/) | Elokuva-arviot, festivaalit ja elokuvakulttuuri |
 
-Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Taulukko on lähtölista, ei tyhjentävä luettelo. Erota suomalaisen toimituksen oma juttu uutistoimistotekstistä ja ulkomaisen jutun käännösreferaatista.
+| [Ilkka-Pohjalainen](https://www.ilkkapohjalainen.fi/) | Alueellinen toimituksellinen media; paikalliset elokuvantekijät ja suomalaiset kansainvälisissä tuotannoissa |
+| [Lapin Kansa](https://www.lapinkansa.fi/) | Alueellinen toimituksellinen media; lappilaiset tekijät ja kulttuuri |
+
+Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Taulukko on lähtölista, ei tyhjentävä luettelo. Erota suomalaisen toimituksen oma juttu uutistoimistotekstistä ja ulkomaisen jutun käännösreferaatista. Ilkka-Pohjalaisen ja Lapin Kansan Antti Jääskeläistä käsittelevä Liisa Kuittisen juttu on samaa Kaleva Median artikkelia eri julkaisuissa, joten niitä ei lasketa kahdeksi riippumattomaksi lähteeksi.
+
+### Suomalaiset tekijät – henkilön omat julkiset kanavat
+
+| Lähde | Käyttö |
+|---|---|
+| [Antti Jääskeläisen julkinen LinkedIn-profiili ja julkaisu](https://www.linkedin.com/posts/anttikjaaskelainen_sodankyl%C3%A4l%C3%A4inen-antti-j%C3%A4%C3%A4skel%C3%A4inen-l%C3%A4hti-activity-7439595860788658176-5txz) | Henkilön oma julkinen itse-esittely; tukee Sodankylä-taustaa, mutta ei yksin vahvista kansalaisuutta. |
 
 ### Suomen elokuvateatterit ja näytöslistat
 
