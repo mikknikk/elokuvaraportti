@@ -10,6 +10,7 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | Telugu / englanti | [123Telugu](https://www.123telugu.com/) | Uutis- ja julkaisuvirran rinnakkaistarkistus |
 | Tamil / englanti | [Cinema Express](https://www.cinemaexpress.com/) | Tamil- ja muu eteläintialainen elokuvaraportointi |
 | Tamil / englanti | [DT Next](https://www.dtnext.in/) | Chennain ja tamilielokuvan uutiset |
+| Tamil | [Daily Thanthi](https://www.dailythanthi.com/cinema/cinemanews) | Tamilinkieliset elokuva- ja tuotantouutiset; tarkista ilmoitusten virallinen alkuperä |
 | Kannada | [Cini Suddi](https://www.cinisuddi.com/) | Kannadankielinen Sandalwood-uutisvirta; tarkista jutun päiväys ja lähteet |
 | Malayalam / englanti | [Simply Mollywood](https://simplymollywood.com/) | Malayalam-elokuvien uutiset, tuotannot, OTT ja lipputulot |
 | Useat alueet / englanti | [The Indian Express – Regional](https://indianexpress.com/section/entertainment/regional/) | Alueellisten elokuvateollisuuksien uutisten löytäminen ja ristiintarkistus |
@@ -44,6 +45,10 @@ Ensisijaisia lähteitä ovat kyseisen elokuvan tai tekijän:
 - näyttelijän, ohjaajan tai muun asianosaisen oma varmennettu lausunto.
 
 Älä päättele kanavan virallisuutta nimestä tai logosta. Tarkista kanavan yhteys tuotantoyhtiöön/levittäjään ja videon sisältö.
+
+| Tuotantoyhtiö / kanava | Varmennettu osoite | Käyttö |
+|---|---|---|
+| Passion Studios | [X / @PassionStudios_](https://x.com/PassionStudios_/status/2119287160780251525?ref_src=twsrc%5Etfw) | Demonte Colony 3:n Pongal 2027 -ilmoitus 8.11.2026; suora postauslinkki, vaikka automaattinen avaus estyi tässä ajossa. |
 
 ## Lähteen arviointikortti
 
