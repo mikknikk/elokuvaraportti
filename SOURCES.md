@@ -167,3 +167,46 @@ Näiden toimijoiden Facebook-julkaisut tarkistetaan jokaisella näytöshakukierr
 | Rasa Entertainment | [Facebook-sivu](https://www.facebook.com/298328530028338/) | Vantaa; julkaisee näytösilmoituksia ja lipunmyyntitietoja. Sivun sisältö näkyy myös FindGlocal-listauksessa. |
 
 Facebook-sisällön indeksointi voi olla rajallista. Tarkista julkiset sivut suoraan selaimella aina kun mahdollista; kirjaa julkaisupäivä ja linkki yksittäiseen julkaisuun. Jos sivua ei voi avata tai julkaisua ei löydy, merkitse se hakurajoitteeksi – älä päättele, ettei ilmoituksia ole.
+- [Kinoon – Klara ja aurinko, koko Suomen näytöslista](https://kinoon.fi/en/showtimes/klara-and-the-sun?scope=BIO:1011) — Kolmannen osapuolen koko Suomen näytöslista; tarkistettu 14.11.2026.
+- [Cinema Orion – Klara ja aurinko](https://cinemaorion.fi/en/elokuvat/klara-ja-aurinko/) — Teatterin elokuvasivu ja tuotantomaatieto; ilmoittaa Intian tuotantomaaksi.
+- [Kino Myyri – Klara ja aurinko](https://kinomyyri.fi/film/klara-ja-aurinko/) — Teatterin elokuvasivu, tuotantomaatieto ja 14.11. sekä 18.11. näytökset.
+- [BioRex Redi – ohjelmisto](https://biorex.fi/?cinema_id=14) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.15.
+- [BioRex Porvoo – ohjelmisto](https://biorex.fi/?cinema_id=10) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.45.
+- [BioRex Rovaniemi – ohjelmisto](https://biorex.fi/?cinema_id=2) — Teatterin oma ohjelmasivu; Klara 14.11. klo 20.15.
+- [BioRex Vaasa – ohjelmisto](https://biorex.fi/?cinema_id=5) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.30.
+- [Kino 123 Veturi – ohjelmisto](https://www.kino123.fi/) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.15.
+- [Kinotar 123 – ohjelmisto](https://jamsankinotar.fi/) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.30.
+- [Leffabuumi / Kinolinna – näytösajat](https://www.leffabuumi.fi/elokuvat/naytosajat) — Teatterin oma näytöslista; Klara 14.11., 17.11., 18.11. ja 19.11.
+- [Kino Piispanristi – Klara ja aurinko](https://www.kinopiispanristi.fi/elokuvat/klara-ja-aurinko/) — Teatterin oma elokuvasivu; Klara 15.11., 17.11. ja 18.11.
+- [Kinopirtti – ohjelmisto](https://www.kinopirtti.fi/) — Teatterin oma ohjelma; Klara 15.11., 16.11. ja 18.11.; 14.11. Kinoon-aika ei näkynyt.
+- [Kino Marilyn – ohjelmisto](https://www.kinomarilyn.fi/) — Teatterin oma ohjelma; Klara 16.11., 18.11. ja 19.11.
+- [Kino Iiris – näytösajat](https://kinoiiris.com/elokuvat/naytosajat) — Teatterin oma näytöslista; Klara 16.11. ja 18.11.
+- [Cinema Niagara – ohjelmisto](https://cinemaniagara.fi/?lang=fi&shows=all) — Teatterin oma ohjelmisto; Klara 16.11.
+- [Kotkan Leffat – näytösajat (Trio 123)](https://www.kotkanleffat.fi/elokuvat/naytosajat?lang=fi) — Teatterin oma ohjelmisto; Klara 14.–17.11.
+- [Kinokulma – Klara ja aurinko](https://kinokulma.fi/fi_FI/klara-ja-aurinko) — Teatterin elokuvasivu; yksittäisiä aikoja ei saatu näkyviin.
+- [Elokuvateatteri Star – ohjelmisto](https://www.elokuvateatteristar.fi/) — Teatterin ohjelmasivu; 14.11. Kinoon-aikaa ei saatu vahvistettua sivunäkymästä.
+- [Kinopirtti – näytösajat](https://www.kinopirtti.fi/elokuvat/naytosajat) — Teatterin näytöslista; tarkistettu 14.11.2026.
+
+## Klara ja aurinko – näytösseuranta 14.11.2026
+
+- [Kinoon – Klara ja aurinko, koko Suomen näytöslista](https://kinoon.fi/en/showtimes/klara-and-the-sun?scope=BIO:1011) — Kolmannen osapuolen koko Suomen näytöslista; tarkistettu 14.11.2026.
+- [Cinema Orion – Klara ja aurinko](https://cinemaorion.fi/en/elokuvat/klara-ja-aurinko/) — Teatterin elokuvasivu ja tuotantomaatieto; ilmoittaa Intian tuotantomaaksi.
+- [Kino Myyri – Klara ja aurinko](https://kinomyyri.fi/film/klara-ja-aurinko/) — Teatterin elokuvasivu, tuotantomaatieto ja 14.11. sekä 18.11. näytökset.
+- [BioRex Redi – ohjelmisto](https://biorex.fi/?cinema_id=14) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.15.
+- [BioRex Porvoo – ohjelmisto](https://biorex.fi/?cinema_id=10) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.45.
+- [BioRex Rovaniemi – ohjelmisto](https://biorex.fi/?cinema_id=2) — Teatterin oma ohjelmasivu; Klara 14.11. klo 20.15.
+- [BioRex Vaasa – ohjelmisto](https://biorex.fi/?cinema_id=5) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.30.
+- [Kino 123 Veturi – ohjelmisto](https://www.kino123.fi/) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.15.
+- [Kinotar 123 – ohjelmisto](https://jamsankinotar.fi/) — Teatterin oma ohjelmasivu; Klara 14.11. klo 17.30.
+- [Leffabuumi / Kinolinna – näytösajat](https://www.leffabuumi.fi/elokuvat/naytosajat) — Teatterin oma näytöslista; Klara 14.11., 17.11., 18.11. ja 19.11.
+- [Kino Piispanristi – Klara ja aurinko](https://www.kinopiispanristi.fi/elokuvat/klara-ja-aurinko/) — Teatterin oma elokuvasivu; Klara 15.11., 17.11. ja 18.11.
+- [Kinopirtti – ohjelmisto](https://www.kinopirtti.fi/) — Teatterin oma ohjelma; Klara 15.11., 16.11. ja 18.11.; 14.11. Kinoon-aika ei näkynyt.
+- [Kino Marilyn – ohjelmisto](https://www.kinomarilyn.fi/) — Teatterin oma ohjelma; Klara 16.11., 18.11. ja 19.11.
+- [Kino Iiris – näytösajat](https://kinoiiris.com/elokuvat/naytosajat) — Teatterin oma näytöslista; Klara 16.11. ja 18.11.
+- [Cinema Niagara – ohjelmisto](https://cinemaniagara.fi/?lang=fi&shows=all) — Teatterin oma ohjelmisto; Klara 16.11.
+- [Kotkan Leffat – näytösajat (Trio 123)](https://www.kotkanleffat.fi/elokuvat/naytosajat?lang=fi) — Teatterin oma ohjelmisto; Klara 14.–17.11.
+- [Kinokulma – Klara ja aurinko](https://kinokulma.fi/fi_FI/klara-ja-aurinko) — Teatterin elokuvasivu; yksittäisiä aikoja ei saatu näkyviin.
+- [Gilda – Klara and the Sun](https://www.gilda.fi/en/elokuva/klara-and-the-sun/) — Teatterin elokuvasivu; yksittäisiä aikoja ei saatu näkyviin.
+- [Elokuvateatteri Star – ohjelmisto](https://www.elokuvateatteristar.fi/) — Teatterin ohjelmasivu; 14.11. Kinoon-aikaa ei saatu vahvistettua sivunäkymästä.
+- [Kinopirtti – näytösajat](https://www.kinopirtti.fi/elokuvat/naytosajat) — Teatterin näytöslista; tarkistettu 14.11.2026.
+
