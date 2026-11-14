@@ -28,6 +28,7 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | [The Times of India / ETimes](https://timesofindia.indiatimes.com/entertainment) | Laaja valtakunnallinen uutismedia; alueelliset elokuvaosiot ja viihdeuutiset | Osa jutuista on Entertainment Desk -tuotantoa tai uutistoimistomateriaalia; tarkista jutun oma lähdeketju ja otsikon suhde runkotekstiin. Esimerkiksi Demonte Colony 3:n 29.9.2026 oikeusjuttua koskevan jutun otsikko ja runko kuvaavat väliaikaista määräystä ristiriitaisesti. |
 | [IANS](https://ianslive.in/) | Uutistoimisto; alkuperäisten lausuntojen ja tuotantoyhtiöiden ilmoitusten välittäminen | Uutistoimistoteksti ei ole itsenäinen vahvistus alkuperäisestä tiedotteesta; säilytä suora yhteys ilmoittajaan. |
 | [NDTV Entertainment](https://www.ndtv.com/entertainment) | Valtakunnallinen englanninkielinen toimituksellinen uutismedia; myös alan työehdot, levitys ja teatterinäytösten jakautuminen | Jutuissa näkyy toimittaja ja julkaisuaika. Pyreä koskevassa 12.11.2026 jutussa Anjali Choudhury siteeraa AICWA:n omaa X-julkaisua. Näytösten vähentämistä koskeva väite on yhdistyksen ja ohjaajan väite, ei NDTV:n itsenäisesti todentama teatteritilasto. |
+| [Bollywood Hungama](https://www.bollywoodhungama.com/) | Valtakunnallinen viihdemedia; hyödyllinen tuottajien lausuntojen, levityssopimusten ja julkaisuaikojen raportoinnissa. Tarkista aina jutun oma lähdeketju; saman lehdistötilaisuuden sitaattien toisto ei ole riippumaton vahvistus. |
 
 
 ## Lipputuloseuranta ja kaupparaportit
@@ -57,6 +58,7 @@ Ensisijaisia lähteitä ovat kyseisen elokuvan tai tekijän:
 Älä päättele kanavan virallisuutta nimestä tai logosta. Tarkista kanavan yhteys tuotantoyhtiöön/levittäjään ja videon sisältö.
 
 | Tuotantoyhtiö / kanava | Varmennettu osoite | Käyttö |
+| IFFI / NFDC | [IFFI:n viralliset uutiset ja tiedotteet](https://www.iffigoa.org/media/news-and-update) | Festivaalin päivämäärät, järjestäjän tiedotteet ja viralliset ohjelmistopäivitykset; yksittäisen valinnan tarkka sisältö tarkistetaan tiedotekohtaisesti. |
 |---|---|---|
 | Passion Studios | [X / @PassionStudios_](https://x.com/PassionStudios_/status/2119287160780251525?ref_src=twsrc%5Etfw) | Demonte Colony 3:n Pongal 2027 -ilmoitus 8.11.2026; suora postauslinkki, vaikka automaattinen avaus estyi tässä ajossa. |
 
