@@ -24,12 +24,19 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | Lähde | Tyyppi ja käyttö | Arviointihuomio |
 |---|---|---|
 | [Hindustan Times](https://www.hindustantimes.com/) | Valtakunnallinen englanninkielinen toimituksellinen media; viihdeuutiset, haastattelut ja lipputulot | Kirjoittaja ja julkaisupäivä näkyvät usein; tarkista lipputulojen alkuperäinen seurantapalvelu. |
+| [Mint](https://www.livemint.com/) | Valtakunnallinen uutis- ja talousmedia; hyödyllinen elokuva-alan ja lipputulojen kontekstissa. Tarkista aina jutun ilmoittama datalähde: esimerkiksi Ramayanan päiväkohtaiset luvut 13.11.2026 perustuivat Sacnilkiin eivätkä olleet riippumaton mittaus. |
 | [The Week](https://www.theweek.in/) | Valtakunnallinen viikkolehti ja verkkouutismedia; elokuva- ja viihdeuutiset | Jutuissa näkyy kirjoittaja ja julkaisuaika; lipputulojutut voivat nojata samaan kauppaseurantaan kuin muut mediat. |
 | [The Times of India / ETimes](https://timesofindia.indiatimes.com/entertainment) | Laaja valtakunnallinen uutismedia; alueelliset elokuvaosiot ja viihdeuutiset | Osa jutuista on Entertainment Desk -tuotantoa tai uutistoimistomateriaalia; tarkista jutun oma lähdeketju ja otsikon suhde runkotekstiin. Esimerkiksi Demonte Colony 3:n 29.9.2026 oikeusjuttua koskevan jutun otsikko ja runko kuvaavat väliaikaista määräystä ristiriitaisesti. |
 | [IANS](https://ianslive.in/) | Uutistoimisto; alkuperäisten lausuntojen ja tuotantoyhtiöiden ilmoitusten välittäminen | Uutistoimistoteksti ei ole itsenäinen vahvistus alkuperäisestä tiedotteesta; säilytä suora yhteys ilmoittajaan. |
 | [NDTV Entertainment](https://www.ndtv.com/entertainment) | Valtakunnallinen englanninkielinen toimituksellinen uutismedia; myös alan työehdot, levitys ja teatterinäytösten jakautuminen | Jutuissa näkyy toimittaja ja julkaisuaika. Pyreä koskevassa 12.11.2026 jutussa Anjali Choudhury siteeraa AICWA:n omaa X-julkaisua. Näytösten vähentämistä koskeva väite on yhdistyksen ja ohjaajan väite, ei NDTV:n itsenäisesti todentama teatteritilasto. |
 | [Bollywood Hungama](https://www.bollywoodhungama.com/) | Valtakunnallinen viihdemedia; hyödyllinen tuottajien lausuntojen, levityssopimusten ja julkaisuaikojen raportoinnissa. Tarkista aina jutun oma lähdeketju; saman lehdistötilaisuuden sitaattien toisto ei ole riippumaton vahvistus. |
 
+
+## Kansainväliset uutistoimistot
+
+| Lähde | Tyyppi ja käyttö | Arviointihuomio |
+|---|---|---|
+| [Associated Press (AP News)](https://apnews.com/) | Kansainvälinen uutistoimisto; merkittävät intialaisen elokuvan julkistukset ja tuotantokonteksti | AP:n juttuja voidaan syndikoida muissa medioissa; sama AP-teksti eri sivustoilla on yksi lähdeketju. Esimerkiksi Varanasin aikamatkustusseurannan luokitus perustuu AP:n 15.11.2025 juttuun. |
 
 ## Lipputuloseuranta ja kaupparaportit
 
