@@ -88,12 +88,18 @@ Seuraavien projektien uusia tietoja seurataan tavallista tarkemmin:
 - **Spirit**
 - **Fauzi**
 - **Demonte Colony -elokuvasarja** (Demonte Colony, Demonte Colony 2 ja virallisesti nimetyt tulevat osat)
+- **Baahubali-elokuvauniversumi** (The Beginning, The Conclusion, The Epic, The Lost Legends ja The Eternal War Part 1/2 sekä tulevat viralliset hankkeet)
 
 Seurattavia asioita ovat esimerkiksi tuotannon eteneminen, kuvaukset, näyttelijäkiinnitykset, ensimateriaali, julkaisuaikataulut sekä luotettavasti raportoidut huhut ja ristiriidat. Vahvistamattomia tietoja ei esitetä varmoina.
 
 ## Erityisseuranta: Demonte Colony -elokuvasarja
 
 Seuraa kaikkia virallisesti nimettyjä osia ja jatkokehityksiä, mukaan lukien *Demonte Colony*, *Demonte Colony 2* ja *Demonte Colony 3* sekä mahdolliset myöhemmät osat ja spin-offit. Hae myös vaihtoehtoisilla kirjoitusasuilla ja varmista tamilinkieliset nimet ennen niiden käyttöä. Seuranta kattaa tuotannon, näyttelijät, markkinoinnin, julkaisun, lipputulot ja oikeudelliset tai levitykseen vaikuttavat muutokset. Huhut pidetään erillään virallisista tiedoista.
+
+
+## Erityisseuranta: Baahubali-elokuvauniversumi
+
+Seuraa koko Baahubali-franchisea: live-action-elokuvia *Baahubali: The Beginning* ja *Baahubali: The Conclusion*, niiden yhdistelmäversiota *Baahubali: The Epic*, animaatiosarjaa *Baahubali: The Lost Legends* sekä kaikkia uusia virallisia elokuvia, jatko-osia, esiosia, spin-offeja ja muita oheistuotantoja. Seuranta kattaa erityisesti kaksiosaisen animaatioelokuvan *Baahubali: The Eternal War*: Part 1:n suunniteltu julkaisuvuosi on 2027, eikä Part 2:n julkaisupäivää ole ilmoitettu. Part 1 ja Part 2 käsitellään yhtenä kaksiosaisena hankkeena, eivät kahtena erillisenä franchise-kokonaisuutena. Ohjaaja on Ishan Shukla, esittelijä S. S. Rajamouli ja tuottajat Shobu Yarlagadda sekä Prasad Devineni. Virallinen synopsis kuvaa Amarendra Baahubalin siirtyvän tuonpuoleiseen ja joutuvan deevien ja asurojen väliseen sotaan 14 maailmassa; tämän perusteella hanke kuuluu mytologisen fantasian seurantaan. Kolmannesta live-action-elokuvasta ei kirjata hanketta ilman virallista vahvistusta. Lähteet: [Ishan Shuklan projektikuvaus](https://ishanshukla.com/baahubali-the-eternal-war-feature-2027/), [UPI, 4.11.2025](https://www.upi.com/Entertainment_News/Movies/2025/11/04/animated-Baahubali-2027-trailer/4701762288365/) ja [Arka Media Worksin The Lost Legends -sivu](https://www.arkamediaworks.com/series/baahubali-the-lost-legends).
 
 ## Lähteet ja tiedon luotettavuus
 
@@ -155,7 +161,7 @@ Raportti on itsenäinen, julkaisuvalmis artikkeli. Sen rakenne on mahdollisuuksi
 1. Päivän tärkeimmät intialaisen elokuvan uutiset.
 2. Uutiset kielittäin ja elokuvateollisuuksittain.
 3. Erityisseurattavat henkilöt – kaikki kymmenen henkilöä.
-4. Erityisseurattavat elokuvat ja elokuvasarjat – seitsemän kohdetta.
+4. Erityisseurattavat elokuvat ja elokuvasarjat – kahdeksan erityisseurannan kokonaisuutta.
 5. Genre- ja teemat seurannassa – fantasia, scifi, aikamatkustus, zombit ja ennen vuotta 1800 sijoittuva historia.
 6. Huhut ja ristiriitaiset tiedot erillään vahvistetuista uutisista.
 7. Suomalaiset intialaisissa elokuvissa.
