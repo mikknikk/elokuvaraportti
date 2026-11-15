@@ -13,11 +13,13 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | Tamil / englanti | [Cinema Express](https://www.cinemaexpress.com/) | Tamil- ja muu eteläintialainen elokuvaraportointi |
 | Tamil / englanti | [DT Next](https://www.dtnext.in/) | Chennain ja tamilielokuvan uutiset |
 | Tamil | [Daily Thanthi](https://www.dailythanthi.com/cinema/cinemanews) | Tamilinkieliset elokuva- ja tuotantouutiset; tarkista ilmoitusten virallinen alkuperä |
+| Tamil | [Dinamalar Cinema](https://cinema.dinamalar.com/news/kollywood) | Tamilinkielinen elokuvauutisvirta ja nimikohtaiset uutisnostot; osa sivuston aineistosta on viihde- tai huhupainotteista, joten tarkista alkuperäislähteet. |
 | Kannada | [Cini Suddi](https://www.cinisuddi.com/) | Kannadankielinen Sandalwood-uutisvirta; tarkista jutun päiväys ja lähteet |
 | Malayalam / englanti | [Simply Mollywood](https://simplymollywood.com/) | Malayalam-elokuvien uutiset, tuotannot, OTT ja lipputulot |
 | Useat alueet / englanti | [The Indian Express – Regional](https://indianexpress.com/section/entertainment/regional/) | Alueellisten elokuvateollisuuksien uutisten löytäminen ja ristiintarkistus |
 | Useat alueet / englanti | [India Today – Regional Cinema](https://www.indiatoday.in/topic/regional-cinema) | Laaja alueellisen elokuvan uutisvirta ja uutisvihjeet |
 | Telugu / englanti | [The Hans India](https://www.thehansindia.com/) | Telugu-alueen englanninkielinen toimituksellinen media; käytä alueellisten julkistusten ja tuotantouutisten lähteenä. 12.11.2026 julkaistussa Ravali Hymavatin Alcohol-jutussa (12:12 IST) siteerattiin Sithara Entertainmentsin virallista X-ilmoitusta. Juttu tukee ilmoituksen löytämistä, mutta ei ole erillinen vahvistus samasta tiedotteesta. |
+| Telugu | [Andhra Jyothy / ABN](https://www.andhrajyothy.com/) | Telugunkielinen uutisjulkaisu; uutisissa näkyy ABN-toimitus ja julkaisupäivä. Käytä alueellisen tiedon löytämiseen ja tarkista tärkeät väitteet toisesta toimituksellisesta lähteestä tai ensisijaisesta lausunnosta. |
 
 ## Valtakunnalliset uutismediat ja uutistoimistot
 
@@ -30,6 +32,8 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | [IANS](https://ianslive.in/) | Uutistoimisto; alkuperäisten lausuntojen ja tuotantoyhtiöiden ilmoitusten välittäminen | Uutistoimistoteksti ei ole itsenäinen vahvistus alkuperäisestä tiedotteesta; säilytä suora yhteys ilmoittajaan. |
 | [NDTV Entertainment](https://www.ndtv.com/entertainment) | Valtakunnallinen englanninkielinen toimituksellinen uutismedia; myös alan työehdot, levitys ja teatterinäytösten jakautuminen | Jutuissa näkyy toimittaja ja julkaisuaika. Pyreä koskevassa 12.11.2026 jutussa Anjali Choudhury siteeraa AICWA:n omaa X-julkaisua. Näytösten vähentämistä koskeva väite on yhdistyksen ja ohjaajan väite, ei NDTV:n itsenäisesti todentama teatteritilasto. |
 | [Bollywood Hungama](https://www.bollywoodhungama.com/) | Valtakunnallinen viihdemedia; hyödyllinen tuottajien lausuntojen, levityssopimusten ja julkaisuaikojen raportoinnissa. Tarkista aina jutun oma lähdeketju; saman lehdistötilaisuuden sitaattien toisto ei ole riippumaton vahvistus. |
+| [Mid-Day](https://www.mid-day.com/) | Mumbain toimituksellinen uutismedia; haastattelut ja elokuvateollisuuden uutiset | Jutuissa näkyy kirjoittaja ja julkaisuaika. 13.11.2026 julkaistu Mohar Basun Honey Trehanin haastattelu sisältää ohjaajan ja tuottaja Bobby Bedin suoria lausuntoja Bandit Queen -jatkohankkeesta; sitä toistavat jutut eivät ole riippumattomia vahvistuksia. |
+| [Variety India](https://varietyindia.com/) | Elokuva-alan uutis- ja haastattelujulkaisu; tuotannot, tekijäkiinnitykset ja alan kehitys | Jutuissa näkyy kirjoittaja ja julkaisuaika. NTR–Anil Ravipudi -uutinen 14.11.2026 ja Rana Daggubatin haastattelu 13.11.2026 ovat suoria haastatteluja tai tekijöiden omien someilmoitusten raportointia; arvioi lähdeketju juttukohtaisesti. |
 
 
 ## Kansainväliset uutistoimistot
@@ -65,8 +69,11 @@ Ensisijaisia lähteitä ovat kyseisen elokuvan tai tekijän:
 Älä päättele kanavan virallisuutta nimestä tai logosta. Tarkista kanavan yhteys tuotantoyhtiöön/levittäjään ja videon sisältö.
 
 | Tuotantoyhtiö / kanava | Varmennettu osoite | Käyttö |
-| IFFI / NFDC | [IFFI:n viralliset uutiset ja tiedotteet](https://www.iffigoa.org/media/news-and-update) | Festivaalin päivämäärät, järjestäjän tiedotteet ja viralliset ohjelmistopäivitykset; yksittäisen valinnan tarkka sisältö tarkistetaan tiedotekohtaisesti. |
 |---|---|---|
+| IFFI / NFDC | [IFFI:n viralliset uutiset ja tiedotteet](https://www.iffigoa.org/media/news-and-update) | Festivaalin päivämäärät, järjestäjän tiedotteet ja viralliset ohjelmistopäivitykset; yksittäisen valinnan tarkka sisältö tarkistetaan tiedotekohtaisesti. |
+| Yash Raj Films | [YRF:n virallinen uutinen](https://www.yashrajfilms.com/news/detail/2026/11/14/varun-dhawan-to-headline-yash-raj-films-first-ever-horror-film-theatrical-release-set-for-31-march-2028) | Ensisijainen lähde YRF:n tuotantojulkistuksille, tekijätiedoille ja julkaisupäiville. |
+| Arka Media Works | [Baahubali: The Lost Legends](https://www.arkamediaworks.com/series/baahubali-the-lost-legends) | Tuotantoyhtiön virallinen sarjasivu ja franchise-tietojen tarkistus. |
+| Ishan Shukla | [Baahubali: The Eternal War -projektikuvaus](https://ishanshukla.com/baahubali-the-eternal-war-feature-2027/) | Ohjaajan oma projektikuvaus; käytä virallisen synopsis-, tekijä- ja tuotantotiedon tarkistamiseen. |
 | Passion Studios | [X / @PassionStudios_](https://x.com/PassionStudios_/status/2119287160780251525?ref_src=twsrc%5Etfw) | Demonte Colony 3:n Pongal 2027 -ilmoitus 8.11.2026; suora postauslinkki, vaikka automaattinen avaus estyi tässä ajossa. |
 
 ## Lähteen arviointikortti
