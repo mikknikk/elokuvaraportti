@@ -221,5 +221,12 @@ Teatterin, festivaalin tai tapahtuman oma ohjelmisto on ensisijainen lähde. Kol
 - [Leffabuumi – Kinolinnan näytösajat](https://www.leffabuumi.fi/elokuvat/naytosajat?lang=fi) — vahvistaa 16.11. klo 19.15, 17.11. klo 19.15, 18.11. klo 16.45 ja 19.11. klo 13.15.
 - [Kotkan Leffat – Trio 123](https://www.kotkanleffat.fi/elokuvat/naytosajat?lang=fi) — vahvistaa 17.11. klo 18.15 ja 18.11. klo 16.45.
 - [Ihme Kompleksi – näytösajat](https://www.ihmekompleksi.fi/elokuvat/naytosajat) — vahvistaa 17.11. klo 18.00.
-- [BioRex – Ramayana: Rise of a Legend](https://biorex.fi/elokuvat/ramayana-rise-of-a-legend/) — teatterin oma sivu ilmoittaa, ettei näytöksiä ole julkaistu; Kinoonin 18.11. klo 19.45 BioRex Tripla -listaus säilyy siksi kolmannen osapuolen ilmoituksena.
+- [BioRex – Ramayana: Rise of a Legend](https://biorex.fi/elokuvat/ramayana-rise-of-a-legend/) — elokuvasivun valitussa Hämeenlinnan näkymässä ei ole julkaistuja näytöksiä; Vaasan näkymässä näkyi vain jo mennyt 15.11. klo 14.00 näytös. Tämä ei vahvista Triplaa: Kinoonin 18.11. klo 19.45 BioRex Tripla -listaus säilyy kolmannen osapuolen ilmoituksena.
 - [Cinema Orion – Klara ja aurinko](https://cinemaorion.fi/elokuvat/klara-ja-aurinko/) ja [Kino Myyri – Klara ja aurinko](https://kinomyyri.fi/film/klara-ja-aurinko/) ilmoittavat eri tuotantomaat. Cinema Orion listaa Intian, mutta Kino Myyri ei; intialaista tuotantoyhtiötä/yhteistuottajaa ei vahvistettu erikseen.
+
+
+### Tarkennus 16.11.2026 klo 07.55
+
+- [Kino Marilyn – Klara ja aurinko](https://www.kinomarilyn.fi/elokuvat/44/klara-ja-aurinko) — teatterin oma elokuvasivu vahvistaa 16.11. klo 11.30 ja 20.15, 18.11. klo 14.20 ja 19.11. klo 12.20. Sivulla ilmoitetaan esityskieleksi englanti ja tekstityksiksi suomi ja ruotsi.
+- [Kino 123 Veturi – näytösajat](https://www.kino123.fi/elokuvat/naytosajat) — ajantasainen teatterilista näyttää Klara-näytökset 17.–19.11. klo 17.15, mutta ei 16.11. klo 17.15. Viimeksi mainittu säilyy Kinoonin kolmannen osapuolen ilmoituksena.
+- [BioRex – Ramayana: Rise of a Legend](https://biorex.fi/elokuvat/ramayana-rise-of-a-legend/) — BioRexin elokuvasivun Hämeenlinna-valinnalla ei ole julkaistuja näytöksiä; Vaasa-valinnalla näkyi 15.11. klo 14.00, joka on jo mennyt. Tripla 18.11. klo 19.45 ei saanut täsmäävää teatterivahvistusta.
