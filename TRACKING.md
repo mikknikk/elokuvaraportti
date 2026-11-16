@@ -310,6 +310,23 @@ Uusimmassa RSS-julkaisussa on 92 tulevaa Klara ja aurinko -näytöstä ja 11 tul
 | Ramayana: Rise of a Legend | 17.11.2026 klo 19.30 | Finnkino Plevna, Tampere | Ei ilmoitettu | TULEVA / KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon – Ramayana: Rise of a Legend 17.11. (Finnkino Plevna, Tampere)](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157) | Ei näy | 16.11.2026 |
 | Ramayana: Rise of a Legend | 17.11.2026 klo 19.10 | Finnkino Kinopalatsi, Turku | Ei ilmoitettu | TULEVA / KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon – Ramayana: Rise of a Legend 17.11. (Finnkino Kinopalatsi, Turku)](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157) | Ei näy | 16.11.2026 |
 
+### Lähde- ja metatietotarkennus 16.11.2026 klo 07.55
+
+Edelliseen 07.42 julkaisuversioon verrattuna näytösajat eivät muuttuneet. Kaksi lähde-/metatietomuutosta tehtiin:
+
+- Kino Marilynin tarkka elokuvasivu vahvistaa neljä Klara-näytöstä ja niiden tiedot: esityskieli englanti, tekstitys suomeksi ja ruotsiksi.
+- Kino 123 Veturin 16.11. klo 17.15 näytös ei näy teatterin tämänhetkisessä näytöslistassa, joka vahvistaa 17.–19.11. klo 17.15 ajat. 16.11. säilyy kolmannen osapuolen ilmoituksena ja sen RSS-linkki vaihdettiin Kinooniin.
+
+| Elokuva | Päivä ja aika | Teatteri ja paikkakunta | Kieli / tekstitys | Tila / lähdeluokka | Lähdelinkki | Julkaisupäivä | Tarkistettu |
+|---|---|---|---|---|---|---|---|
+| Klara ja aurinko | 16.11.2026 klo 11.30 | Kino Marilyn, Loviisa | Esityskieli englanti; tekstitys suomeksi ja ruotsiksi | TULEVA / TEATTERIN VAHVISTAMA | [Kino Marilyn – Klara ja aurinko 16.11. (Kino Marilyn, Loviisa)](https://www.kinomarilyn.fi/elokuvat/44/klara-ja-aurinko) | Ei näy | 16.11.2026 |
+| Klara ja aurinko | 16.11.2026 klo 20.15 | Kino Marilyn, Loviisa | Esityskieli englanti; tekstitys suomeksi ja ruotsiksi | TULEVA / TEATTERIN VAHVISTAMA | [Kino Marilyn – Klara ja aurinko 16.11. (Kino Marilyn, Loviisa)](https://www.kinomarilyn.fi/elokuvat/44/klara-ja-aurinko) | Ei näy | 16.11.2026 |
+| Klara ja aurinko | 18.11.2026 klo 14.20 | Kino Marilyn, Loviisa | Esityskieli englanti; tekstitys suomeksi ja ruotsiksi | TULEVA / TEATTERIN VAHVISTAMA | [Kino Marilyn – Klara ja aurinko 18.11. (Kino Marilyn, Loviisa)](https://www.kinomarilyn.fi/elokuvat/44/klara-ja-aurinko) | Ei näy | 16.11.2026 |
+| Klara ja aurinko | 19.11.2026 klo 12.20 | Kino Marilyn, Loviisa | Esityskieli englanti; tekstitys suomeksi ja ruotsiksi | TULEVA / TEATTERIN VAHVISTAMA | [Kino Marilyn – Klara ja aurinko 19.11. (Kino Marilyn, Loviisa)](https://www.kinomarilyn.fi/elokuvat/44/klara-ja-aurinko) | Ei näy | 16.11.2026 |
+| Klara ja aurinko | 16.11.2026 klo 17.15 | Kino 123 Veturi (Kuusankoski), Kouvola | Ei ilmoitettu | TULEVA / KOLMANNEN OSAPUOLEN ILMOITTAMA | [Kinoon – Klara ja aurinko 16.11. (Kino 123 Veturi, Kouvola)](https://kinoon.fi/en/showtimes/klara-and-the-sun?scope=BIO:1011) | Ei näy | 16.11.2026 |
+
+BioRexin Ramayana-sivu on sijaintivalinnasta riippuvainen: tarkistuksessa avautuneessa Hämeenlinnan näkymässä lukee “Näytöksiä ei ole julkaistu”; Vaasan näkymässä näkyi vain jo mennyt 15.11. klo 14.00 näytös. Tämä ei vahvista eikä kumoa Kinoonin ilmoittamaa BioRex Tripla 18.11. klo 19.45 näytöstä, joka pysyy kolmannen osapuolen ilmoituksena. Kinoafishan Turku-sivu näyttää nyt vain 6., 8. ja 11.11. ajat, joten 17.11. klo 19.10 Turku säilyy Kinoonin kolmannen osapuolen ilmoituksena.
+
 ## Julkaisujen saavutettavuustarkistus
 
 Ennen jokaista GitHub Pages-, RSS- tai dokumentaatiojulkaisua tarkista README.md:n [Saavutettavuus – WCAG 2.2 AAA tavoitetasona](README.md#saavutettavuus--wcag-22-aaa-tavoitetasona) -ohje. Kirjaa tähän vain todelliset testitulokset ja löydetyt puutteet; älä merkitse testaamatonta kohtaa hyväksytyksi.
@@ -320,6 +337,7 @@ Ennen jokaista GitHub Pages-, RSS- tai dokumentaatiojulkaisua tarkista README.md
 | Uutis-RSS (feed.xml) | Oma rakennetarkistus: RSS/XML-tagit tasapainossa, CDATA sulkeutuu, HTML-otsikko- ja listatagit tasapainossa; 2 itemiä ja yksilölliset GUIDit; ulkoista XML-validaattoria ei ajettu | Molemmissa itemeissä yksi h1; päivän itemissä 11 h2 ja 10 h3, aiemmassa viikkoraportissa 6 h2 ja 18 h3; ei otsikkotason hyppyjä | 79 linkkiä yhteensä (päivän item 66, viikkoraportti 13), ei tyhjiä linkkitekstejä; ei kuvia | Ei testattu | Ei testattu | Ulkoinen XML-/HTML-validointi, selain-, näppäimistö-, ruudunlukija-, kontrasti- ja responsiivisuustestit puuttuvat; GitHub Pages -URL ei avautunut tarkistustyökaluissa, joten julkista välimuistia/levitystä ei voitu varmistaa; AAA-tasoa ei väitetä | 13.11.2026 |
 | Näytös-RSS (naytokset.xml) | Oma rakennetarkistus: tagien tasapaino, CDATA ja yksilölliset GUIDit läpäisty; ulkoista XML-validaattoria ei ajettu | 2 h1-otsikkoa ja 8 h2-paikkakuntaotsikkoa; ei otsikkotason hyppyjä | 24 listakohtaa ja 25 kuvaavaa linkkiä (24 näytöslinkkiä ja yksi lähderistiriidan tarkistuslinkki); ei tyhjiä linkkitekstejä, ei kuvia, ei item-tason linkkejä | Ei testattu | Ei testattu | Ulkoinen XML-/HTML-validointi, selain-, näppäimistö-, ruudunlukija-, kontrasti- ja responsiivisuustestit puuttuvat; AAA-tasoa ei väitetä | 13.11.2026 |
 | Näytös-RSS (16.11.2026) | Oma rakenne- ja tagitarkistus: 4 itemiä, 4 yksilöllistä GUIDia, CDATA-alueet sulkeutuvat, 103 tulevaa näytösriviä uusimmissa versioissa, ei item-tason linkkejä; ulkoista XML-validaattoria ei ajettu | Uusissa itemeissä 2 h1, 35 h2 ja 6 h3; ei otsikkotasojen hyppyjä; jokaisen itemin HTML-kieli `lang="fi"` | 105 kuvaavaa linkkiä uusissa itemeissä, ei tyhjiä ankkuritekstejä; linkeissä on julkaisija, elokuva, päivä ja teatteri; ei kuvia | Ei testattu | Ei testattu | Näppäimistö-, ruudunlukija-, kontrasti-, responsiivisuus- ja ulkoinen XML-/HTML-validointitestaus puuttuvat; AAA-tasoa ei väitetä | 16.11.2026 |
+| Näytös-RSS (16.11.2026 klo 07.55) | Oma rakenne- ja tagitarkistus: 6 itemiä, 6 yksilöllistä GUIDia, 103 tulevaa näytösriviä uusimmissa versioissa, ei item-tason linkkejä; ulkoista XML-validaattoria ei ajettu | Uusissa itemeissä 2 h1, 35 h2 ja 4 h3; ei otsikkotasojen hyppyjä; `lang="fi"` molemmissa kuvauksissa | 105 kuvaavaa linkkiä uusissa itemeissä, ei tyhjiä ankkuritekstejä | Ei testattu | Ei testattu | Näppäimistö-, ruudunlukija-, kontrasti-, responsiivisuus- ja ulkoinen XML-/HTML-validointitestaus puuttuvat; AAA-tasoa ei väitetä | 16.11.2026 |
 
 
 ### Näytöshaku 12.11.2026 klo 16.57 – RSS päivitetty
