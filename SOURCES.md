@@ -230,3 +230,9 @@ Teatterin, festivaalin tai tapahtuman oma ohjelmisto on ensisijainen lähde. Kol
 - [Kino Marilyn – Klara ja aurinko](https://www.kinomarilyn.fi/elokuvat/44/klara-ja-aurinko) — teatterin oma elokuvasivu vahvistaa 16.11. klo 11.30 ja 20.15, 18.11. klo 14.20 ja 19.11. klo 12.20. Sivulla ilmoitetaan esityskieleksi englanti ja tekstityksiksi suomi ja ruotsi.
 - [Kino 123 Veturi – näytösajat](https://www.kino123.fi/elokuvat/naytosajat) — ajantasainen teatterilista näyttää Klara-näytökset 17.–19.11. klo 17.15, mutta ei 16.11. klo 17.15. Viimeksi mainittu säilyy Kinoonin kolmannen osapuolen ilmoituksena.
 - [BioRex – Ramayana: Rise of a Legend](https://biorex.fi/elokuvat/ramayana-rise-of-a-legend/) — BioRexin elokuvasivun Hämeenlinna-valinnalla ei ole julkaistuja näytöksiä; Vaasa-valinnalla näkyi 15.11. klo 14.00, joka on jo mennyt. Tripla 18.11. klo 19.45 ei saanut täsmäävää teatterivahvistusta.
+
+
+## Raportissa käytetyt lähde-ehdokkaat – 16.11.2026
+
+- **Filmfare** ([filmfare.com](https://www.filmfare.com/)): elokuva-alan toimituksellinen julkaisu. Tässä kierroksessa julkaisi 15.11. jutun Kaakan mahdollisesta Ritika Singh -erikoisnumerosta. Juttu muotoilee väitteen raportteihin perustuvaksi; ei käsitellä virallisena vahvistuksena.
+- **AP7am / IANS** ([ap7am.com](https://www.ap7am.com/)): uutispalvelu, joka välitti IANSin 16.11. raportin Varanasin kuvausten päättymisestä. Väite perustuu elokuvan virallisen X-tilin päivitykseen; saman IANS-sisällön kopioita ei lasketa riippumattomiksi vahvistuksiksi.
