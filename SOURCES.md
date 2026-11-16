@@ -20,6 +20,8 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 | Useat alueet / englanti | [India Today – Regional Cinema](https://www.indiatoday.in/topic/regional-cinema) | Laaja alueellisen elokuvan uutisvirta ja uutisvihjeet |
 | Telugu / englanti | [The Hans India](https://www.thehansindia.com/) | Telugu-alueen englanninkielinen toimituksellinen media; käytä alueellisten julkistusten ja tuotantouutisten lähteenä. 12.11.2026 julkaistussa Ravali Hymavatin Alcohol-jutussa (12:12 IST) siteerattiin Sithara Entertainmentsin virallista X-ilmoitusta. Juttu tukee ilmoituksen löytämistä, mutta ei ole erillinen vahvistus samasta tiedotteesta. |
 | Telugu | [Andhra Jyothy / ABN](https://www.andhrajyothy.com/) | Telugunkielinen uutisjulkaisu; uutisissa näkyy ABN-toimitus ja julkaisupäivä. Käytä alueellisen tiedon löytämiseen ja tarkista tärkeät väitteet toisesta toimituksellisesta lähteestä tai ensisijaisesta lausunnosta. |
+| Telugu / englanti ja telugu | [Telugu Scope](https://teluguscope.com/) | Kaksikielinen uutistoimitus. Hey Kannamma -jutussa näkyvät päiväys ja Cinema Desk -byline; About-sivu kuvaa toimitukselliset periaatteet ja korjausten tekemisen. Käytä toissijaisena uutislähteenä ja varmista virallinen markkinointimateriaali tuotantoyhtiön kanavalta. |
+| Tamil / tamili | [The Hindu Tamil Thisai](https://www.hindutamil.in/) | Tamilinkielinen toimituksellinen media. Anbil Avan -jutussa päiväys näkyy, kirjoittajaa ei; juttu linkittää SonyLIV Tamilin omaan X-ilmoitukseen, joten alustapäivä on ensisijainen tieto. |
 
 ## Valtakunnalliset uutismediat ja uutistoimistot
 
@@ -71,6 +73,7 @@ Ensisijaisia lähteitä ovat kyseisen elokuvan tai tekijän:
 | Tuotantoyhtiö / kanava | Varmennettu osoite | Käyttö |
 |---|---|---|
 | IFFI / NFDC | [IFFI:n viralliset uutiset ja tiedotteet](https://www.iffigoa.org/media/news-and-update) | Festivaalin päivämäärät, järjestäjän tiedotteet ja viralliset ohjelmistopäivitykset; yksittäisen valinnan tarkka sisältö tarkistetaan tiedotekohtaisesti. |
+| Chitrapataka 2026 | [Virallinen festivaalisivu ja ohjelma](https://chitrapataka.com/) | Maharashtra Governmentin kulttuuriasioiden osaston ja Maharashtra Film, Stage and Cultural Development Corporationin järjestämä Marathi-elokuvafestivaali 15.–18.11.2026; ensisijainen lähde päiville, ohjelman laajuudelle ja järjestäjätiedoille. |
 | Yash Raj Films | [YRF:n virallinen uutinen](https://www.yashrajfilms.com/news/detail/2026/11/14/varun-dhawan-to-headline-yash-raj-films-first-ever-horror-film-theatrical-release-set-for-31-march-2028) | Ensisijainen lähde YRF:n tuotantojulkistuksille, tekijätiedoille ja julkaisupäiville. |
 | Arka Media Works | [Baahubali: The Lost Legends](https://www.arkamediaworks.com/series/baahubali-the-lost-legends) | Tuotantoyhtiön virallinen sarjasivu ja franchise-tietojen tarkistus. |
 | Ishan Shukla | [Baahubali: The Eternal War -projektikuvaus](https://ishanshukla.com/baahubali-the-eternal-war-feature-2027/) | Ohjaajan oma projektikuvaus; käytä virallisen synopsis-, tekijä- ja tuotantotiedon tarkistamiseen. |
