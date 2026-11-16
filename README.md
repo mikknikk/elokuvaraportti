@@ -160,6 +160,10 @@ Näytösvahti julkaisee ensimmäisellä löytymiskerralla yhden RSS-itemin kutak
 
 Näytösvahti tarkistaa mahdollisuuksien mukaan Finnkinon, BioRexin, Kino Reginan, Cinema Orionin, Kino Myyrin sekä festivaalien ja muiden järjestäjien ohjelmistot. Levittäjien julkiset ilmoitukset ovat myös seurannassa. Kolmannen osapuolen yksilöitävä ilmoitus voidaan julkaista, mutta sitä ei esitetä teatterin vahvistamana.
 
+Näytösrivi ilmoittaa esityskielen ja tekstityksen erikseen vain, kun ne voidaan vahvistaa juuri kyseiseen näytökseen. Kinoon ja muut koontipalvelut ovat löytämisen apuvälineitä: jokaiselle löydölle etsitään lisäksi teatterin oma näytös- tai lipunmyyntisivu ja varmistetaan elokuvan, teatterin, päivämäärän ja kellonajan täsmääminen. Jos täsmäävää teatterilinkkiä ei löydy, käytetään levittäjän omaa ilmoitusta ja vasta sen jälkeen kolmannen osapuolen linkkiä. Linkkiteksti nimeää julkaisijan, elokuvan, päivämäärän ja teatterin.
+
+Tuotantomaan rajatapauksia ei rajata automaattisesti pois. Elokuva voidaan sisällyttää, jos sillä on dokumentoitavissa oleva olennainen yhteys Intian elokuvateollisuuteen, esimerkiksi intialainen tuotantoyhtiö tai yhteistuottaja taikka luotettava tuotantomaatieto. Epäselvä tuotantomaa ja löydetty Intia-yhteys selitetään neutraalisti elokuvan RSS-itemissä. Pelkkä näyttelijän intialainen tausta ei yksin riitä.
+
 ## Raportin rakenne
 
 Raportti on itsenäinen, julkaisuvalmis artikkeli. Sen rakenne on mahdollisuuksien mukaan:
