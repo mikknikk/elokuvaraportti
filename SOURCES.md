@@ -157,6 +157,10 @@ Hae myös muista suomalaisista sanoma-, kulttuuri- ja paikallismedioista. Tauluk
 | [Oulun kansainvälinen lasten- ja nuortenelokuvien festivaali – esitysaikataulu 2026](https://www.oulufilmfestival.fi/esitysaikataulu-2026/) | Festivaalin järjestäjän oma ohjelmisto ja päiväkohtainen esitysaikataulu; tarkista elokuvakohtaiselta sivulta tuotantomaa, kieli ja tekstitykset. |
 | [Kino Regina](https://kinoregina.fi/) | Arkisto-, erikois- ja festivaalinäytökset |
 | [Cinema Orion](https://www.cinemaorion.fi/) | Erikoisohjelmisto ja tapahtumanäytökset |
+| [Cinema Niagara](https://cinemaniagara.fi/) | Turun elokuvateatterin oma ohjelmisto ja näytösajat |
+| [Ihme Kompleksi](https://www.ihmekompleksi.fi/elokuvat/naytosajat) | Kankaanpään elokuvateatterin oma näytöslista ja lipunmyynti |
+| [Kotkan Leffat – Trio 123](https://www.kotkanleffat.fi/elokuvat/naytosajat?lang=fi) | Kotkan Trio 123:n oma näytöslista ja lipunmyynti |
+| [Kino 123 Veturi](https://www.kino123.fi/elokuvat/naytosajat) | Kuusankosken/Kouvolan teatterin oma näytöslista ja lipunmyynti |
 | [Kino Myyri](https://kinomyyri.fi/ohjelmisto/) | Vantaan Myyrmäen elokuvateatterin ohjelmisto ja lipunmyynti; tarkista myös [erikoisnäytökset](https://kinomyyri.fi/erikoisnaytokset/) |
 | [Kino Piispanristi](https://www.kinopiispanristi.fi/) | Turun seudun elokuvateatterin ohjelmisto ja elokuvakohtaiset näytösajat |
 | [Intialaiset elokuvat Suomessa](https://vuosielokuvissa.wordpress.com/intialaiset-elokuvat-suomessa/) | Intialaiselokuvien Suomen-levityksen ja näytösten erikoisseuranta; käytä löytämiseen ja varmista jokainen tuleva näytös alkuperäiseltä järjestäjältä |
@@ -200,3 +204,22 @@ Facebook-sisällön indeksointi voi olla rajallista. Tarkista julkiset sivut suo
 - [Kinoafisha – Ramayana Turussa](https://fi.kinoafisha.info/turku/movies/8385353/) — Kolmannen osapuolen näytöslista, joka vahvistaa Kinoonin kanssa Turun 15.11. klo 19.25 ja 17.11. klo 19.10 ajat.
 
 Teatterin, festivaalin tai tapahtuman oma ohjelmisto on ensisijainen lähde. Kolmannen osapuolen listaus riittää kuitenkin RSS-julkaisuun, jos elokuva, päivämäärä, kellonaika ja paikka yksilöityvät; merkitse se selvästi KOLMANNEN OSAPUOLEN ILMOITAMAKSI. Tarkista päivämäärä, kellonaika, paikkakunta, teatteri ja lippulinkki; päivitä myös peruutukset ja siirrot.
+
+
+## Näytöshaku 16.11.2026
+
+- [Kinoon – Klara ja aurinko, koko Suomen näytöslista](https://kinoon.fi/en/showtimes/klara-and-the-sun?scope=BIO:1011) — 92 tulevaa näytöstä 16.–19.11.2026. Käytetään vain niille riveille, joille täsmäävää teatterin omaa linkkiä ei löytynyt.
+- [Kinoon – Ramayana, koko Suomen näytöslista](https://kinoon.fi/en/showtimes/ramayana?scope=FIN:1157) — 11 tulevaa näytöstä 16.–19.11.2026. BioRex Tripla 18.11. klo 19.45 on edelleen ristiriidassa BioRexin oman sivun kanssa.
+- [BioRex – Klara ja aurinko](https://biorex.fi/elokuvat/klara-and-the-sun/) — BioRex Verkatehtaan 16.11. klo 15.00, 17.11. klo 14.45, 18.11. klo 19.30 ja 19.11. klo 15.15 näytökset; esityskieli englanti, tekstitykset suomeksi ja ruotsiksi.
+- [Cinema Niagara – ohjelmisto](https://cinemaniagara.fi/) — vahvistaa Turun 16.11. klo 14.15 näytöksen.
+- [Kino Iiris – Klara ja aurinko](https://kinoiiris.com/elokuvat/3268/klara-ja-aurinko) — vahvistaa 16.11. klo 19.15 ja 18.11. klo 15.30; kieli englanti, tekstitys suomi.
+- [Kino Marilyn – näytösajat](https://www.kinomarilyn.fi/elokuvat/naytosajat) — vahvistaa 16.11. klo 11.30 ja 20.15, 18.11. klo 14.20 ja 19.11. klo 12.20.
+- [Kinopirtti – näytösajat](https://kinopirtti.fi/elokuvat/naytosajat?lang=fi) — vahvistaa 16.11. ja 18.11. klo 15.40.
+- [Kino 123 Veturi – näytösajat](https://www.kino123.fi/elokuvat/naytosajat) — vahvistaa 16.–19.11. klo 17.15.
+- [Kino Piispanristi – Klara ja aurinko](https://www.kinopiispanristi.fi/elokuvat/klara-ja-aurinko/) — vahvistaa 17.11. klo 13.45 ja 18.11. klo 20.30.
+- [Kino Myyri – Klara ja aurinko](https://kinomyyri.fi/film/klara-ja-aurinko/) — vahvistaa 18.11. klo 19.00; sivu ilmoittaa esityskieleksi englannin.
+- [Leffabuumi – Kinolinnan näytösajat](https://www.leffabuumi.fi/elokuvat/naytosajat?lang=fi) — vahvistaa 16.11. klo 19.15, 17.11. klo 19.15, 18.11. klo 16.45 ja 19.11. klo 13.15.
+- [Kotkan Leffat – Trio 123](https://www.kotkanleffat.fi/elokuvat/naytosajat?lang=fi) — vahvistaa 17.11. klo 18.15 ja 18.11. klo 16.45.
+- [Ihme Kompleksi – näytösajat](https://www.ihmekompleksi.fi/elokuvat/naytosajat) — vahvistaa 17.11. klo 18.00.
+- [BioRex – Ramayana: Rise of a Legend](https://biorex.fi/elokuvat/ramayana-rise-of-a-legend/) — teatterin oma sivu ilmoittaa, ettei näytöksiä ole julkaistu; Kinoonin 18.11. klo 19.45 BioRex Tripla -listaus säilyy siksi kolmannen osapuolen ilmoituksena.
+- [Cinema Orion – Klara ja aurinko](https://cinemaorion.fi/elokuvat/klara-ja-aurinko/) ja [Kino Myyri – Klara ja aurinko](https://kinomyyri.fi/film/klara-ja-aurinko/) ilmoittavat eri tuotantomaat. Cinema Orion listaa Intian, mutta Kino Myyri ei; intialaista tuotantoyhtiötä/yhteistuottajaa ei vahvistettu erikseen.
