@@ -4,6 +4,10 @@ Tämä on raportoinnin **aloituslista**, ei suljettu lähdeluettelo eikä laatul
 
 **Rajaus:** Tiedoston Suomen elokuvateattereita, näytöksiä, festivaalien esitysaikoja ja levittäjien näytösilmoituksia käsittelevät lähteet kuuluvat erilliseen näytösvahti-automaatioon. Uutisseuranta käyttää tästä rekisteristä vain elokuvauutisiin ja suomalaiseen mediaan liittyviä lähteitä eikä hae tai raportoi näytöksiä.
 
+## Sivustokohtaiset hakukonerajaukset
+
+Jos julkaisun oma hakutoiminto on puutteellinen, käytä täydentäviä hakukonehakuja sivustorajauksilla, esimerkiksi `site:hs.fi`, `site:yle.fi`, `site:episodi.fi`, `site:elokuvauutiset.fi` ja `site:film-o-holic.com`. Kokeile nimien vaihtoehtoisia kirjoitusasuja ja keskeisiä aihetermejä. Hakutulossivun katkelmaa ei pidetä vahvistuksena: avaa alkuperäinen artikkeli ja varmista sisältö, julkaisupäivä ja suora URL. Jos alkuperäistä sisältöä ei voi tarkistaa, älä raportoi hakutulosta varmennettuna.
+
 ## Alueelliset ja kielikohtaiset lähtöpisteet
 
 | Alue / kieli | Lähde | Käyttö |
