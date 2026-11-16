@@ -666,3 +666,14 @@ Kinoonin koko Suomen näytöslista: [Kinoon – Klara ja aurinko, näytösajat](
 - Facebook-sivujen suora tarkistus estyi (FinBolly Movies: pyyntö rajoitettiin; FinTamil Movies ja Rasa Entertainment: sivua ei voitu avata). Tätä ei tulkita negatiiviseksi näytöstiedoksi.
 - Kinoon on kolmannen osapuolen koontipalvelu. Sen ilmoitukset on säilytetty kolmannen osapuolen ilmoituksina aina, kun teatterin omaa täsmäävää näytöstietoa ei löytynyt.
 
+
+
+### Hakukierros 16.11.2026 klo 10.16
+
+- **Ramayana: Rise of a Legend – Finnkino Itis, Helsinki, 16.11.2026 klo 20.15:** TEATTERIN VAHVISTAMA. Finnkinon oma elokuvasivu ilmoittaa esityskieleksi hindin ja tekstitykseksi englannin. Julkaisupäivä ei näy sivulla; tarkistettu 16.11.2026. [Finnkino – Ramayana, Itis Helsinki](https://www.finnkino.fi/elokuvat/ramayana-rise-of-a-legend/HO00000625/?cinema=1162)
+- **Ramayana: Rise of a Legend – BioRex Tripla, Helsinki, 18.11.2026 klo 19.45:** TEATTERIN VAHVISTAMA. BioRexin oma elokuvasivu ilmoittaa version HI EN (hindi, englanninkielinen tekstitys). Julkaisupäivä ei näy sivulla; tarkistettu 16.11.2026. [BioRex – Ramayana, Tripla Helsinki](https://biorex.fi/elokuvat/ramayana-rise-of-a-legend/?cinema_id=13)
+- **Avoin ristiriita:** Kinoon ilmoittaa Finnkino Itiksen 16.11. näytösajaksi klo 20.00, kun Finnkinon oma sivu ilmoittaa klo 20.15. Kinoon-ilmoitus säilyy KOLMANNEN OSAPUOLEN ILMOITTAMANA; Finnkinon oma tieto TEATTERIN VAHVISTAMANA. Ei oleteta, että kyse on samasta tai eri näytöksestä.
+- **Muut lähteet tarkistettu:** Kino Myyrin oma ohjelmisto 16.–25.11. sisältää Klara ja aurinko -näytöksen 18.11. klo 19.00, mutta ei muita löydettyjä intialaisia elokuvia. Kino Reginan nykyinen ohjelmistonäkymä 15.–18.11. ei näyttänyt intialaisia elokuvia. Cinema Orionin 10.11.2026 viikkokirjeen ja ajankohtaissivun tarkistus ei tuonut esiin intialaista näytöstä. [Kino Myyri – ohjelmisto](https://kinomyyri.fi/ohjelmisto/) · [Kino Regina](https://kinoregina.fi/) · [Cinema Orion – ajankohtaista](https://cinemaorion.fi/ajankohtaista/)
+- **BioRexin laajempi ohjelmistotarkistus:** Ramayanan 18.11. klo 19.45 Tripla-näytös löytyi suoraan teatterin elokuvasivulta. Muissa haetuissa BioRexin ohjelmistonäkymissä ei löytynyt uusia intialaisia näytöksiä 16.–19.11.
+- **Levittäjien sosiaalinen media:** FinBolly Movies-, FinTamil Movies- ja Rasa Entertainment -Facebook-sivuilta ei saatu tässä tarkistuksessa julkisesti tarkistettavaa uutta näytösilmoitusta. Sivujen saavutettavuus ja hakukoneindeksointi ovat rajallisia; tämä ei osoita, ettei ilmoituksia olisi julkaistu.
+- **RSS-muutos:** julkaistu uusi Ramayana-versio. Aktiivisessa näytöslistassa on nyt 12 tulevaa aikaa; aiemmat RSS-itemit säilytetään historiassa. Klara ja aurinko -itemiin ei tehty tässä kierroksessa sisältömuutosta.
