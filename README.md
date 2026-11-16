@@ -101,6 +101,12 @@ Seuraa kaikkia virallisesti nimettyjä osia ja jatkokehityksiä, mukaan lukien *
 
 Seuraa koko Baahubali-franchisea: live-action-elokuvia *Baahubali: The Beginning* ja *Baahubali: The Conclusion*, niiden yhdistelmäversiota *Baahubali: The Epic*, animaatiosarjaa *Baahubali: The Lost Legends* sekä kaikkia uusia virallisia elokuvia, jatko-osia, esiosia, spin-offeja ja muita oheistuotantoja. Seuranta kattaa erityisesti kaksiosaisen animaatioelokuvan *Baahubali: The Eternal War*: Part 1:n suunniteltu julkaisuvuosi on 2027, eikä Part 2:n julkaisupäivää ole ilmoitettu. Part 1 ja Part 2 käsitellään yhtenä kaksiosaisena hankkeena, eivät kahtena erillisenä franchise-kokonaisuutena. Ohjaaja on Ishan Shukla, esittelijä S. S. Rajamouli ja tuottajat Shobu Yarlagadda sekä Prasad Devineni. Virallinen synopsis kuvaa Amarendra Baahubalin siirtyvän tuonpuoleiseen ja joutuvan deevien ja asurojen väliseen sotaan 14 maailmassa; tämän perusteella hanke kuuluu mytologisen fantasian seurantaan. Kolmannesta live-action-elokuvasta ei kirjata hanketta ilman virallista vahvistusta. Lähteet: [Ishan Shuklan projektikuvaus](https://ishanshukla.com/baahubali-the-eternal-war-feature-2027/), [UPI, 4.11.2025](https://www.upi.com/Entertainment_News/Movies/2025/11/04/animated-Baahubali-2027-trailer/4701762288365/) ja [Arka Media Worksin The Lost Legends -sivu](https://www.arkamediaworks.com/series/baahubali-the-lost-legends).
 
+## Hakumenetelmät ja raporttien päivitysperiaate
+
+Yksittäisen median oma hakutoiminto ei ole ainoa hakukanava. Jos esimerkiksi HS:n sisäinen haku toimii puutteellisesti, käytetään täydentävänä menetelmänä Googlea tai muuta hakukonetta sivustokohtaisilla rajauksilla, kuten `site:hs.fi`. Hakutuloksesta siirrytään alkuperäiseen artikkeliin, jonka sisältö ja päiväys tarkistetaan ennen uutisen julkaisemista.
+
+Päivittäisissä raporteissa keskitytään uuteen tietoon ja olennaisiin muutoksiin. Aiemmin mainittuja muuttumattomia epävarmuuksia, selvittämättömiä yksityiskohtia tai tuloksettomia hakuja ei toisteta rutiininomaisesti. Ne nostetaan uudelleen esiin vasta, kun niihin tulee uutta tietoa tai ne ovat tarpeen uuden uutisen ymmärtämiseksi. Seurannan kattavuus säilytetään sisäisessä seurannassa ilman päivittäistä "ei muutosta" -luettelointia.
+
 ## Lähteet ja tiedon luotettavuus
 
 Haku kattaa englanninkielisten lähteiden lisäksi paikalliset ja alkuperäiskieliset elokuvamediat. Lähteinä suositaan:
